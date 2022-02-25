@@ -1,23 +1,23 @@
 ---
-title: '[!DNL Rush]'
-description: Premiere [!DNL Rush] är den första allt-i-ett-appen för videoredigering mellan olika enheter som gör det enklare än någonsin att skapa och dela onlinematerial
+title: '"[!DNL Rush]"'
+description: Premiere [!DNL Rush] är den första kompletta videoredigeringsappen för flera enheter som gör det enklare än någonsin att skapa och dela onlinematerial
 role: User
 level: Beginner, Intermediate
 exl-id: ae79e935-53e0-4873-9c6f-d464925df68f
-source-git-commit: e3982cf31ebb0dac5927baa1352447b3222785c9
+source-git-commit: fe883361639bfe2edc184cdd10dda312f747c7fb
 workflow-type: tm+mt
-source-wordcount: '243'
+source-wordcount: '241'
 ht-degree: 0%
 
 ---
 
 # [!DNL Rush]
 
-![Hero Image-självstudiekurs](../assets/Rush.jpg)
+![Tutorial Hero Image](../assets/Rush.jpg)
 
-Premiere [!DNL Rush] är den första allt-i-ett-appen för videoredigering mellan olika enheter som gör det enklare än någonsin att skapa och dela onlinematerial. Denna integrerade dator- och mobillösning synkroniserar automatiskt dina projekt och redigeringar till molnet - så att du kan arbeta var som helst, på vilken enhet som helst.
+Premiere [!DNL Rush] är den första kompletta videoredigeringsappen för flera enheter som gör det enklare än någonsin att skapa och dela onlinematerial. Denna integrerade dator- och mobillösning synkroniserar automatiskt dina projekt och redigeringar till molnet så att du kan arbeta var som helst, på vilken enhet som helst.
 
-## Bläddra i Tutorials Produkt
+## Bläddra i Tutorials
 
 <table style="table-layout:fixed">
 <tr>
@@ -28,16 +28,16 @@ Premiere [!DNL Rush] är den första allt-i-ett-appen för videoredigering mella
     <div>
    <a href="rush.md#tutorial1"><strong>Skapa en video för sociala medier</strong></a>
     </div>
-    <em>Med Adobe [!DNL Rush] kan du arbeta på vilken enhet som helst och göra professionella utskrifter tillräckligt enkelt för nybörjare</em>
+    <em>Adobe [!DNL Rush] gör att du kan arbeta på vilken enhet som helst och gör professionell produktion lätt nog för nybörjare</em>
     <br>
   </td>
   <td>
-    <img alt="Avstånd" src="../assets/Whitespacer.png" />
+    <img alt="Mellanrum" src="../assets/Whitespacer.png" />
     <div>
     <br>
   </td>
   <td>
-    <img alt="Avstånd" src="../assets/Whitespacer.png" />
+    <img alt="Mellanrum" src="../assets/Whitespacer.png" />
     <div>
     <br>
   </td>
@@ -48,25 +48,25 @@ Premiere [!DNL Rush] är den första allt-i-ett-appen för videoredigering mella
 
 >[!VIDEO](https://video.tv.adobe.com/v/326900?hidetitle=true)
 
-****
-BeskrivningBerätta med video och ljud från Adobe  [!DNL Stock]. Med Adobe [!DNL Rush] kan du arbeta på vilken enhet som helst och gör professionell utskrift tillräckligt enkel för nybörjare.
+**Beskrivning**
+Berätta en historia med video och ljud från Adobe [!DNL Stock]. Adobe [!DNL Rush] gör att du kan arbeta på vilken enhet som helst och gör professionella resultat enkelt nog för nybörjare.
 
-I den här självstudiekursen får du lära dig att:
+I den här självstudiekursen får du lära dig hur du:
 * Redigera video smidigt på dator, surfplatta och telefon
-* Behåll motivet centrerat över horisontella, fyrkantiga och vertikala formfaktorer med Auto Reframe AI-teknik
-* Motion Graphic Templates (MoGRTS) ger professionella utseenden och lättanpassningsbara titlar och nedre tredjedelar av bilden
+* Håll motivet centrerat över horisontella, kvadratiska och vertikala formfaktorer med funktionen Ändra bildruteproportioner automatiskt med AI-teknik
+* Mallar för rörelsegrafik (MoGRTS) ger professionella och anpassningsbara titlar och lägre tredjedelar
 * Exportera och publicera enkelt direkt i sociala medier
-* Öppna [!DNL Rush]-projekt i Adobe Premiere Pro
+* Öppna [!DNL Rush] projekt i Adobe Premiere Pro
 
 **Presenteras av:**
-A.J. Wood, Solutions Consultant (Digital Media)
+A.J. Wood, lösningskonsult (Digital Media)
 
 ![Rush-logotyp](../assets/ru_appicon_96.png)
 
 **[!DNL Rush]Resurser**
 
-[Lär dig mer och ](https://helpx.adobe.com/support/premiere-rush.html) Support om du vill ha fler självstudiekurser,  [nyheter](https://helpx.adobe.com/premiere-rush/user-guide.html/premiere-rush/help/whats-new.ug.html) och länkar till användarforum.
+[Utbildning och support](https://helpx.adobe.com/support/premiere-rush.html) är ditt nav för ytterligare självstudiekurser, [Nyheter](https://helpx.adobe.com/premiere-rush/user-guide.html/premiere-rush/help/whats-new.ug.html)och länkar till användarforum.
 
-**Oktober 2020-versionen**
+**Oktober 2020-utgåvan**
 
 Börja använda dessa funktioner (och mycket mer!) genom att hämta den senaste uppdateringen från Creative Cloud-datorprogrammet.
