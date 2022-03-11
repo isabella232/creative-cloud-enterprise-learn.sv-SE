@@ -1,6 +1,6 @@
 ---
-title: Plug-in-modulen Design för utskrift Anpassa en ansiktsmask
-description: Handon-projekt för att anpassa en ansiktsmask
+title: Plugin-programmet Design to Print - Anpassa en ansiktsmask
+description: Praktiskt projekt för att anpassa en ansiktsmask
 role: User
 level: Beginner, Intermediate
 exl-id: 7f755c1b-e45e-45a6-9dde-3ac81259aaf8
@@ -11,13 +11,13 @@ ht-degree: 0%
 
 ---
 
-# Plug-in-modulen Design för utskrift Anpassa en ansiktsmask
+# Plugin-programmet Design to Print - Anpassa en ansiktsmask
 
-![Hero Image-självstudiekurs](../assets/faceMaskSplash.jpg)
+![Tutorial Hero Image](../assets/faceMaskSplash.jpg)
 
-Skulle det inte vara coolt om du kunde anpassa en ansiktsmask med din egen teckning? Med pluginmodulen Adobe Design to Print kan du visualisera ditt material på hundratals Zazzle-produkter och publicera direkt på deras onlinemarknad.
+Vore det inte coolt om du kunde anpassa en ansiktsmask med din egen teckning? Med plugin-programmet Adobe Design to Print kan du visualisera dina verk på hundratals Zazzle-produkter och publicera direkt på deras onlinemarknad.
 
-## Bläddra i Tutorials för Facebook-projekt
+## Bläddra i Facebook-maskprojektet Tutorials
 
 <table style="table-layout:fixed">
 <tr>
@@ -33,10 +33,10 @@ Skulle det inte vara coolt om du kunde anpassa en ansiktsmask med din egen teckn
   </td>
   <td>
     <a href="handsonproject.md#tutorial2">
-        <img alt="Anpassa en ansiktsmask med design för utskrift" src="../assets/d2p_faceMask_sokol_thumbnail.jpg" />
+        <img alt="Anpassa en ansiktsmask med Design för utskrift" src="../assets/d2p_faceMask_sokol_thumbnail.jpg" />
     </a>
     <div>
-    <a href="handsonproject.md#tutorial2"><strong>Anpassa en ansiktsmask med design för utskrift</strong></a>
+    <a href="handsonproject.md#tutorial2"><strong>Anpassa en ansiktsmask med Design för utskrift</strong></a>
     </div>
     <em>Anpassa din egen Zazzle-ansiktsmask</em>
     <br>
@@ -48,7 +48,7 @@ Skulle det inte vara coolt om du kunde anpassa en ansiktsmask med din egen teckn
     <div>
    <a href="handsonproject.md#tutorial3"><strong>Skapa en 3D-visualisering av din ansiktsmask</strong></a>
     </div>
-    <em>Skapa en 3D-visualisering av din ansiktsmask för händelsegalleriet</em>
+    <em>Skapa en 3D-visualisering av din ansiktsmask för evenemangsgalleriet</em>
     <br>
   </td>
 </tr>
@@ -58,30 +58,30 @@ Skulle det inte vara coolt om du kunde anpassa en ansiktsmask med din egen teckn
 
 >[!VIDEO](https://video.tv.adobe.com/v/327096?hidetitle=true)
 
-****
-BeskrivningLär dig hur du installerar plugin-programmet Design to Print för Photoshop.
+**Beskrivning**
+Lär dig hur du installerar plugin-programmet Design to Print för Photoshop.
 
-I den här självstudiekursen får du lära dig att:
-* Visualisera designen på produkter som kläder, tillbehör, brevpapper och väggkonst i realtid!
+I den här självstudiekursen får du lära dig hur du:
+* Visualisera din design på produkter som kläder, tillbehör, brevpapper och väggkonst i realtid!
 * Publicera på Dazzle Online Marketplace
 
 **Presenteras av:**
 Patti Sokol, Principal Solutions Consultant (Digital Media)
 
-## Anpassa en ansiktsmask med Design till Print (7:54) {#tutorial2}
+## Anpassa en ansiktsmask med Design för utskrift (7:54) {#tutorial2}
 
 >[!VIDEO](https://video.tv.adobe.com/v/327097?hidetitle=true)
 
-****
-BeskrivningAnpassa din egen Zazzle-ansiktsmask
+**Beskrivning**
+Anpassa din egen Zazzle-ansiktsmask
 
-I den här självstudiekursen får du lära dig att:
-* Visualisera designen på produkter som kläder, tillbehör, brevpapper och väggkonst i realtid!
+I den här självstudiekursen får du lära dig hur du:
+* Visualisera din design på produkter som kläder, tillbehör, brevpapper och väggkonst i realtid!
 * Publicera på Dazzle Online Marketplace
 
-**Klicka på Bild för att ladda ned Learn Design för att skriva ut PDF**
+**Klicka på bild för att ladda ned Learn Design för att skriva ut PDF**
 
-[![Learn Design to Print](../assets/LearnDesigntoPrint_96.png)](../assets/LearnDesigntoPrint.pdf)
+[![Lär dig design för utskrift](../assets/LearnDesigntoPrint_96.png)](../assets/LearnDesigntoPrint.pdf)
 
 **Presenteras av:**
 Patti Sokol, Principal Solutions Consultant (Digital Media)
@@ -90,15 +90,15 @@ Patti Sokol, Principal Solutions Consultant (Digital Media)
 
 >[!VIDEO](https://video.tv.adobe.com/v/327098?hidetitle=true)
 
-****
-BeskrivningSkapa en 3D-visualisering av ansiktsmask för händelsegalleriet
+**Beskrivning**
+Skapa en 3D-visualisering av din ansiktsmask för evenemangsgalleriet
 
-I den här självstudiekursen får du lära dig att:
+I den här självstudiekursen får du lära dig hur du:
 * Skapa enkelt fotorealistiska 3D-visualiseringar
-* Lägg in material och styr ljussättningen - proffsigt
-* Importera material för att använda varumärket eller andra designer
+* Lägg in material och styr ljussättningen för en professionell look
+* Importera resurser för att använda ditt varumärke eller annan design
 
-**Klicka på Bild för att hämta  [!DNL Dimension] fil med 3D-modell för vit mask**
+**Klicka på bild för att hämta [!DNL Dimension] Fil med 3D-modell av vit mask**
 
 [![Jämförelsebild](../assets/whitemask_96.png)](https://stock.adobe.com/search/3d-assets?load_type=search&amp;native_visual_search=&amp;similar_content_id=&amp;is_recent_search=&amp;search_type=usertyped&amp;k=face+mask&amp;asset_id=324075591)
 

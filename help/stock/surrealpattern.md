@@ -1,6 +1,6 @@
 ---
 title: Skapa ett halvsurrealistiskt mönster med Adobe [!DNL Stock]
-description: Skapa ett vackert, sömlöst mönster baserat på surrealistiska bilder från Adobe [!DNL Stock]
+description: Skapa ett vackert sömlöst mönster baserat på surrealistiska bilder från Adobe [!DNL Stock]
 role: User
 level: Beginner, Intermediate
 thumbnail: 331825.jpg
@@ -14,6 +14,6 @@ ht-degree: 0%
 
 # Skapa ett halvsurrealistiskt mönster med Adobe [!DNL Stock]
 
-Skapa ett vackert, sömlöst mönster baserat på surrealistiska bilder från Adobe [!DNL Stock].
+Skapa ett vackert sömlöst mönster baserat på surrealistiska bilder från Adobe [!DNL Stock].
 
 >[!VIDEO](https://video.tv.adobe.com/v/331825?hidetitle=true)

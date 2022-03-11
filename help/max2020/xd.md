@@ -1,6 +1,6 @@
 ---
 title: XD
-description: Adobe XD är ett verktyg för att designa och skapa prototyper av webbplatser, appar, röstgränssnitt, spel och andra typer av digitala upplevelser
+description: Adobe XD är ett verktyg för design och prototyper av användarupplevelser för att designa webbplatser, appar, röstgränssnitt, spel och andra typer av digitala upplevelser
 role: User
 level: Beginner, Intermediate
 exl-id: 89b621a6-083c-4e1b-b23a-f4ba73e6755f
@@ -13,32 +13,32 @@ ht-degree: 0%
 
 # XD
 
-![Hero Image-självstudiekurs](../assets/XD.jpg)
+![Tutorial Hero Image](../assets/XD.jpg)
 
-Adobe XD är ett verktyg för att utforma och skapa prototyper av webbplatser, appar, röstgränssnitt, spel och andra typer av digitala upplevelser.
+Adobe XD är ett verktyg för design och prototyper av användarupplevelser för att designa webbplatser, appar, röstgränssnitt, spel och andra typer av digitala upplevelser.
 
-## Bläddra i Tutorials Produkt
+## Bläddra i Tutorials
 
 <table style="table-layout:fixed">
 <tr>
  <td>
    <a href="xd.md#tutorial1">
-      <img alt="Skapa komponenter med hovringslägen" src="../assets/Xd_hoverstates_components_thumbnail.jpg" />
+      <img alt="Skapa komponenter med hovringstillstånd" src="../assets/Xd_hoverstates_components_thumbnail.jpg" />
    </a>
     <div>
-   <a href="xd.md#tutorial1"><strong>Skapa komponenter med hovringslägen</strong></a>
+   <a href="xd.md#tutorial1"><strong>Skapa komponenter med hovringstillstånd</strong></a>
     </div>
-    <em>Skapa återanvändbara, dynamiskt skalbara knappar för dina interaktiva designer</em>
+    <em>Skapa återanvändbara, dynamiskt skalbara knappar för interaktiv design</em>
     <br>
   </td>
   <td>
     <a href="xd.md#tutorial2">
-        <img alt="Skapa och fylla i ett upprepningsrutnät" src="../assets/XD_repeatgrid_thumbnail.jpg" />
+        <img alt="Skapa och fylla i ett stödraster med upprepningar" src="../assets/XD_repeatgrid_thumbnail.jpg" />
     </a>
     <div>
-    <a href="xd.md#tutorial2"><strong>Skapa och fylla i ett upprepningsrutnät</strong></a>
+    <a href="xd.md#tutorial2"><strong>Skapa och fylla i ett stödraster med upprepningar</strong></a>
     </div>
-    <em>Förvandla ett enskilt element till upprepade stödraster med ett enkelt klick och dra</em>
+    <em>Förvandla ett enskilt element till upprepade stödraster genom att klicka och dra</em>
     <br>
   </td>
   <td>
@@ -55,85 +55,84 @@ Adobe XD är ett verktyg för att utforma och skapa prototyper av webbplatser, a
 <tr>
  <td>
     <a href="xd.md#tutorial4">
-        <img alt="Skapa en prototyp - ankarlänkar och 
-Rulla grupper" src="../assets/XD_Scrolls_Thumbnail_Murphy.jpg" />
+        <img alt="Skapa en prototyp - Fäst länkar och rullningsgrupper" src="../assets/XD_Scrolls_Thumbnail_Murphy.jpg" />
     </a>
     <div>
-    <a href="xd.md#tutorial4"><strong>Skapa en prototyp - ankarlänkar och rullningsgrupper</strong></a>
+    <a href="xd.md#tutorial4"><strong>Skapa en prototyp - Fäst länkar och rullningsgrupper</strong></a>
     </div>
     <em>Lägga till navigering och rullning i en prototyp</em>
     <br>
   </td>
   <td>
     <a href="xd.md#tutorial5">
-        <img alt="Skapa en prototyp - Interaktiva komponentlägen" src="../assets/XD_interactiveprototypes_enke.jpg" />
+        <img alt="Skapa en prototyp - interaktiva komponentlägen" src="../assets/XD_interactiveprototypes_enke.jpg" />
     </a>
     <div>
-    <a href="xd.md#tutorial5"><strong>Skapa en prototyp - Interaktiva komponentlägen</strong></a>
+    <a href="xd.md#tutorial5"><strong>Skapa en prototyp - interaktiva komponentlägen</strong></a>
     </div>
     <em>Lägga till interaktivitet och en överläggsmeny i en prototyp</em>
     <br>
   </td>
   <td>
    <a href="xd.md#tutorial6">
-      <img alt="E-post - Skapa och fylla i ett upprepningsrutnät" src="../assets/xd_repeat_torres.jpg" />
+      <img alt="E-post - Skapa och fylla i ett stödraster med upprepningar" src="../assets/xd_repeat_torres.jpg" />
    </a>
     <div>
-   <a href="xd.md#tutorial7"><strong>E-post - Skapa och fylla i ett upprepningsrutnät</strong></a>
+   <a href="xd.md#tutorial7"><strong>E-post - Skapa och fylla i ett stödraster med upprepningar</strong></a>
     </div>
-    <em>Förvandla ett enskilt element till upprepade stödraster med ett enkelt klick och dra</em>
+    <em>Förvandla ett enskilt element till upprepade stödraster genom att klicka och dra</em>
     <br>
   </td>
 </tr>
 <tr>
  <td>
     <a href="xd.md#tutorial7">
-        <img alt="E-post - Arbeta med högar" src="../assets/xd_stacks_torres.jpg" />
+        <img alt="E-post - arbeta med högar" src="../assets/xd_stacks_torres.jpg" />
     </a>
     <div>
-    <a href="xd.md#tutorial7"><strong>E-post - Arbeta med högar</strong></a>
+    <a href="xd.md#tutorial7"><strong>E-post - arbeta med högar</strong></a>
     </div>
     <em>Använd egenskapen stack för att enkelt ordna om element</em>
     <br>
   </td>
   <td>
-    <img alt="Avstånd" src="../assets/Whitespacer.png" />
+    <img alt="Mellanrum" src="../assets/Whitespacer.png" />
     <div>
     <br>
   </td>
   <td>
-    <img alt="Avstånd" src="../assets/Whitespacer.png" />
+    <img alt="Mellanrum" src="../assets/Whitespacer.png" />
     <div>
     <br>
   </td>
 </tr>
 </table>
 
-## Skapa [!UICONTROL komponenter] med hovringslägen (7:35) {#tutorial1}
+## Skapa [!UICONTROL Komponenter] med hovringstillstånd (7:35) {#tutorial1}
 
 >[!VIDEO](https://video.tv.adobe.com/v/326874?hidetitle=true)
 
-****
-BeskrivningSkapa återanvändbara, dynamiskt skalbara knappar för dina interaktiva designer.
+**Beskrivning**
+Skapa återanvändbara knappar som dynamiskt kan storleksändras för din interaktiva design.
 
-I den här självstudiekursen får du lära dig att:
-* Gör ändringar i en huvudkällkomponent så skickas ändringarna automatiskt till alla instanser av den komponenten
-* Använd komponenter för enhetlighet, tidsbesparande, färre klick
+I den här självstudiekursen får du lära dig hur du:
+* Gör ändringar i en källhuvudkomponent så överförs ändringarna automatiskt till alla förekomster av den komponenten
+* Använd komponenter för enhetlighet, tidsbesparing och färre klick
 
 **Presenteras av:**
 Michael Murphy, Senior Solutions Consultant (Digital Media)
 
-## Skapa och fylla i ett upprepningsstödraster (2:57) {#tutorial2}
+## Skapa och fylla i ett stödraster med upprepningar (2:57) {#tutorial2}
 
 >[!VIDEO](https://video.tv.adobe.com/v/326955?hidetitle=true)
 
-****
-BeskrivningFörvandla ett enskilt element till upprepade stödraster med ett enkelt klick och dra.
+**Beskrivning**
+Förvandla ett enskilt element till upprepade stödraster genom att klicka och dra.
 
-I den här självstudiekursen får du lära dig att:
-* Förbättra arbetsflödet och dra ut det rutnät du behöver - direkt
-* Infoga innehåll och data och XD monterar magiskt alla bilder och all text i stödrastret
-* Gör ändringarna en gång och använd dem där du vill, i valfri riktning
+I den här självstudiekursen får du lära dig hur du:
+* Utöka arbetsflödet och dra ut det stödraster du behöver - direkt
+* Lägg in riktigt innehåll och data så monterar XD alla bilder och text i ditt rutnät
+* Gör ändringarna en gång och använd dem var du vill, i valfri riktning
 
 **Presenteras av:**
 Ashley Dvorin, Senior Solutions Consultant (Digital Media)
@@ -142,27 +141,27 @@ Ashley Dvorin, Senior Solutions Consultant (Digital Media)
 
 >[!VIDEO](https://video.tv.adobe.com/v/326956?hidetitle=true)
 
-****
-BeskrivningAnvänd egenskapen stack för att enkelt ordna om element.
+**Beskrivning**
+Använd egenskapen stack för att enkelt ordna om element.
 
-I den här självstudiekursen får du lära dig att:
-* Bevara justering och mellanrum mellan objekt på arbetsytan även när designen ändras
+I den här självstudiekursen får du lära dig hur du:
+* Behåll justeringen och avståndet mellan objekt på arbetsytan även när designen ändras
 * Infoga nya objekt eller ändra ordning på objekt i en stapel så justeras allt automatiskt
 
 **Presenteras av:**
 Michael Murphy, Senior Solutions Consultant (Digital Media)
 
-## Skapa en prototyp - ankarlänkar och rullningsgrupper (9:55) {#tutorial4}
+## Skapa en prototyp - Fäst länkar och rullningsgrupper (9:55) {#tutorial4}
 
 >[!VIDEO](https://video.tv.adobe.com/v/326957?hidetitle=true)
 
-****
-BeskrivningLägga till navigering och rullning i en prototyp.
+**Beskrivning**
+Lägg till navigering och bläddring i en prototyp.
 
-I den här självstudiekursen får du lära dig att:
-* Lägga till länkar till prototyper med en åtgärd som låter användarna hoppa till olika punkter på samma rityta
-* Skapa aktivitetsflöden, bildspel, produktlistor med mera genom att definiera områden som rullar oberoende av resten av din design
-* Skapa grupper som rullar lodrätt, vågrätt eller båda
+I den här självstudiekursen får du lära dig hur du:
+* Lägga till länkar till prototyper med ett funktionsmakro som gör att användare kan gå till olika punkter på samma rityta
+* Skapa aktivitetsflöden, bildkaruseller, produktlistor med mera genom att definiera områden som rullar oberoende av resten av designen
+* Skapa grupper som rullar lodrätt, vågrätt eller både och
 
 **Presenteras av:**
 Michael Murphy, Senior Solutions Consultant (Digital Media)
@@ -171,51 +170,51 @@ Michael Murphy, Senior Solutions Consultant (Digital Media)
 
 >[!VIDEO](https://video.tv.adobe.com/v/326958?hidetitle=true)
 
-****
-BeskrivningLägg till interaktivitet och en överläggsmeny i en prototyp.
+**Beskrivning**
+Lägg till interaktivitet och en överläggsmeny i en prototyp.
 
-I den här självstudiekursen får du lära dig att:
-* Skapa en icke-linjär interaktiv och animerad användarupplevelse utan att behöva fler ritytor
-* Skapa flera prototyper eller interaktionsflöden i ett enda XD och publicera unika delningsbara länkar för varje flöde
+I den här självstudiekursen får du lära dig hur du:
+* Skapa en icke-linjär interaktiv och animerad användarupplevelse utan att behöva ytterligare ritytor
+* Skapa flera prototyper eller interaktionsflöden i ett enda XD-dokument och publicera unika delningslänkar för varje flöde
 
-**Presenterad av:**
+**Presenteras av:**
 Emilie Enke, Associate Solutions Consultant (Digital Media)
 
-## E-post - Skapa och fylla i ett upprepningsrutnät (4:45) {#tutorial6}
+## E-post - Skapa och fylla i ett stödraster med upprepningar (4:45) {#tutorial6}
 
 >[!VIDEO](https://video.tv.adobe.com/v/326775?hidetitle=true)
 
-****
-BeskrivningFörvandla ett enskilt element till upprepade stödraster med ett enkelt klick och dra.
+**Beskrivning**
+Förvandla ett enskilt element till upprepade stödraster genom att klicka och dra.
 
-I den här självstudiekursen får du lära dig att:
-* Förbättra arbetsflödet och dra ut det rutnät du behöver - direkt
-* Infoga innehåll och data och XD monterar magiskt alla bilder och all text i stödrastret
-* Gör ändringarna en gång och använd dem där du vill, i valfri riktning
+I den här självstudiekursen får du lära dig hur du:
+* Utöka arbetsflödet och dra ut det stödraster du behöver - direkt
+* Lägg in riktigt innehåll och data så monterar XD alla bilder och text i ditt rutnät
+* Gör ändringarna en gång och använd dem var du vill, i valfri riktning
 
 **Presenteras av:**
-Victoria Torres, Solutions Consultant (Digital Media)
+Victoria Torres, lösningskonsult (Digital Media)
 
-## E-post - Arbeta med högar (3:38) {#tutorial7}
+## E-post - arbeta med högar (3:38) {#tutorial7}
 
 >[!VIDEO](https://video.tv.adobe.com/v/326759?hidetitle=true)
 
-****
-BeskrivningAnvänd egenskapen stack för att enkelt ordna om element.
+**Beskrivning**
+Använd egenskapen stack för att enkelt ordna om element.
 
-I den här självstudiekursen får du lära dig att:
-* Bevara justering och mellanrum mellan objekt på arbetsytan även när designen ändras
+I den här självstudiekursen får du lära dig hur du:
+* Behåll justeringen och avståndet mellan objekt på arbetsytan även när designen ändras
 * Infoga nya objekt eller ändra ordning på objekt i en stapel så justeras allt automatiskt
 
 **Presenteras av:**
-Victoria Torres, Solutions Consultant (Digital Media)
+Victoria Torres, lösningskonsult (Digital Media)
 
-![XD logotyp](../assets/xd_appicon_96.png)
+![XD-logotyp](../assets/xd_appicon_96.png)
 
-**XD**
+**XD-resurser**
 
-[Lär dig mer och ](https://helpx.adobe.com/support/xd.html) Support om du vill ha fler självstudiekurser,  [nyheter](https://helpx.adobe.com/xd/user-guide.html/xd/help/whats-new.ug.html) och länkar till användarforum.
+[Utbildning och support](https://helpx.adobe.com/support/xd.html) är ditt nav för ytterligare självstudiekurser, [Nyheter](https://helpx.adobe.com/xd/user-guide.html/xd/help/whats-new.ug.html)och länkar till användarforum.
 
-**Oktober 2020-versionen**
+**Oktober 2020-utgåvan**
 
 Börja använda dessa funktioner (och mycket mer!) genom att hämta den senaste uppdateringen från Creative Cloud-datorprogrammet.

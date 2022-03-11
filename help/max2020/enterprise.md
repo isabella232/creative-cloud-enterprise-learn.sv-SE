@@ -1,6 +1,6 @@
 ---
-title: Enterprise Administration
-description: Hantera Adobe och resurser i hela organisationen
+title: Företagsadministration
+description: Hantera hela din organisations behörigheter och resurser för Adobe
 role: User
 level: Beginner, Intermediate
 exl-id: 1b8f0957-b1f9-4bae-9466-a1dcf585071a
@@ -11,13 +11,13 @@ ht-degree: 3%
 
 ---
 
-# Enterprise Administration
+# Företagsadministration
 
-![Hero Image-självstudiekurs](../assets/hero_cce.jpg)
+![Tutorial Hero Image](../assets/hero_cce.jpg)
 
-Hantera Adobe och resurser i hela organisationen.
+Hantera hela din organisations behörigheter och resurser för Adobe.
 
-## Bläddra i Tutorials Företagsadministration
+## Bläddra i Enterprise Administration Tutorials
 
 <table style="table-layout:fixed">
 <tr>
@@ -28,16 +28,16 @@ Hantera Adobe och resurser i hela organisationen.
     <div>
    <a href="enterprise.md#tutorial1"><strong>Adobe Fonts</strong></a>
     </div>
-    <em>Upptäck de närmare 2000 familjerna i Adobe Fonts och hur enkelt det är att använda Adobe Fonts-tjänsten</em>
+    <em>Utforska de nästan 200 familjerna i Adobe Fonts och hur lättanvänd tjänsten Adobe Fonts är</em>
     <br>
   </td>
   <td>
-    <img alt="Avstånd" src="../assets/Whitespacer.png" />
+    <img alt="Mellanrum" src="../assets/Whitespacer.png" />
     <div>
     <br>
   </td>
   <td>
-    <img alt="Avstånd" src="../assets/Whitespacer.png" />
+    <img alt="Mellanrum" src="../assets/Whitespacer.png" />
     <div>
     <br>
   </td>
@@ -50,12 +50,12 @@ Hantera Adobe och resurser i hela organisationen.
 
 **Beskrivning:**
 
-Utforska de närmare 2000 familjerna i Adobe Fonts och hur enkelt det är att använda Adobe Fonts-tjänsten.
+Utforska de nästan 200 familjerna i Adobe Fonts och hur lättanvänd tjänsten Adobe Fonts är.
 
-I den här självstudiekursen får du lära dig att:
-* Använd det kraftfulla webbläsargränssnittet för att snabbt och enkelt hitta rätt typsnitt
-* Spara tid och pengar genom att använda integreringar med Creative Cloud
-* Hantera alla typsnitt på ett och samma ställe i Adobe Admin Console
+I den här självstudiekursen får du lära dig hur du:
+* Använd det kraftfulla webbgränssnittet för att snabbt och enkelt hitta rätt teckensnitt
+* Spara tid och pengar genom att använda inbyggda Creative Cloud-integreringar
+* Hantera alla teckensnitt på ett och samma ställe i Adobe Admin Console
 
 **Presenteras av:**
 
@@ -65,4 +65,4 @@ Todd Burke, Principal Solutions Consultant (Digital Media)
 
 [Användarhandbok för Adobe Fonts](https://helpx.adobe.com/fonts/user-guide.html)
 
-[Enterprise Admin Guide](https://helpx.adobe.com/enterprise/admin-guide.html)
+[Handbok för företagsadministratörer](https://helpx.adobe.com/enterprise/admin-guide.html)

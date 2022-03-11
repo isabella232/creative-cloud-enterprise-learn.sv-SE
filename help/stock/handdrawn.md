@@ -1,6 +1,6 @@
 ---
-title: Lägga till en handritad estetisk bild i Adobe [!DNL Stock] bilder
-description: Förbättra din kreativa marknadsföring med unika tekniker som ger djup och dimension åt dina bilder med Photoshop för iPad
+title: Lägg till en handritad estetik i Adobe [!DNL Stock] bilder
+description: Förstärk marknadsföringen med unika tekniker som ger djup och dimension åt bilderna med Photoshop för iPad
 role: User
 level: Beginner, Intermediate
 thumbnail: 331819.jpg
@@ -12,8 +12,8 @@ ht-degree: 0%
 
 ---
 
-# Lägga till en handritad estetisk bild till Adobe [!DNL Stock]-bilder
+# Lägg till en handritad estetik i Adobe [!DNL Stock] bilder
 
-Lyft upp den kreativa marknadsföringen med unika tekniker som ger djup och dimension åt bilderna med Photoshop för iPad.
+Förstärk marknadsföringen med unika tekniker som ger djup och dimension åt bilderna med Photoshop för iPad.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331819?hidetitle=true)

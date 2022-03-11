@@ -1,6 +1,6 @@
 ---
 title: Skapa inspirerande humörtavlor på nolltid med Adobe [!DNL Stock]
-description: Skapa en projektstämningskort för att förmedla information, idéer, bilder och färgpaletter till team/kunder
+description: Skapa en stämningstavla för projekt för att vidarebefordra information, idéer, bilder och färgpaletter till team/kunder
 role: User
 level: Beginner, Intermediate
 thumbnail: 331816.jpg
@@ -14,6 +14,6 @@ ht-degree: 0%
 
 # Skapa inspirerande humörtavlor på nolltid med Adobe [!DNL Stock]
 
-Skapa en humörpanel för projekt och förmedla information, idéer, bilder och färgpaletter till team/kunder.
+Skapa en projektstämningstavla för att förmedla information, idéer, bilder och färgpaletter till team/kunder.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331816?hidetitle=true)

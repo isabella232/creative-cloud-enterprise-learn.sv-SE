@@ -1,6 +1,6 @@
 ---
 title: CC Libraries
-description: Behåll ert material och era projekt inom varumärken
+description: Ha dina resurser till hands och dina projekt på plats
 role: User
 level: Beginner, Intermediate
 exl-id: e68a8d5b-3dca-4ac8-87d1-b31dbe0e13ce
@@ -13,11 +13,11 @@ ht-degree: 2%
 
 # CC Libraries
 
-![Hero Image-självstudiekurs](../assets/CCLibs.jpg)
+![Tutorial Hero Image](../assets/CCLibs.jpg)
 
-Behåll ert material och era projekt varumärkesanpassade.
+Ha dina resurser till hands och dina projekt på ert varumärke.
 
-## Bläddra i Tutorials Produkt
+## Bläddra i Tutorials
 
 <table style="table-layout:fixed">
 <tr>
@@ -28,7 +28,7 @@ Behåll ert material och era projekt varumärkesanpassade.
     <div>
    <a href="cclibraries.md#tutorial1"><strong>Skapa CC Libraries</strong></a>
     </div>
-    <em>Med Adobe Creative Cloud Libraries kan du hantera, ordna och få tillgång till dina logotyper, färger med mera i dina favoritprogram i Creative Cloud</em>
+    <em>Med Adobe Creative Cloud Libraries kan du hantera, ordna och få tillgång till dina logotyper, färger och annat i dina Creative Cloud-favoritprogram</em>
     <br>
   </td>
    <td>
@@ -38,11 +38,11 @@ Behåll ert material och era projekt varumärkesanpassade.
     <div>
    <a href="cclibraries.md#tutorial2"><strong>Dela CC Libraries</strong></a>
     </div>
-    <em>Arbeta effektivare, säkra den kreativa enhetligheten och håll enkelt kontakten med teamet</em>
+    <em>Arbeta effektivare, skapa enhetlig design och håll dig enkelt uppdaterad med teamet</em>
     <br>
   </td>
   <td>
-    <img alt="Avstånd" src="../assets/Whitespacer.png" />
+    <img alt="Mellanrum" src="../assets/Whitespacer.png" />
     <div>
     <br>
   </td>
@@ -53,25 +53,25 @@ Behåll ert material och era projekt varumärkesanpassade.
 
 >[!VIDEO](https://video.tv.adobe.com/v/326802?hidetitle=true)
 
-****
-BeskrivningMed Adobe Creative Cloud Libraries kan du hantera, ordna och komma åt logotyper, färger och annat i dina favoritprogram för Creative Cloud.
+**Beskrivning**
+Med Adobe Creative Cloud Libraries kan du hantera, ordna och få tillgång till dina logotyper, färger och annat i dina Creative Cloud-favoritprogram.
 
-I den här självstudiekursen får du lära dig att:
-* Behåll ert material och era projekt inom varumärken
+I den här självstudiekursen får du lära dig hur du:
+* Ha dina resurser till hands och dina projekt på plats
 * Nytt! Fullständig integrering med Adobe XD
 
 **Presenteras av:**
 Ashley Dvorin, Senior Solutions Consultant (Digital Media)
 
-## Dela CC Libraries (4:14) {#tutorial2}
+## Dela CC-bibliotek (4:14) {#tutorial2}
 
 >[!VIDEO](https://video.tv.adobe.com/v/326803?hidetitle=true)
 
-****
-BeskrivningArbeta effektivare, säkerställ kreativ enhetlighet och håll enkelt kontakten med teamet.
+**Beskrivning**
+Arbeta effektivare, skapa enhetlig design och håll dig enkelt uppdaterad med teamet.
 
-I den här självstudiekursen får du lära dig att:
-* Behåll ert material och era projekt inom varumärken
+I den här självstudiekursen får du lära dig hur du:
+* Ha dina resurser till hands och dina projekt på plats
 * Samarbeta enkelt i projekt direkt från dina favoritprogram
 
 **Presenteras av:**
@@ -81,8 +81,8 @@ Ashley Dvorin, Senior Solutions Consultant (Digital Media)
 
 **CC Libraries-resurser**
 
-[Lär dig mer och ](https://helpx.adobe.com/creative-cloud/help/libraries.html) support för fler självstudiekurser, nyheter och länkar till communityforum.
+[Utbildning och support](https://helpx.adobe.com/creative-cloud/help/libraries.html) är ditt nav för ytterligare självstudiekurser, Nyheter och länkar till användarforum.
 
-**Oktober 2020-versionen**
+**Oktober 2020-utgåvan**
 
 Börja använda dessa funktioner (och mycket mer!) genom att hämta den senaste uppdateringen från Creative Cloud-datorprogrammet.

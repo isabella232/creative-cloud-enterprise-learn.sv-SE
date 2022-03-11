@@ -1,6 +1,6 @@
 ---
-title: Ge typografin ett lyft med masker och animeringar
-description: Ge liv åt din text med element från Adobe [!DNL Stock] och animeringsstilar från After Effects
+title: Ge typografin en personlig prägel med masker och animeringar
+description: Ge liv åt ditt material med element från Adobe [!DNL Stock] och animeringsformat från After Effects
 role: User
 level: Beginner, Intermediate
 thumbnail: 331807.jpg
@@ -12,8 +12,8 @@ ht-degree: 0%
 
 ---
 
-# Ge typografin ett lyft med masker och animeringar
+# Ge typografin en personlig prägel med masker och animeringar
 
-Ge liv åt din text med element från Adobe [!DNL Stock] och animeringsstilar från After Effects.
+Ge liv åt ditt material med element från Adobe [!DNL Stock] och animeringsformat från After Effects.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331807?hidetitle=true)

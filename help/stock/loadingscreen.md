@@ -1,6 +1,6 @@
 ---
 title: Anpassa en inläsningsskärmanimering med Adobe [!DNL Stock] och XD
-description: Anpassa vektorgrafik från Adobe [!DNL Stock] för att skapa en kylig inläsningsskärmanimering för en mobilapp
+description: Anpassa vektorgrafik från Adobe [!DNL Stock] för att skapa en kylig skärmanimering för en mobilapp
 role: User
 level: Beginner, Intermediate
 thumbnail: 331814.jpg
@@ -14,6 +14,6 @@ ht-degree: 0%
 
 # Anpassa en inläsningsskärmanimering med Adobe [!DNL Stock] och XD
 
-Anpassa vektorgrafik från Adobe [!DNL Stock] för att skapa en kyld inläsningsskärmanimering för en mobilapp.
+Anpassa vektorgrafik från Adobe [!DNL Stock] för att skapa en kylig skärmanimering för en mobilapp.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331814?hidetitle=true)

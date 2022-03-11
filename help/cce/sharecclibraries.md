@@ -1,6 +1,6 @@
 ---
 title: Dela varumärkesresurser med Creative Cloud Libraries for teams
-description: Lär dig hur du skapar, använder och delar varumärkesresurser för din grupp eller ditt team med hjälp av Creative Cloud Libraries for teams
+description: Lär dig hur du skapar, använder och delar varumärkesresurser för en grupp eller ett team med hjälp av Creative Cloud Libraries for teams
 role: User
 level: Beginner, Intermediate
 kt: 8211
@@ -13,13 +13,13 @@ ht-degree: 0%
 
 ---
 
-# Dela varumärkesmaterial med Creative Cloud Libraries for teams
+# Dela varumärkesresurser med Creative Cloud Libraries for teams
 
-I den här videosjälvstudiekursen lär du dig hur du skapar, använder och delar varumärkesresurser för din grupp eller ditt team med hjälp av Creative Cloud Libraries for teams. Resurser i Creative Cloud Libraries for teams lagras på en central plats och är inte knutna till det enskilda användarkontot. Du kan identifiera teambibliotek med ikonen ![Building image](assets/Smock_Building_18_N.png).
+I den här videosjälvstudiekursen lär du dig skapa, använda och dela varumärkesresurser för din grupp eller ditt team med hjälp av Creative Cloud Libraries for teams. Resurser i Creative Cloud Libraries for teams lagras centralt och är inte knutna till det enskilda användarkontot. Du kan identifiera teambibliotek med ![bygga bild](assets/Smock_Building_18_N.png) -ikonen.
 
 >[!TIP]
 >
->Använd Creative Cloud Libraries för team när ditt företag vill behålla äganderätten till ditt kreativa material. Några exempel är: ECDC:s formatguide, delade projekt och gränssnittsdesignelement.
+>Använd Creative Cloud Libraries for teams när som helst. Ditt företag måste behålla äganderätten till mediefilerna. Några exempel: företagsstilguide, delade projekt och gränssnittselement.
 
 <br> 
 

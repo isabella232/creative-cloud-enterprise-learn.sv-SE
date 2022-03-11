@@ -13,11 +13,11 @@ ht-degree: 0%
 
 # Photoshop på iPad
 
-![Hero Image-självstudiekurs](../assets/PSoniPad.jpg)
+![Tutorial Hero Image](../assets/PSoniPad.jpg)
 
-Photoshop är världens bästa program för bildbehandling och grafisk design, vilket ger obegränsad kreativitet för proffs i alla slags enheter. Nu kan vem som helst skapa vad de vill, var inspirationen än slår till. Om du kan tänka dig det kan du klara det med Photoshop.
+Photoshop är världens bästa program för bildbehandling och grafisk design, vilket ger obegränsat med kreativitet för proffs på olika enheter. Nu kan vem som helst skapa vad som helst, var som helst. Om du kan tro det, kan du göra det med Photoshop.
 
-## Bläddra i Tutorials Produkt
+## Bläddra i Tutorials
 
 <table style="table-layout:fixed">
 <tr>
@@ -28,16 +28,16 @@ Photoshop är världens bästa program för bildbehandling och grafisk design, v
     <div>
    <a href="photoshopipad.md#tutorial1"><strong>Introduktion till Photoshop på iPad</strong></a>
     </div>
-    <em>Se en demo och lär dig några av de nya funktionerna i Photoshop för användning i Apple iPad</em>
+    <em>Se en gränssnittsdemo och lär dig några av funktionerna i Photoshop som har förnyats för användning i Apple iPad</em>
     <br>
   </td>
   <td>
-    <img alt="Avstånd" src="../assets/Whitespacer.png" />
+    <img alt="Mellanrum" src="../assets/Whitespacer.png" />
     <div>
     <br>
   </td>
   <td>
-    <img alt="Avstånd" src="../assets/Whitespacer.png" />
+    <img alt="Mellanrum" src="../assets/Whitespacer.png" />
     <div>
     <br>
   </td>
@@ -48,24 +48,24 @@ Photoshop är världens bästa program för bildbehandling och grafisk design, v
 
 >[!VIDEO](https://video.tv.adobe.com/v/326899?hidetitle=true)
 
-****
-BeskrivningDemo av gränssnittet och lär dig några av de nya funktionerna i Photoshop för användning i Apple iPad.
+**Beskrivning**
+Ta en rundtur i gränssnittet och lär dig några nya funktioner i Photoshop som har förnyats för användning i Apple iPad.
 
-I den här självstudiekursen får du lära dig att:
+I den här självstudiekursen får du lära dig hur du:
 * Kom åt dina favoritverktyg från Photoshop på
-* Exakt redigering på mobilen utan att ge avkall på kvaliteten
-* Mer engagerande och naturtrogna upplevelser
-* Smidigt arbetsflöde med Cloud Docs
+* Exakt redigering på mobilen utan att kompromissa med kvaliteten
+* Mer engagerande och naturlig upplevelse
+* Smidigt arbetsflöde med molndokument
 
 **Presenteras av:**
-Dan Armstrong, Solutions Consultant (Digital Media)
+Dan Armstrong, lösningskonsult (Digital Media)
 
 ![Photoshop på iPad-logotypen](../assets/ps_appicon_96.png)
 
 **Photoshop på iPad Resources**
 
-[Lär dig mer och ](https://helpx.adobe.com/support/photoshop.html) support för fler självstudiekurser och länkar till användarforum.
+[Utbildning och support](https://helpx.adobe.com/support/photoshop.html) är navet för ytterligare självstudiekurser och länkar till användarforum.
 
-**Oktober 2020-versionen**
+**Oktober 2020-utgåvan**
 
 Börja använda dessa funktioner (och mycket mer!) genom att hämta den senaste uppdateringen från Creative Cloud-datorprogrammet.

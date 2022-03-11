@@ -1,6 +1,6 @@
 ---
-title: Skapa ett 3D-collage för en förhandsgranskning med Adobe [!DNL Stock] bilder
-description: Designa ett collage i Adobe Illustrator som har en iögonfallande 3D-effekt från bilder i Adobe [!DNL Stock]
+title: Skapa ett 3D-collage för en affisch med Adobe [!DNL Stock] bilder
+description: Designa ett collage i Adobe Illustrator med en iögonfallande 3D-effekt från bilder i Adobe [!DNL Stock]
 role: User
 level: Beginner, Intermediate
 thumbnail: 331805.jpg
@@ -12,8 +12,8 @@ ht-degree: 0%
 
 ---
 
-# Skapa ett 3D-collage för en förhandsgranskning med Adobe [!DNL Stock]-bilder
+# Skapa ett 3D-collage för en affisch med Adobe [!DNL Stock] bilder
 
-Skapa affischer som drar till sig uppmärksamheten. Hitta bilderna i Adobe [!DNL Stock] och designa ett collage i Adobe Illustrator som har en iögonfallande 3D-effekt.
+Skapa affischer som drar till sig uppmärksamhet. Hitta bilder i Adobe [!DNL Stock] och designa ett collage i Adobe Illustrator med en iögonfallande 3D-effekt.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331805?hidetitle=true)

@@ -1,6 +1,6 @@
 ---
 title: Sök i Adobe [!DNL Stock] licenshistorik
-description: Lär dig hur du snabbt söker i din organisations Adobe [!DNL Stock] licenshistorik i Creative Cloud for enterprise
+description: Läs om hur du snabbt söker i organisationens Adobe [!DNL Stock] licenshistorik i Creative Cloud för företag
 role: User
 level: Beginner
 thumbnail: kt-8212.jpg
@@ -13,8 +13,8 @@ ht-degree: 0%
 
 ---
 
-# Sök i licenshistorik för Adobe [!DNL Stock]
+# Sök i Adobe [!DNL Stock] licenshistorik
 
-I den här videosjälvstudiekursen får du lära dig hur du snabbt söker i din organisations licenshistorik för Adobe [!DNL Stock] i Creative Cloud for enterprise.
+I den här videosjälvstudiekursen får du lära dig hur du snabbt söker i organisationens Adobe [!DNL Stock] licenshistorik i Creative Cloud för företag.
 
 >[!VIDEO](https://video.tv.adobe.com/v/335327?hidetitle=true)

@@ -1,6 +1,6 @@
 ---
-title: Creative Cloud för företagsdistributionsvideor
-description: Få aktuell information om hur du driftsätter och hanterar företagsappar i Creative Cloud
+title: Videor om Creative Cloud for enterprise-driftsättning
+description: Få information om hur du driftsätter och hanterar Creative Cloud for enterprise-program
 role: User
 level: Beginner, Intermediate
 exl-id: 9533fb1f-a2cc-4c06-b701-67c75a60dbaf
@@ -11,14 +11,14 @@ ht-degree: 0%
 
 ---
 
-# Ämnen för driftsättning och hantering av Creative Cloud for enterprise
+# Creative Cloud for enterprise - driftsätt och hantera ämnen
 
 ![Creative Cloud Hero Image](../assets/CCEbanner.png)
 
-Creative Cloud for enterprise stöder anpassade driftsättningar och flexibla licensavstämningar och fungerar med andra företagserbjudanden på Adobe.
+Creative Cloud for enterprise stöder anpassad driftsättning och flexibel licenshantering, och det fungerar med andra företagserbjudanden från Adobe.
 
-* [Förstå förfallodatum för serienummer för Creative Cloud for enterprise och Acrobat ](cceserial.md)
-Läs mer om utgångsdatum för serienummer för Creative Cloud for enterprise och Acrobat.
+* [Förstå när serienummer för Creative Cloud for enterprise och Acrobat förfaller](cceserial.md)
+Läs mer om hur du använder serienummer i Creative Cloud for enterprise och Acrobat.
 
-* [Ska serienummer upphöra? Varför är det dags för namngiven användarlicensiering](nameduserlicensing.md)
-Läs om hur IT-administratörer med Named User Licensing (NUL) kan driftsätta och hantera Adobe-verktyg med Admin Console och ge slutanvändare tillgång till kreativa program och produktivitetsprogram i världsklass och Adobe Cloud-tjänster, även om hela Adobe är en fjärranställd.
+* [Utgår serienummer? Därför är det dags för namngiven användarlicensiering](nameduserlicensing.md)
+Läs om hur licensiering av Adobe-produkter via namngiven användare-licensiering (NUL) gör det möjligt för IT-administratörer att enkelt driftsätta och hantera Adobe-verktyg med hjälp av Admin Console och ger slutanvändare tillgång till högklassiga program för kreativitet och produktivitet samt Adobe Cloud-tjänster, även om hela arbetsstyrkan är på distans.

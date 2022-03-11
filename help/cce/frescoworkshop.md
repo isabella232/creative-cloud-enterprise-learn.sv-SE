@@ -1,6 +1,6 @@
 ---
 title: Prova på Fresco på iPad (och iPhone)
-description: Utforska en helt ny värld av digital ritning och målning med Adobe Fresco i denna 15 minuter långa praktiska workshop
+description: Utforska en helt ny värld av digitalteckning och målning med Adobe Fresco i denna 15 minuter långa praktiska verkstad
 role: User
 level: Beginner, Intermediate
 kt: 8039
@@ -15,12 +15,12 @@ ht-degree: 0%
 
 # Prova på Fresco på iPad (och iPhone)
 
-Utforska en helt ny värld av digital ritning och målning med Adobe Fresco i denna 15 minuter långa praktiska workshop. Lär dig arbeta snabbt med lager och urklippsmasker för att anpassa färg och texturer till en grundform. Följ med designern/utvecklaren Chris Converse och återskapa en del av en stillbildsbild med Fresco och Adobe Stock.
+Utforska en helt ny värld av digitalteckning och målning med Adobe Fresco i denna 15 minuter långa praktiska verkstad. Lär dig snabbt att arbeta med lager och urklippsmasker för att anpassa färg och texturer till en grundform. Följ med och designern/utvecklaren Chris Converse för att återskapa en del av en stilleben-illustration med Fresco och Adobe Stock.
 
 >[!VIDEO](https://video.tv.adobe.com/v/333804?hidetitle=true)
 
 <br> 
 
-[**Ladda ned PDF-handbok för snabb referens**](../quick-reference/Frescoworkshop.pdf)
+[**Ladda ned Quick Reference PDF Guide**](../quick-reference/Frescoworkshop.pdf)
 
-[![Bild av första sidan i snabbreferenshandboken](assets/FrescoworkshopPage1.png)](../quick-reference/Frescoworkshop.pdf)
+[![Bild av första sidan i snabbguiden](assets/FrescoworkshopPage1.png)](../quick-reference/Frescoworkshop.pdf)

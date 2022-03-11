@@ -1,6 +1,6 @@
 ---
-title: Animera en Adobe [!DNL Stock] vektorbild i Photoshop
-description: Lägg in animeringar i nyhetsbrevets grafik med redigerbara vektorer för Adobe [!DNL Stock]
+title: Animera en Adobe [!DNL Stock] vektorillustration i Photoshop
+description: Få animering i nyhetsbrevets grafik med redigerbara vektorer för Adobe [!DNL Stock]
 role: User
 level: Beginner, Intermediate
 thumbnail: 331839.jpg
@@ -12,8 +12,8 @@ ht-degree: 0%
 
 ---
 
-# Animera en Adobe [!DNL Stock]-vektorbild i Photoshop
+# Animera en Adobe [!DNL Stock] vektorillustration i Photoshop
 
-Lägg in animeringar i nyhetsbrevsgrafiken med redigerbara vektorer för Adobe [!DNL Stock].
+Få animering i nyhetsbrevets grafik med redigerbara vektorer för Adobe [!DNL Stock].
 
 >[!VIDEO](https://video.tv.adobe.com/v/331839?hidetitle=true)

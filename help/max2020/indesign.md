@@ -1,6 +1,6 @@
 ---
 title: InDesign
-description: Skapa engagerande digitala upplevelser och trycksaker, från e-böcker och elektroniska tidskrifter till böcker, rapporter och rapporter
+description: Skapa engagerande digitala upplevelser och trycksaker - från e-böcker och elektroniska tidskrifter till böcker, rapporter och informationsdokument
 role: User
 level: Beginner, Intermediate
 exl-id: eae51aea-4c17-4356-bfb0-720f87597ef7
@@ -13,11 +13,11 @@ ht-degree: 0%
 
 # InDesign
 
-![Hero Image-självstudiekurs](../assets/InDesign.jpg)
+![Tutorial Hero Image](../assets/InDesign.jpg)
 
-Det branschledande programmet för att skapa snygga dokument för tryck och digital publicering. Skapa engagerande digitala upplevelser och trycksaker, från e-böcker och elektroniska tidskrifter till böcker, rapporter och rapporter.
+Det branschledande programmet för att skapa snygga dokument för tryck och digital publicering. Skapa engagerande digitala upplevelser och trycksaker - från e-böcker och elektroniska tidskrifter till böcker, rapporter och rapporter.
 
-## Bläddra i Tutorials Produkt
+## Bläddra i Tutorials
 
 <table style="table-layout:fixed">
 <tr>
@@ -43,34 +43,33 @@ Det branschledande programmet för att skapa snygga dokument för tryck och digi
   </td>
   <td>
     <a href="indesign.md#tutorial3">
-        <img alt="Importera PDF-kommentarer från ett dokument 
-Molngranskning" src="../assets/indesign_pdfcomments_murphy_thumbnail.jpg" />
+        <img alt="Importera PDF-kommentarer från en Document Cloud Review" src="../assets/indesign_pdfcomments_murphy_thumbnail.jpg" />
     </a>
     <div>
-    <a href="indesign.md#tutorial3"><strong>Importera PDF-kommentarer från en Document Cloud-granskning</strong></a>
+    <a href="indesign.md#tutorial3"><strong>Importera PDF-kommentarer från en Document Cloud Review</strong></a>
     </div>
-    <em>Importera kommentarer från en PDF direkt till InDesign och lägg snabbt in begärda ändringar</em>
+    <em>Importera kommentarer från PDF direkt till InDesign och tillämpa snabbt begärda ändringar</em>
     <br>
   </td>
 </tr>
 <tr>
 <td>
    <a href="indesign.md#tutorial4">
-      <img alt="Lägg till videofil i InDesign-dokument" src="../assets/indesign_video_sokol_thumbnail.jpg" />
+      <img alt="Lägga till en videofil i ett InDesign-dokument" src="../assets/indesign_video_sokol_thumbnail.jpg" />
    </a>
     <div>
-   <a href="indesign.md#tutorial4"><strong>Lägg till videofil i InDesign-dokument</strong></a>
+   <a href="indesign.md#tutorial4"><strong>Lägga till en videofil i ett InDesign-dokument</strong></a>
     </div>
-    <em>Lägg till video i InDesign. Utdata till PDF och publicera online</em>
+    <em>Lägg till videoklipp i InDesign. Spara i PDF och publicera online</em>
     <br>
   </td>
  <td>
-    <img alt="Avstånd" src="../assets/Gray_thumbnail.png" />
+    <img alt="Mellanrum" src="../assets/Gray_thumbnail.png" />
     <div>
     <br>
  </td>
  <td>
-    <img alt="Avstånd" src="../assets/Gray_thumbnail.png" />
+    <img alt="Mellanrum" src="../assets/Gray_thumbnail.png" />
     <div>
     <br>
  </td>
@@ -81,13 +80,13 @@ Molngranskning" src="../assets/indesign_pdfcomments_murphy_thumbnail.jpg" />
 
 >[!VIDEO](https://video.tv.adobe.com/v/326818?hidetitle=true)
 
-****
-BeskrivningGenerera QR-kod som länkar till en webbplats.
+**Beskrivning**
+Generera QR-kod som länkar till en webbplats.
 
-I den här självstudiekursen får du lära dig mer om:
-* Ge åtkomst till webbmaterial via mobila enheter utan att behöva lämna in uppgifter
-* Gör kunderna trygga
-* Digitalt innebär att det är enkelt att hålla innehållet uppdaterat
+I den här självstudiekursen får du lära dig hur:
+* Ge praktisk åtkomst till webbinnehåll via mobila enheter
+* Få kunderna att känna sig trygga
+* Digitalt innebär att det är enkelt att hålla innehållet aktuellt
 
 **Presenteras av:**
 Patti Sokol, Principal Solutions Consultant (Digital Media)
@@ -96,60 +95,60 @@ Patti Sokol, Principal Solutions Consultant (Digital Media)
 
 >[!VIDEO](https://video.tv.adobe.com/v/326824?hidetitle=true)
 
-****
-BeskrivningInDesign Share for Review ger en ännu smidigare kreativ granskningsupplevelse för designers och deras teammedlemmar.
+**Beskrivning**
+InDesign Dela för granskning är en ännu smidigare granskningsfunktion för designers och deras teammedlemmar.
 
-I den här självstudiekursen får du lära dig att:
-* Starta en granskning direkt från InDesign utan att behöva skapa en PDF-fil
-* Granska och kommentera från en webbläsare
-* Samla in feedback från olika intressenter på ett och samma ställe
-* Hantera feedback i appen där ändringar kan göras direkt.
+I den här självstudiekursen får du lära dig hur du:
+* Starta en granskning direkt från InDesign utan att behöva skapa ett PDF
+* Granska och kommentera i en webbläsare
+* Samla in feedback från flera intressenter på ett och samma ställe
+* Hantera feedback i appen där ändringar kan göras omedelbart.
 
-**Jämförelse av gransknings- och kommentaralternativ i Adobe PDF**
+**Adobe Review and Comment Options Comparison PDF**
 
 [![Jämförelsebild](../assets/ComparisonPDF_thumbnail_96.png)](../assets/Adobe_Review_and_Comment_Comparisons.pdf)
 
 **Presenteras av:**
-Emily Palmer, Solutions Consultant (Digital Media)
+Emily Palmer, lösningskonsult (Digital Media)
 
 ## Importera PDF-kommentarer från en Document Cloud-granskning (4:52) {#tutorial3}
 
 >[!VIDEO](https://video.tv.adobe.com/v/326959?hidetitle=true)
 
-****
-BeskrivningImportera kommentarer från en PDF direkt till InDesign och lägg snabbt in begärda ändringar.
+**Beskrivning**
+Importera kommentarer från PDF direkt till InDesign och tillämpa snabbt begärda ändringar.
 
-I den här självstudiekursen får du lära dig att:
-* Stöd för befintliga arbetsflöden för PDF-kommentarer
-* Fungerar för PDF-filer som kombineras från flera källor
+I den här självstudiekursen får du lära dig hur du:
+* Stöd för kommentarsarbetsflöden i PDF
+* Verk för PDF kombinerat från olika källor
 
-**Jämförelse av gransknings- och kommentaralternativ i Adobe PDF**
+**Adobe Review and Comment Options Comparison PDF**
 
 [![Jämförelsebild](../assets/ComparisonPDF_thumbnail_96.png)](../assets/Adobe_Review_and_Comment_Comparisons.pdf)
 
 **Presenteras av:**
 Michael Murphy, Senior Solutions Consultant (Digital Media)
 
-## Lägg till videofil i InDesign-dokument (5:58) {#tutorial4}
+## Lägga till en videofil i ett InDesign-dokument (5:58) {#tutorial4}
 
 >[!VIDEO](https://video.tv.adobe.com/v/326757?hidetitle=true)
 
-****
-BeskrivningLägg till video i InDesign. Skapa PDF och publicera online.
+**Beskrivning**
+Lägg till videoklipp i InDesign. Utdata till PDF och publicera online.
 
-I den här självstudiekursen får du lära dig att:
-* Lägg till video i InDesign
-* Skapa PDF och publicera online
+I den här självstudiekursen får du lära dig hur du:
+* Lägg till videoklipp i InDesign
+* Spara i PDF och publicera online
 
 **Presenteras av:**
 Patti Sokol, Principal Solutions Consultant (Digital Media)
 
 ![InDesignLogo](../assets/id_appicon_96.png)
 
-**Resurser för InDesign**
+**Resurser i InDesign**
 
-[Lär dig mer och ](https://helpx.adobe.com/support/indesign.html) Support om du vill ha fler självstudiekurser,  [nyheter](https://helpx.adobe.com/indesign/user-guide.html/indesign/using/whats-new.ug.html) och länkar till användarforum.
+[Utbildning och support](https://helpx.adobe.com/support/indesign.html) är ditt nav för ytterligare självstudiekurser, [Nyheter](https://helpx.adobe.com/indesign/user-guide.html/indesign/using/whats-new.ug.html)och länkar till användarforum.
 
-**Oktober 2020-versionen**
+**Oktober 2020-utgåvan**
 
 Börja använda dessa funktioner (och mycket mer!) genom att hämta den senaste uppdateringen från Creative Cloud-datorprogrammet.

@@ -1,6 +1,6 @@
 ---
 title: Skapa engagerande webbgrafik genom att kombinera Adobe [!DNL Stock] bilder med CSS
-description: Skapa ett enhetligt varumärke med olika bilder genom att kombinera färger och övertoningar i hela er annonskampanj
+description: Skapa varumärkesidentitet med olika bilder genom att kombinera färger och övertoningar i hela annonskampanjen
 role: User
 level: Beginner, Intermediate
 thumbnail: 331812.jpg
@@ -12,8 +12,8 @@ ht-degree: 0%
 
 ---
 
-# Skapa engagerande webbgrafik genom att kombinera bilder från Adobe [!DNL Stock] med CSS
+# Skapa engagerande webbgrafik genom att kombinera Adobe [!DNL Stock] bilder med CSS
 
-Skapa ett enhetligt varumärke med olika bilder genom att kombinera färger och övertoningar i er annonskampanj.
+Skapa varumärkesidentitet med olika bilder genom att kombinera färger och övertoningar i er annonskampanj.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331812?hidetitle=true)

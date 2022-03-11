@@ -1,6 +1,6 @@
 ---
-title: MAX 2020 - Enterprise Sessions
-description: Om demoresurserna
+title: MAX 2020 - Enterprise-sessionerna
+description: Om demomediefilerna
 role: User
 level: Beginner, Intermediate
 exl-id: 68b2cb27-22b4-4be0-a4b1-210c208778ec
@@ -11,28 +11,27 @@ ht-degree: 0%
 
 ---
 
-# MAX 2020 - Enterprise Sessions
+# MAX 2020 - Enterprise-sessionerna
 
-![Max 2020 Hero Image](../assets/MAX2020.jpg)
+![MAX 2020 HERO IMAGE](../assets/MAX2020.jpg)
 
-Som kreatör i stora företag måste ni samarbeta med utspridda team, skapa skalbara processer och följa företagets system och riktlinjer. De här självstudiekurserna hjälper dig att lära dig nya funktioner i 2021 års utgåva av Creative Cloud - från ett företagsperspektiv.
+Som kreatör i ett företag måste du samarbeta med distribuerade team, upprätta skalbara processer och följa företagets system och riktlinjer. Dessa självstudiekurser hjälper dig att lära dig nya funktioner i 2021-versionen av Creative Cloud - ur ett företagsperspektiv.
 
-## Skala - Utnyttja AEM Assets och InDesign Server (26:54)
+## Utnyttja kraften i AEM Assets och InDesign Server (26:54)
 
 >[!VIDEO](https://video.tv.adobe.com/v/327112?hidetitle=true)
 
 **Beskrivning**
 
-Tillbringar den kreativa personalen för mycket tid på manuella, repetitiva jobb? Hjälp organisationen att få ut det mesta av sina kreatörer. Företagssystem som AEM och InDesign Server kan ge både kreativa medarbetare och produktionspersonal möjlighet att snabbt lägga in innehåll i målgruppen.
+Lägger din kreativa personal för mycket tid på manuellt, repetitivt arbete? Hjälp organisationen att få ut det mesta av kreatörer. Företagssystem som AEM och InDesign Server kan ge både kreatörer och produktionspersonal möjlighet att snabbt överföra innehåll till målgruppen.
 
 I den här inspelade livesessionen visas exempel på mallbaserade arbetsflöden i:
-* Adobe Experience Manager (AEM) Assets är en DAM-lösning (Digital Asset Management) som kan integreras med Adobe Creative Cloud för att hjälpa DAM-användare att samarbeta med kreativa team och effektivisera samarbetet när innehåll skapas
-* Adobe InDesign Server är en motor för layout och disposition som driver automatiserade publiceringslösningar genom att integreras i andra system
+* Adobe Experience Manager (AEM) Assets är en DAM-lösning (Digital Asset Management) som kan integreras med Adobe Creative Cloud så att DAM-användare kan samarbeta med kreatörer och effektivisera samarbetet när material skapas
+* Adobe InDesign Server är en layout- och kompositionsmotor som driver automatiserade publiceringslösningar genom att integreras i andra system
 
 **Presenteras av:**
 
-Eric Rowse, Senior Solutions Consultant (Digital Media)
-Derek Lu, Principal Solutions Consultant (konceptbevis)
+Eric Rowse, Senior Solutions Consultant (Digital Media) Derek Lu, Principal Solutions Consultant (Proof of Concept)
 
 ## Nya verktyg för det nya normala (29:57)
 
@@ -40,18 +39,16 @@ Derek Lu, Principal Solutions Consultant (konceptbevis)
 
 **Beskrivning**
 
-WFH har medfört utmaningar, men det har också tvingat kreatörerna och deras företag att experimentera med nya verktyg och nya sätt att skapa. Utforska välbekanta verktyg som Illustrator och Photoshop i de nya iPad-versionerna och rita med Fresco på surfplattor (iPad, Microsoft Surface) och nu även på iPhone!
+WFH har medfört utmaningar, men har också tvingat kreatörer och deras företag att experimentera med nya verktyg och nya sätt att skapa. Utforska välbekanta verktyg som Illustrator och Photoshop i de nya iPad-versionerna och rita med Fresco på surfplattor (iPad, Microsoft Surface) och nu på iPhone!
 
-I den här inspelade livesessionen får du lära dig att:
+I den här inspelade livesessionen får du lära dig hur du:
 * Använd olika penslar och skuggningstekniker i Fresco för att skapa handritade kampanjbilder
-* Skapa och dela problematiska ikoner i Illustrator på iPad för att matcha varumärkesprofileringen
-* Skapa material för sociala medier från Fresco och Illustrator på iPad, medan du är ute på språng med Photoshop på iPad
+* Skapa och dela nödställda ikoner i Illustrator på iPad för att matcha varumärket
+* Skapa material för sociala medier från Fresco och Illustrator på iPad, oavsett var du är med Photoshop på iPad
 
 **Presenteras av:**
 
-Dave Weinberg, Senior Solutions Consultant (Digital Media)
-Liz Tanonis, lösningskonsult (Digital Media)
-Emilie Enke, Solutions Consultant (Digital Media)
+Dave Weinberg, Senior Solutions Consultant (Digital Media) Liz Tanonis, Solutions Consultant (Digital Media) Emilie Enke, Solutions Consultant (Digital Media)
 
 ## Samarbete med CC Libraries (27:58)
 
@@ -59,21 +56,20 @@ Emilie Enke, Solutions Consultant (Digital Media)
 
 **Beskrivning**
 
-Med Adobe Creative Cloud Libraries kan du hantera, ordna och få tillgång till dina logotyper, färger med mera direkt från dina favoritprogram i Creative Cloud. Arbeta effektivare, säkerställ kreativ enhetlighet och håll enkelt kontakten med teamet.
+Med Adobe Creative Cloud Libraries kan du hantera, ordna och få tillgång till dina logotyper, färger och annat direkt från dina Creative Cloud-favoritprogram. Arbeta effektivare, skapa enhetlig design och håll dig enkelt uppdaterad med teamet.
 
-I den här självstudiekursen får du lära dig att:
-* Hitta enkelt det material du behöver i alla dina kreativa program
-* Ge kommunikatörer i hela organisationen möjlighet att skapa varumärkesupplevelser, samtidigt som de behåller kontrollen
+I den här självstudiekursen får du lära dig hur du:
+* Hitta enkelt de resurser du behöver i alla dina kreativa program
+* Gör det möjligt för kommunikatörer i hela organisationen att skapa varumärkesupplevelser samtidigt som de behåller kontrollen
 
 **Presenteras av:**
 
-Ashley Dvorin, Senior Solutions Consultant (Digital Media)
-Emily Palmer, Solutions Consultant (Digital Media)
+Ashley Dvorin, Senior Solutions Consultant (Digital Media) Emily Palmer, Solutions Consultant (Digital Media)
 
-## Om demoresurserna: LOKAL
+## Om demomediefilerna: LOKAL
 
-Teamet närmade sig att skapa demonstrationsresurserna som ett företag skulle kunna. Vi planerade en kampanj och skapade resurser för olika kanaler. Vi har också skapat ett CC Library med varumärkeselement för samarbete och enhetlighet.
+Teamet började skapa demomediefiler som ett företag skulle kunna göra. Vi planerade en kampanj och skapade resurser för olika kanaler. Vi har också skapat ett CC-bibliotek med varumärkeselement för att stödja samarbete och enhetlighet.
 
-Som svar på COVID-19 har LOCAL, ett företag som är värd för live-event som firar roliga semester, gått på onlinemöten och samarbetar med små, lokala matbilar och restauranger för att främja sin verksamhet - och hjälpa dem att hålla sig öppna.
+Som svar på covid-19 har LOCAL, ett företag som är värd för live-evenemang som firar roliga, galna semestrar, valt att delta i online-sammankomster och samarbetar med små, lokala livsmedelstruckar och restauranger för att marknadsföra sina företag - och hjälpa dem att hålla öppet.
 
-![LOCAL Demo Assets](../assets/demo_local_assets-WIP-v1.jpg)
+![LOKALA demoresurser](../assets/demo_local_assets-WIP-v1.jpg)

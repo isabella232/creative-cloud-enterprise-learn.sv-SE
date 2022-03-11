@@ -1,6 +1,6 @@
 ---
-title: Bekanta dig med [!UICONTROL komponenter] i Adobe XD
-description: Lär dig hur du använder [!UICONTROL komponenter] för att ge dig oöverträffad flexibilitet när du vill använda både hastighet och konsekvens i designarbetsflödet
+title: Bekvämt med [!UICONTROL Komponenter] i Adobe XD
+description: Lär dig hur du använder [!UICONTROL Komponenter] och ger dig oöverträffad flexibilitet när du snabbt och enhetligt arbetar i designflödet
 role: User
 level: Beginner, Intermediate
 exl-id: 7cc3e842-56b3-493f-b11d-2576dbeeb98a
@@ -11,12 +11,12 @@ ht-degree: 0%
 
 ---
 
-# Bekanta dig med [!UICONTROL komponenter] i Adobe XD
+# Bekvämt med [!UICONTROL Komponenter] i Adobe XD
 
-Lär dig hur du använder [!UICONTROL komponenter] för att ge dig oöverträffad flexibilitet när du vill använda både hastighet och konsekvens i designarbetsflödet.
+Lär dig hur du använder [!UICONTROL Komponenter] ger dig oöverträffad flexibilitet när du snabbt och enhetligt kan använda arbetsflödet.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331003?hidetitle=true)
 
-Klicka på PDF-filsikonen för att ladda ned en PDF-fil av kursen.
+Klicka på filikonen PDF för att hämta PDF i den här självstudiekursen.
 
 [![PDF-filikon](../assets/acrobat_PDF_96.png)](../quick-reference/LetsXDSeeHowtoDesignPrototypeandHandofftoTeams.pdf)

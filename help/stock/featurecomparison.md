@@ -1,6 +1,6 @@
 ---
-title: Skapa en produktfunktionsjämförelse med Adobe [!DNL Stock]
-description: Skapa en bild som jämför produktprisplaner för att ge potentiella kunder den information de behöver i en handvändning
+title: Skapa en produktjämförelse med Adobe [!DNL Stock]
+description: Skapa en bild som jämför produktprisplaner för att ge potentiella kunder den information de behöver i korthet
 role: User
 level: Beginner, Intermediate
 thumbnail: 331817.jpg
@@ -12,8 +12,8 @@ ht-degree: 0%
 
 ---
 
-# Skapa en produktfunktionsjämförelse med Adobe [!DNL Stock]
+# Skapa en produktjämförelse med Adobe [!DNL Stock]
 
-Skapa grafik som jämför produktprisplaner för att ge presumtiva kunder den information de behöver direkt.
+Skapa en bild som jämför produktprisplaner för att ge potentiella kunder den information de behöver i korthet.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331817?hidetitle=true)

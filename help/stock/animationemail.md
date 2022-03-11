@@ -1,6 +1,6 @@
 ---
 title: Skapa animeringar för e-post med Adobe [!DNL Stock] och Photoshop
-description: Stärk dina e-postmeddelanden med Stop-Action Animation med Adobe [!DNL Stock] och Photoshop
+description: Förbättra dina e-postmeddelanden med actionanimering med Adobe [!DNL Stock] och Photoshop
 role: User
 level: Beginner, Intermediate
 thumbnail: 331838.jpg
@@ -14,6 +14,6 @@ ht-degree: 0%
 
 # Skapa animeringar för e-post med Adobe [!DNL Stock] och Photoshop
 
-Sätt fart på e-postmeddelandena med Stop-Action Animation med Adobe [!DNL Stock] och Photoshop.
+Förbättra dina e-postmeddelanden med actionanimering med Adobe [!DNL Stock] och Photoshop.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331838?hidetitle=true)

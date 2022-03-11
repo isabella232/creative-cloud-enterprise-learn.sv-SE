@@ -1,6 +1,6 @@
 ---
-title: Ge liv åt kreativiteten med egna animeringar från Adobe [!DNL Stock]
-description: Använd Adobe [!DNL Stock] bilder, texturer, mönster och egna animeringar i Photoshop
+title: Ge liv åt kreativiteten med anpassade animeringar från Adobe [!DNL Stock]
+description: Använd Adobe [!DNL Stock] bilder, texturer, mönster till anpassade animeringar i Photoshop
 role: User
 level: Beginner, Intermediate
 thumbnail: 331806.jpg
@@ -12,8 +12,8 @@ ht-degree: 0%
 
 ---
 
-# Ge kreativiteten liv med egna animeringar av Adobe [!DNL Stock]
+# Ge liv åt kreativiteten med anpassade animeringar från Adobe [!DNL Stock]
 
-Använd Adobe [!DNL Stock]-bilder, texturer och mönster för anpassade animeringar i Photoshop.
+Använd Adobe [!DNL Stock] bilder, texturer, mönster till anpassade animeringar i Photoshop.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331806?hidetitle=true)

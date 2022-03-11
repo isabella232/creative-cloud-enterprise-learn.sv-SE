@@ -1,6 +1,6 @@
 ---
-title: Skapa en halvsurrealistisk komposition med Adobe [!DNL Stock]
-description: Skapa en minnesvärd, redaktionell bild genom att kombinera flera bilder med färg-, rörelse- och maskningseffekter
+title: Skapa ett halvsurrealistiskt montage med Adobe [!DNL Stock]
+description: Skapa en minnesvärd redaktionell bild genom att kombinera flera bilder med färg, rörelse och maskeringseffekter
 role: User
 level: Beginner, Intermediate
 thumbnail: 331824.jpg
@@ -12,8 +12,8 @@ ht-degree: 0%
 
 ---
 
-# Skapa en halvsurrealistisk komposition med Adobe [!DNL Stock]
+# Skapa ett halvsurrealistiskt montage med Adobe [!DNL Stock]
 
-Skapa en minnesvärd redigeringsbild genom att kombinera flera bilder med färg, rörelse och maskningseffekter.
+Skapa en minnesvärd redaktionell bild genom att kombinera flera bilder med färg, rörelse och maskeringseffekter.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331824?hidetitle=true)

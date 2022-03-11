@@ -1,6 +1,6 @@
 ---
-title: Skapa infografik för företagsriktlinjer med Adobe [!DNL Stock]
-description: Kombinera olika resurser från Adobe [!DNL Stock] för att förmedla riktlinjer i form av visuellt övertygande infografik
+title: Skapa en infografik med riktlinjer för företag med Adobe [!DNL Stock]
+description: Kombinera olika resurser från Adobe [!DNL Stock] att förmedla riktlinjer i form av visuellt slagkraftig infografik
 role: User
 level: Beginner, Intermediate
 thumbnail: 331811.jpg
@@ -12,8 +12,8 @@ ht-degree: 0%
 
 ---
 
-# Skapa infografik för företagsriktlinjer med Adobe [!DNL Stock]
+# Skapa en infografik med riktlinjer för företag med Adobe [!DNL Stock]
 
-Kombinera material från Adobe [!DNL Stock] för att förmedla riktlinjer i form av visuellt övertygande infografik.
+Kombinera olika resurser från Adobe [!DNL Stock] att förmedla riktlinjer i form av visuellt slagkraftig infografik.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331811?hidetitle=true)
