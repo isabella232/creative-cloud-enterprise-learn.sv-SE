@@ -4,9 +4,9 @@ description: Tutorials för att hjälpa dig att komma igång med Adobe DVA-produ
 role: User
 level: Beginner, Intermediate
 exl-id: 4a0c57f5-053f-4e47-a42e-05f2d2a1bd15
-source-git-commit: e3982cf31ebb0dac5927baa1352447b3222785c9
+source-git-commit: f1626b958769af3c73eba85a011c1ef609d70981
 workflow-type: tm+mt
-source-wordcount: '472'
+source-wordcount: '470'
 ht-degree: 0%
 
 ---
@@ -129,10 +129,10 @@ Förverkliga dina idéer med Adobe-program för videoredigering, rörlig grafik,
   </td>
   <td>
    <a href="assets/SmoothlyCombineMusicandDialogueorNarrationwithAutoduckinginAdobePremiereRush.pdf">
-      <img alt="Kombinera smidigt musik och dialog eller berättarröst med automatisk duckning i Adobe Premiere [!DNL Rush] Adobe" src="assets/SmoothlyCombineMusicandDialogueorNarrationwithAutoduckinginAdobePremiereRush.jpg" />
+      <img alt="Kombinera smidigt musik och dialog eller berättarröst med automatisk duckning i Adobe Premiere [!DNL Rush]" src="assets/SmoothlyCombineMusicandDialogueorNarrationwithAutoduckinginAdobePremiereRush.jpg" />
    </a>
     <div>
-   <a href="assets/SmoothlyCombineMusicandDialogueorNarrationwithAutoduckinginAdobePremiereRush.pdf"><strong>Kombinera smidigt musik och dialog eller berättarröst med automatisk duckning i Adobe Premiere [!DNL Rush] Adobe (PDF)</strong></a>
+   <a href="assets/SmoothlyCombineMusicandDialogueorNarrationwithAutoduckinginAdobePremiereRush.pdf"><strong>Kombinera smidigt musik och dialog eller berättarröst med automatisk duckning i Adobe Premiere [!DNL Rush] (PDF)</strong></a>
     </div>
     <em>Adobe Premiere [!DNL Rush] innehåller avancerade videoredigeringsfunktioner i en lättanvänd app så att alla kan skapa en video med proffskvalitet på några minuter</em>
     <br>
