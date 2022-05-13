@@ -5,9 +5,9 @@ role: User
 level: Beginner, Intermediate
 keywords: 3D-belysning, 600 Global MSV
 exl-id: 05eb729e-35b8-46e2-9c56-590250097d0b
-source-git-commit: e3982cf31ebb0dac5927baa1352447b3222785c9
+source-git-commit: 01d80f9b296bc7d13b5e931cf0ca22d1335271dc
 workflow-type: tm+mt
-source-wordcount: '2738'
+source-wordcount: '2739'
 ht-degree: 0%
 
 ---
@@ -203,4 +203,4 @@ Detta innebär att det kommer att finnas en hel del komplex ray tracing interakt
 
 Jag hoppas att den här översikten visar hur viktigt det är att behärska 3D-ljus i olika situationer. Du bör vara redo att börja producera mer övertygande resultat.
 
-Glad belysning! Hämta [senaste versionen](https://creativecloud.adobe.com/apps/download/[!DNL Dimension]) av Dimension idag.
+Glad belysning! Hämta [senaste versionen](https://creativecloud.adobe.com/apps/download/Dimension) av Dimension idag.

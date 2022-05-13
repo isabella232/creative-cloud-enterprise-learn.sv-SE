@@ -4,16 +4,16 @@ description: Tutorials som hjälper dig att komma igång på Adobe [!DNL Stock]
 role: User
 level: Beginner, Intermediate
 exl-id: 83e1af30-489f-474c-874a-8cd8b36d4a38
-source-git-commit: e3982cf31ebb0dac5927baa1352447b3222785c9
+source-git-commit: 9dcf4a3054e528cd2cddeaa371f0b36e0039638d
 workflow-type: tm+mt
-source-wordcount: '1194'
+source-wordcount: '1196'
 ht-degree: 0%
 
 ---
 
 # Adobe [!DNL Stock] självstudiekurser
 
-!![Creative Cloud Hero Image](../assets/[!DNL Stock].jpg)
+![Creative Cloud Hero Image](../assets/Stock.jpg)
 
 Kreatörer pressas att snabbt leverera nytt, visuellt övertygande innehåll som fångar och fäster uppmärksamheten. Adobe [!DNL Stock] for enterprise ger team tillgång till över 200 miljoner bilder, videoklipp, mallar, illustrationer, ljudfiler och 3D-resurser - allt inifrån de program i Adobe som de använder dagligen.
 

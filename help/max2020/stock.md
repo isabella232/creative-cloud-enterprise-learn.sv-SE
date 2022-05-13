@@ -4,16 +4,16 @@ description: Adobe [!DNL Stock] for enterprise ger kreativa team tillgång till 
 role: User
 level: Beginner, Intermediate
 exl-id: 0a0f5cf8-0326-48fc-a833-0f531617cc41
-source-git-commit: fe883361639bfe2edc184cdd10dda312f747c7fb
+source-git-commit: c81e5982cfb4b168d66dc2a80c27a48895b64a52
 workflow-type: tm+mt
-source-wordcount: '333'
+source-wordcount: '334'
 ht-degree: 0%
 
 ---
 
 # [!DNL Stock]
 
-!![Tutorial Hero Image](../assets/[!DNL Stock].jpg)
+![Tutorial Hero Image](../assets/Stock.jpg)
 
 Kreatörer pressas att snabbt leverera nytt, visuellt övertygande innehåll som fångar och håller uppmärksamheten. Adobe [!DNL Stock] for enterprise ger team tillgång till över 200 miljoner bilder, videoklipp, mallar, illustrationer, ljudfiler och 3D-resurser - allt inifrån de program i Adobe som de använder dagligen.
 
