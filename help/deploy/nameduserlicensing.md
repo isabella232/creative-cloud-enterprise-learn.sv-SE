@@ -4,9 +4,9 @@ description: Genom att licensiera Adobe-produkter via namngiven användare-licen
 role: User
 level: Beginner, Intermediate
 exl-id: 9dbdb057-6684-4750-bf9d-8af7a32bfe14
-source-git-commit: 6b819aef801e003e5a160d24ba69522cf6a7e715
+source-git-commit: 82f7d93855e57500669e83af6b1a73f5335ae813
 workflow-type: tm+mt
-source-wordcount: '637'
+source-wordcount: '633'
 ht-degree: 2%
 
 ---
@@ -17,7 +17,7 @@ I dagens klimat har IT-hanteringen snabbt varit tvungen att gå över till en he
 
 Genom att licensiera Adobe-produkter via namngiven användare-licensiering (NUL) kan IT-administratörer enkelt driftsätta och hantera Adobe-verktyg med hjälp av Admin Console och ge slutanvändarna tillgång till högklassiga program för kreativitet och produktivitet samt Adobe Cloud-tjänster, även om hela personalen är på distans.
 
-Om ditt företag inte är på NUL och fortfarande använder serialiserad distribution för Adobe-produkter kan dina serienummer snart upphöra att gälla. För att undvika avbrott i tjänsten är det viktigt att planera migreringen till NUL innan [serienummer löper ut](https://blogs.adobe.com/deployment/understanding-serialnumberexpiration).
+Om ditt företag inte är på NUL och fortfarande använder serialiserad distribution för Adobe-produkter kan dina serienummer snart upphöra att gälla. För att undvika avbrott i tjänsten är det viktigt att planera migreringen till NUL innan serienumren löper ut.
 
 ## Namngiven användarlicensiering
 
