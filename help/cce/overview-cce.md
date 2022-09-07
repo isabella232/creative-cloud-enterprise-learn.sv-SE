@@ -4,10 +4,10 @@ description: Tutorials för att hjälpa dig att komma igång på Creative Cloud 
 role: User
 level: Beginner, Intermediate
 exl-id: eea91ea5-9adc-4a7f-93c0-6cdfe650cfb7
-source-git-commit: b31d4d2f7c8d141d65c7e4b72595fbc1c1252fd2
+source-git-commit: 48f5ce6a9d19018a14cb1bf092994641b9c42cd5
 workflow-type: tm+mt
-source-wordcount: '1390'
-ht-degree: 1%
+source-wordcount: '1401'
+ht-degree: 0%
 
 ---
 
@@ -32,6 +32,21 @@ Som kreatör i ett företag måste du samarbeta med distribuerade team, upprätt
    <a href="assets/AcrobatforContentCreators.pdf"><strong>Acrobat för innehållsskapare (PDF)</strong></a>
     </div>
     <em>Läs om verktygen i Acrobat som effektiviserar arbetsflödet</em>
+    <br>
+  </td>
+  <td>
+    <img alt="Mellanrum" src="../assets/acrobat_PDF_whitespacer_96.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="Mellanrum" src="../assets/acrobat_PDF_whitespacer_96.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="Mellanrum" src="../assets/acrobat_PDF_whitespacer_96.png" />
+    <div>
     <br>
   </td>
 </tr>
@@ -66,6 +81,11 @@ Som kreatör i ett företag måste du samarbeta med distribuerade team, upprätt
     <div>
     <br>
   </td>
+  <td>
+    <img alt="Mellanrum" src="../assets/acrobat_PDF_whitespacer_96.png" />
+    <div>
+    <br>
+  </td>
 </tr>
 </table>
 
@@ -81,7 +101,7 @@ Som kreatör i ett företag måste du samarbeta med distribuerade team, upprätt
     <div>
    <a href="assets/AddingaGlideshowtoyourSparkPageAdobeBlog.pdf"><strong>Lägga till ett bildspel i din Spark Page (PDF)</strong></a>
     </div>
-    <em>Adobe Express innehåller fantastiska och lättanvända layoutkomponenter som ger liv åt dina webbberättelser</em>
+    <em>Adobe Spark har några fantastiska och lättanvända layoutkomponenter som ger liv åt dina webbberättelser</em>
     <br>
   </td>
   <td>
@@ -91,7 +111,7 @@ Som kreatör i ett företag måste du samarbeta med distribuerade team, upprätt
     <div>
    <a href="assets/CreatingYourBrandinAdobeSpark.pdf"><strong>Skapa ditt varumärke i Adobe Spark (PDF)</strong></a>
     </div>
-    <em>Adobe Express gör det enkelt att definiera ert varumärke</em>
+    <em>Adobe Spark gör det enkelt att definiera ert varumärke</em>
     <br>
   </td>
   <td>
@@ -101,7 +121,12 @@ Som kreatör i ett företag måste du samarbeta med distribuerade team, upprätt
     <div>
    <a href="assets/MeetYourNewProductionArtistAdobeSparkPost.pdf"><strong>Träffa din nya produktionskonstnär: Adobe Spark Post (PDF)</strong></a>
     </div>
-    <em>Adobe Expressen lär sig av dig när du skapar layouter, definierar färger, importerar grafik och ordnar element i dina kompositioner</em>
+    <em>Adobe Spark lär sig av dig när du skapar layouter, definierar färger, importerar grafik och ordnar element i dina kompositioner</em>
+    <br>
+  </td>
+  <td>
+    <img alt="Mellanrum" src="../assets/acrobat_PDF_whitespacer_96.png" />
+    <div>
     <br>
   </td>
 </tr>
@@ -111,7 +136,7 @@ Som kreatör i ett företag måste du samarbeta med distribuerade team, upprätt
 
 <table style="table-layout:fixed">
 <tr>
-   <td>
+  <td>
     <a href="alphabetsoup.md">
       <img alt="Avkodning av alfabetet soppa av grafiska format" src="assets/Alphabetsoup.png" />
     </a>
@@ -141,9 +166,7 @@ Som kreatör i ett företag måste du samarbeta med distribuerade team, upprätt
     <em>I den här stegvisa videosjälvstudiekursen skapar du ett levande foto genom att kombinera videoklipp från Adobe [!DNL Stock] med smarta maskningstekniker i Photoshop</em>
     <br>
   </td>
-</tr>
-<tr>
-   <td>
+  <td>
     <a href="assets/AddRemarkableLightingtoaPhotowithPhotoshopandAfterEffects.pdf">
       <img alt="Lägg till anmärkningsvärd belysning i ett foto med Photoshop och After Effects" src="assets/AddRemarkableLightingtoaPhotowithPhotoshopandAfterEffects.jpg" />
     </a>
@@ -152,8 +175,10 @@ Som kreatör i ett företag måste du samarbeta med distribuerade team, upprätt
     </div>
     <em>Läs om hur du använder effekten Ljusexplosion i Adobe After Effects till att dramatiskt förbättra ett foto</em>
     <br>
-   </td>
-   <td>
+  </td>
+</tr>
+<tr>
+  <td>
     <a href="assets/CreateCinemagraphsinaSnapwithPhotoshopandAdobeStock.pdf">
       <img alt="Skapa bilder i en handvändning med Photoshop och Adobe [!DNL Stock]" src="assets/CreateCinemagraphsinaSnapwithPhotoshopandAdobeStock.jpg" />
     </a>
@@ -163,7 +188,7 @@ Som kreatör i ett företag måste du samarbeta med distribuerade team, upprätt
     <em>Söka efter videofilmer som loopar sömlöst på Adobe [!DNL Stock] för att snabbt sätta ihop iögonfallande filmstycken i Photoshop</em>
     <br>
   </td>
-   <td>
+  <td>
     <a href="assets/CreatingaLivingPhotographwithPhotoshopPart1.pdf">
       <img alt="Skapa ett levande foto med Photoshop - Del 1" src="assets/CreatingaLivingPhotographwithPhotoshopPart1.jpg" />
     </a>
@@ -173,9 +198,7 @@ Som kreatör i ett företag måste du samarbeta med distribuerade team, upprätt
     <em>Med Adobe Photoshop kan du snabbt förvandla kortfilmer till levande foton som fascinerar åskådarna på alla sociala medier</em>
     <br>
   </td>
-</tr>
-<tr>
-   <td>
+  <td>
     <a href="assets/CreatingaLivingPhotographwithPhotoshopPart2.pdf">
       <img alt="Skapa ett levande foto med Photoshop - Del 2" src="assets/CreatingaLivingPhotographwithPhotoshopPart2.jpg" />
     </a>
@@ -195,6 +218,8 @@ Som kreatör i ett företag måste du samarbeta med distribuerade team, upprätt
     <em>I detta praktiska, steg-för-steg-labb kan du kombinera Photoshop med After Effects och skapa häpnadsväckande bilder och effekter som passar för användning i alla medier</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="assets/QuicklyBrandYourInstagramPhotoswithAdobePhotoshopActions.pdf">
       <img alt="Märk snabbt upp dina Instagram Photos med Adobe Photoshop Actions" src="assets/QuicklyBrandYourInstagramPhotoswithAdobePhotoshopActions.jpg" />
@@ -207,7 +232,7 @@ Som kreatör i ett företag måste du samarbeta med distribuerade team, upprätt
   </td>
 </tr>
 <tr>
-    <td>
+  <td>
     <a href="assets/WorkSmarterNotHarderwithPhotoshop.pdf">
       <img alt="Arbeta smartare, inte hårdare, med Photoshop" src="assets/WorkSmarterNotHarderwithPhotoshop.jpg" />
     </a>
@@ -217,7 +242,7 @@ Som kreatör i ett företag måste du samarbeta med distribuerade team, upprätt
     <em>Förändringar i Photoshop kan vara tidskrävande, men det behöver inte</em>
     <br>
   </td>
-   <td>
+  <td>
     <a href="assets/AnyoneCanBeCreativewithAdobeCreativeCloud.pdf">
       <img alt="Alla kan vara kreativa med Adobe Creative Cloud" src="assets/AnyoneCanBeCreativewithAdobeCreativeCloud.jpg" />
     </a>
@@ -235,6 +260,11 @@ Som kreatör i ett företag måste du samarbeta med distribuerade team, upprätt
     <a href="assets/GreenScreenisNotJustforVideo.pdf"><strong>Grön skärm är inte bara för video (PDF)</strong></a>
     </div>
     <em>Du kan använda en grön skärm i en fotostudio och använda After Effects för att förbereda fotot för användning i Photoshop</em>
+    <br>
+  </td>
+  <td>
+    <img alt="Mellanrum" src="../assets/acrobat_PDF_whitespacer_96.png" />
+    <div>
     <br>
   </td>
 </tr>  
@@ -264,6 +294,11 @@ Som kreatör i ett företag måste du samarbeta med distribuerade team, upprätt
     <div>
     <br>
   </td>
+  <td>
+    <img alt="Mellanrum" src="../assets/acrobat_PDF_whitespacer_96.png" />
+    <div>
+    <br>
+  </td>
 </tr>
 </table>
 
@@ -281,7 +316,7 @@ Som kreatör i ett företag måste du samarbeta med distribuerade team, upprätt
     <em>Att dela med dig av dina bästa verk med Adobe Portfolio är ett effektivt sätt att dela dina framgångar och locka nya kreatörer</em>
     <br>
   </td>
-   <td>
+  <td>
    <a href="assets/ConnectingLightroomandBehancetoYourAdobePortfolio.pdf">
       <img alt="Ansluta Lightroom och Bēhance till din Adobe Portfolio" src="assets/ConnectingLightroomandBehancetoYourAdobePortfolio.jpg" />
    </a>
@@ -299,6 +334,11 @@ Som kreatör i ett företag måste du samarbeta med distribuerade team, upprätt
    <a href="assets/ShowYourBestWorkwithAdobePortfolio.pdf"><strong>Visa dina bästa resultat med Adobe Portfolio (PDF)</strong></a>
     </div>
     <em>Med Adobe Portfolio kan du ladda upp, ordna och dela dina verk med personal och kunder över hela världen</em>
+    <br>
+  </td>
+  <td>
+    <img alt="Mellanrum" src="../assets/acrobat_PDF_whitespacer_96.png" />
+    <div>
     <br>
   </td>
  </tr>
@@ -339,8 +379,6 @@ Som kreatör i ett företag måste du samarbeta med distribuerade team, upprätt
     <em>Creative Cloud Libraries har ett inbyggt varumärkessystem som gör att designers kan dela varumärkesresurser mellan olika team</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
    <a href="assets/ShareTextStylesFromIllustratorwithCreativeCloudLibraries.pdf">
       <img alt="Dela textformat från Illustrator med Creative Cloud Libraries" src="assets/ShareTextStylesFromIllustratorwithCreativeCloudLibraries.jpg" />
@@ -349,16 +387,6 @@ Som kreatör i ett företag måste du samarbeta med distribuerade team, upprätt
    <a href="assets/ShareTextStylesFromIllustratorwithCreativeCloudLibraries.pdf"><strong>Dela textformat från Illustrator med Creative Cloud Libraries (PDF)</strong></a>
     </div>
     <em>Arbeta smartare, inte hårdare, i Illustrator</em>
-    <br>
-  </td>
-  <td>
-    <img alt="Mellanrum" src="../assets/GrayBanner_Spacer.png" />
-    <div>
-    <br>
-  </td>
-  <td>
-    <img alt="Mellanrum" src="../assets/GrayBanner_Spacer.png" />
-    <div>
     <br>
   </td>
 </tr>
@@ -398,6 +426,11 @@ Som kreatör i ett företag måste du samarbeta med distribuerade team, upprätt
     <em>OpenTypens format tillåter att ett teckensnitt innehåller upp till 65 536 tecken</em>
     <br>
   </td>
+  <td>
+    <img alt="Mellanrum" src="../assets/acrobat_PDF_whitespacer_96.png" />
+    <div>
+    <br>
+  </td>
 </tr>
 </table>
 
@@ -435,9 +468,7 @@ Som kreatör i ett företag måste du samarbeta med distribuerade team, upprätt
     <em>Visste du att du kan utnyttja kraften i InDesign för att skapa HTML- och webbgrafik?</em>
     <br>
   </td>
-</tr>
-<tr>
-   <td>
+  <td>
    <a href="assets/InteractivePDFBookmarksandLinkedTOCsfromInDesign.pdf">
       <img alt="Interactive PDF: Bokmärken och länkade innehållsförteckningar från InDesign" src="assets/InteractivePDFBookmarksandLinkedTOCsfromInDesign.jpg" />
    </a>
@@ -447,7 +478,9 @@ Som kreatör i ett företag måste du samarbeta med distribuerade team, upprätt
     <em>Lär dig hur du använder innehållsförteckningsfunktionen i InDesign för att generera både bokmärken och hyperlänkar som hjälper läsarna att snabbt hitta information i PDF-filer</em>
     <br>
   </td>
-   <td>
+</tr>
+<tr>
+  <td>
    <a href="assets/InteractivePDFGraphicalHyperlinksandNestedMasterPagesinInDesign.pdf">
       <img alt="Interactive PDF: Grafiska hyperlänkar och kapslade mallsidor i InDesign" src="assets/InteractivePDFGraphicalHyperlinksandNestedMasterPagesinInDesign.jpg" />
    </a>
@@ -455,6 +488,16 @@ Som kreatör i ett företag måste du samarbeta med distribuerade team, upprätt
    <a href="assets/InteractivePDFGraphicalHyperlinksandNestedMasterPagesinInDesign.pdf"><strong>Interactive PDF: Grafiska hyperlänkar och kapslade mallsidor i InDesign (PDF)</strong></a>
     </div>
     <em>Genom att använda hyperlänkar på mallsidor kan du snabbt hantera ett navigeringssystem för alla sidor</em>
+    <br>
+  </td>
+  <td>
+    <img alt="Mellanrum" src="../assets/GrayBanner_Spacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="Mellanrum" src="../assets/GrayBanner_Spacer.png" />
+    <div>
     <br>
   </td>
   <td>
@@ -499,6 +542,11 @@ Som kreatör i ett företag måste du samarbeta med distribuerade team, upprätt
     <em>Illustrator har oöverträffat stöd för SVG-formatet, inklusive möjligheten att skapa symboler, grupper, ID:n och exakta vektordefinitioner av dina bilder</em>
     <br>
   </td>
+  <td>
+    <img alt="Mellanrum" src="../assets/acrobat_PDF_whitespacer_96.png" />
+    <div>
+    <br>
+  </td>
 </tr>
 </table>
 
@@ -514,6 +562,11 @@ Som kreatör i ett företag måste du samarbeta med distribuerade team, upprätt
    <a href="assets/VisualizeyourProductinaRealisticEnvironment.pdf"><strong>Visualisera produkten i en realistisk miljö (PDF)</strong></a>
     </div>
     <em>När du vill se hur dina produkter ser ut i verkligheten, Adobe [!DNL Dimension] är din go-to-app</em>
+    <br>
+  </td>
+  <td>
+    <img alt="Mellanrum" src="../assets/acrobat_PDF_whitespacer_96.png" />
+    <div>
     <br>
   </td>
   <td>
