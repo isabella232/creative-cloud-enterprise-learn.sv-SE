@@ -4,10 +4,10 @@ description: Tutorials för att hjälpa dig att komma igång på Creative Cloud 
 role: User
 level: Beginner, Intermediate
 exl-id: eea91ea5-9adc-4a7f-93c0-6cdfe650cfb7
-source-git-commit: e3982cf31ebb0dac5927baa1352447b3222785c9
+source-git-commit: b31d4d2f7c8d141d65c7e4b72595fbc1c1252fd2
 workflow-type: tm+mt
-source-wordcount: '1366'
-ht-degree: 0%
+source-wordcount: '1390'
+ht-degree: 1%
 
 ---
 
@@ -19,6 +19,23 @@ Som kreatör i ett företag måste du samarbeta med distribuerade team, upprätt
 
 
 ## Klicka här om du vill se en självstudiekurs
+
+### Adobe Acrobat
+
+<table style="table-layout:fixed">
+<tr>
+ <td>
+   <a href="assets/AcrobatforContentCreators.pdf">
+      <img alt="Acrobat för innehållsskapare" src="assets/AcrobatforContentCreators.jpg" />
+   </a>
+    <div>
+   <a href="assets/AcrobatforContentCreators.pdf"><strong>Acrobat för innehållsskapare (PDF)</strong></a>
+    </div>
+    <em>Läs om verktygen i Acrobat som effektiviserar arbetsflödet</em>
+    <br>
+  </td>
+</tr>
+</table>
 
 ### Creative Cloud for enterprise
 
@@ -53,7 +70,7 @@ Som kreatör i ett företag måste du samarbeta med distribuerade team, upprätt
 </table>
 
 
-### Spark
+### Adobe Express (tidigare Adobe Spark)
 
 <table style="table-layout:fixed">
 <tr>
@@ -64,7 +81,7 @@ Som kreatör i ett företag måste du samarbeta med distribuerade team, upprätt
     <div>
    <a href="assets/AddingaGlideshowtoyourSparkPageAdobeBlog.pdf"><strong>Lägga till ett bildspel i din Spark Page (PDF)</strong></a>
     </div>
-    <em>Adobe Spark Page har några fantastiska och lättanvända layoutkomponenter som ger liv åt dina webbberättelser</em>
+    <em>Adobe Express innehåller fantastiska och lättanvända layoutkomponenter som ger liv åt dina webbberättelser</em>
     <br>
   </td>
   <td>
@@ -74,7 +91,7 @@ Som kreatör i ett företag måste du samarbeta med distribuerade team, upprätt
     <div>
    <a href="assets/CreatingYourBrandinAdobeSpark.pdf"><strong>Skapa ditt varumärke i Adobe Spark (PDF)</strong></a>
     </div>
-    <em>Adobe Spark gör det enkelt att definiera ert varumärke</em>
+    <em>Adobe Express gör det enkelt att definiera ert varumärke</em>
     <br>
   </td>
   <td>
@@ -84,7 +101,7 @@ Som kreatör i ett företag måste du samarbeta med distribuerade team, upprätt
     <div>
    <a href="assets/MeetYourNewProductionArtistAdobeSparkPost.pdf"><strong>Träffa din nya produktionskonstnär: Adobe Spark Post (PDF)</strong></a>
     </div>
-    <em>Adobe Spark lär sig av dig när du skapar layouter, definierar färger, importerar grafik och ordnar element i dina kompositioner</em>
+    <em>Adobe Expressen lär sig av dig när du skapar layouter, definierar färger, importerar grafik och ordnar element i dina kompositioner</em>
     <br>
   </td>
 </tr>
