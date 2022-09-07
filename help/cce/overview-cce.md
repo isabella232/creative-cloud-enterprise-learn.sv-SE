@@ -4,9 +4,9 @@ description: Tutorials för att hjälpa dig att komma igång på Creative Cloud 
 role: User
 level: Beginner, Intermediate
 exl-id: eea91ea5-9adc-4a7f-93c0-6cdfe650cfb7
-source-git-commit: 48f5ce6a9d19018a14cb1bf092994641b9c42cd5
+source-git-commit: ba9266ed28d6c9db6f5fe64989b43374c4166673
 workflow-type: tm+mt
-source-wordcount: '1401'
+source-wordcount: '1419'
 ht-degree: 0%
 
 ---
@@ -230,8 +230,6 @@ Som kreatör i ett företag måste du samarbeta med distribuerade team, upprätt
     <em>Slipp tråkigt och spara massor av tid med funktionsmakron i Photoshop</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="assets/WorkSmarterNotHarderwithPhotoshop.pdf">
       <img alt="Arbeta smartare, inte hårdare, med Photoshop" src="assets/WorkSmarterNotHarderwithPhotoshop.jpg" />
@@ -260,11 +258,6 @@ Som kreatör i ett företag måste du samarbeta med distribuerade team, upprätt
     <a href="assets/GreenScreenisNotJustforVideo.pdf"><strong>Grön skärm är inte bara för video (PDF)</strong></a>
     </div>
     <em>Du kan använda en grön skärm i en fotostudio och använda After Effects för att förbereda fotot för användning i Photoshop</em>
-    <br>
-  </td>
-  <td>
-    <img alt="Mellanrum" src="../assets/acrobat_PDF_whitespacer_96.png" />
-    <div>
     <br>
   </td>
 </tr>  
@@ -396,6 +389,16 @@ Som kreatör i ett företag måste du samarbeta med distribuerade team, upprätt
 
 <table  style="table-layout:fixed">
 <tr>
+<td>
+   <a href="assets/TamingTypeAnxiety.pdf">
+      <img alt="Tämjande ångest" src="assets/TamingTypeAnxiety.jpg" />
+   </a>
+    <div>
+   <a href="assets/TamingTypeAnxiety.pdf"><strong>Tämjning typ ångest (PDF)</strong></a>
+    </div>
+    <em>Lär dig hur du får tillgång till och använder över 20 000 professionellt utformade teckensnitt i Creative Cloud</em>
+    <br>
+  </td>
   <td>
    <a href="assets/CreatingBeautifulTypographywithCreativeCloud.pdf">
       <img alt="Skapa vacker typografi med Creative Cloud" src="assets/CreatingBeautifulTypographywithCreativeCloud.jpg" />
@@ -426,12 +429,6 @@ Som kreatör i ett företag måste du samarbeta med distribuerade team, upprätt
     <em>OpenTypens format tillåter att ett teckensnitt innehåller upp till 65 536 tecken</em>
     <br>
   </td>
-  <td>
-    <img alt="Mellanrum" src="../assets/acrobat_PDF_whitespacer_96.png" />
-    <div>
-    <br>
-  </td>
-</tr>
 </table>
 
 ### InDesign
