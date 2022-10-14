@@ -4,17 +4,17 @@ description: Läs om hur Creative Cloud Libraries håller ihop designelement - o
 role: User
 level: Intermediate
 thumb: KT-11193.jpg
-source-git-commit: c649360eab0566ef15df295d8ad09a5c0d2ec5c9
+source-git-commit: 70e1e436f8fe439259fea2c48b263f255002fb10
 workflow-type: tm+mt
-source-wordcount: '58'
+source-wordcount: '63'
 ht-degree: 0%
 
 ---
 
 # Förbättra CC-arbetsflöden med CC Libraries
 
-Läs om hur Creative Cloud Libraries håller ihop designelement - och säkerställer enhetliga projekt för designers och team.
+Lär dig hur Creative Cloud Libraries håller ihop designelement - vilket säkerställer enhetlighet i projekt för designers och team i de här praktiska självstudiekurserna.
 
 **Markera bilden nedan för att hämta Förbättra CC-arbetsflöden med CC Libraries (PDF).**
 
-[![Acrobat-självstudiekurs](assets/Improveccworkflowswithcclibraries_400.jpg)](assets/ImproveCCWorkflowsCCLibraries.pdf)
+[![CC Libraries, självstudiekurs](assets/Improveccworkflowswithcclibraries_400.jpg)](assets/ImproveCCWorkflowsCCLibraries.pdf)

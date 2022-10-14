@@ -4,7 +4,7 @@ description: Tutorials för att hjälpa dig att komma igång på Creative Cloud 
 role: User
 level: Beginner, Intermediate
 exl-id: eea91ea5-9adc-4a7f-93c0-6cdfe650cfb7
-source-git-commit: b529575f0c128b55509cadafc07fe3d008c987a3
+source-git-commit: 384f104dd62a89b5874f7c5ba666fca56755c905
 workflow-type: tm+mt
 source-wordcount: '1453'
 ht-degree: 0%
@@ -316,11 +316,11 @@ Som kreatör i ett företag måste du samarbeta med distribuerade team, upprätt
 <table  style="table-layout:fixed">
 <tr>
 <td>
-   <a href="assets/TamingTypeAnxiety.pdf">
+   <a href="Taming-font-anxiety.md">
       <img alt="Tämjande ångest" src="assets/TamingTypeAnxiety.jpg" />
    </a>
     <div>
-   <a href="assets/TamingTypeAnxiety.pdf"><strong>Tämjning typ ångest (PDF)</strong></a>
+   <a href="Taming-font-anxiety.md"><strong>Tämjning typ ångest (PDF)</strong></a>
     </div>
     <em>Lär dig hur du får tillgång till och använder över 20 000 professionellt utformade teckensnitt i Creative Cloud</em>
     <br>

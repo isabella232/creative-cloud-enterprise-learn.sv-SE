@@ -1,13 +1,13 @@
 ---
 user-guide-title: Creative Cloud for enterprise Tutorials
 breadcrumb-title: Creative Cloud for enterprise
-user-guide-description: Se självstudiekurser och snabbguider med fokus på Creative Cloud för företag.
+user-guide-description: Se självstudiekurser och snabbguider med fokus på Creative Cloud för företag
 solution: Creative Cloud
 type: Tutorial
-source-git-commit: c649360eab0566ef15df295d8ad09a5c0d2ec5c9
+source-git-commit: 70e1e436f8fe439259fea2c48b263f255002fb10
 workflow-type: tm+mt
-source-wordcount: '380'
-ht-degree: 8%
+source-wordcount: '387'
+ht-degree: 9%
 
 ---
 
@@ -20,13 +20,15 @@ ht-degree: 8%
    + Självstudiekurser {#ccetutorials}
       + [Acrobat för innehållsskapare](cce/acrobat-content-creators.md)
       + [Förbättra CC-arbetsflöden med CC Libraries](cce/cc-workflows-cc-libraries.md)
+      + [Tämja typångest](cce/Taming-font-anxiety.md)
       + [Skapa Creative Cloud Libraries för team](cce/ccteamlibraries.md)
       + [Dela varumärkesresurser med Creative Cloud Libraries for teams](cce/sharecclibraries.md)
       + [Skapa unika montage med Adobe [!DNL Stock] och Photoshop för iPad](cce/compositepsipad.md)
       + [Skapa biografer med Photoshop](cce/cinemagraphps.md)
       + [Avkodning av alfabetet soppa av grafiska format](cce/alphabetsoup.md)
       + [Prova på Fresco på iPad och iPhone](cce/frescoworkshop.md)
-   + [Snabbguider](quick-reference/overview-ref.md)
+   + Snabbguider {#ccerefguides}
+   + [Lista över produkter](quick-reference/overview-ref.md)
 + [!DNL Stock] {#stockoverview}
    + [Översikt](stock/overview-stock.md)
    + Självstudiekurser {#stocktutorials}
@@ -63,7 +65,8 @@ ht-degree: 8%
    + [Översikt](dva/overview-dva.md)
    + Självstudiekurser {#videotutorials}
       + [Videogranskning med Frame.io](dva/video-review-frame-io.md)
-   + [Snabbguider](dva/overview-dva-ref.md)
+   + Snabbguider {#stockrefguides}
+      + [Stock-stödlinjer](dva/overview-dva-ref.md)
 + XD {#xdoverview}
    + [Översikt](xd/overview-xd.md)
    + Självstudiekurser {#xdtutorials}
