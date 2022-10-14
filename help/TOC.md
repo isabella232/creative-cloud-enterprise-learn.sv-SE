@@ -4,9 +4,9 @@ breadcrumb-title: Creative Cloud for enterprise
 user-guide-description: Se självstudiekurser och snabbguider med fokus på Creative Cloud för företag.
 solution: Creative Cloud
 type: Tutorial
-source-git-commit: b99fa53168d2d2d4bb6c14ebf3a9a52e8f0af379
+source-git-commit: a8ce127bd9eee259bd1d37640abcfb41631a5fe3
 workflow-type: tm+mt
-source-wordcount: '362'
+source-wordcount: '374'
 ht-degree: 8%
 
 ---
@@ -18,6 +18,7 @@ ht-degree: 8%
 + CCE {#cceoverview}
    + [Översikt](cce/overview-cce.md)
    + Självstudiekurser {#ccetutorials}
+      + [Acrobat för innehållsskapare](cce/acrobat-content-creators.md)
       + [Skapa Creative Cloud Libraries för team](cce/ccteamlibraries.md)
       + [Dela varumärkesresurser med Creative Cloud Libraries for teams](cce/sharecclibraries.md)
       + [Skapa unika montage med Adobe [!DNL Stock] och Photoshop för iPad](cce/compositepsipad.md)
@@ -51,10 +52,6 @@ ht-degree: 8%
       + [Anpassa en inläsningsskärmanimering med Adobe [!DNL Stock] och XD](stock/loadingscreen.md)
       + [Anpassa en Adobe [!DNL Stock] presentationsmall som ser professionell ut](stock/presentationtemplate.md)
       + [Anpassa färgerna i en Adobe [!DNL Stock] vektorillustration](stock/customizecolors.md)
-+ XD {#xdoverview}
-   + [Översikt](xd/overview-xd.md)
-   + Självstudiekurser {#xdtutorials}
-   + [Bekvämt med [!UICONTROL Komponenter] i Adobe XD](xd/components.md)
 + 3D &amp; VR {#3doverview}
    + [Översikt](3di/overview-3di.md)
    + Självstudiekurser {#3dtutorials}
@@ -62,7 +59,14 @@ ht-degree: 8%
       + [Skapa fotorealistisk virtuell fotografering med 3D-rendering och montage](3di/photorealistic.md)
       + [Anpassa och märka en 3D-modell med [!DNL Dimension] och Adobe [!DNL Stock]](3di/3ddimensionstock.md)
 + Video {#videooverview}
-   + [Självstudiekurser](dva/overview-dva.md)
+   + [Översikt](dva/overview-dva.md)
+   + Självstudiekurser {#videotutorials}
+      + [Videogranskning med Frame.io](dva/video-review-frame-io.md)
+   + [Snabbguider](dva/overview-dva-ref.md)
++ XD {#xdoverview}
+   + [Översikt](xd/overview-xd.md)
+   + Självstudiekurser {#xdtutorials}
+   + [Bekvämt med [!UICONTROL Komponenter] i Adobe XD](xd/components.md)
 + Driftsätta och hantera {#deploy}
    + [Översikt](deploy/overview-deploy.md)
    + [Serienumrets giltighetstid](deploy/cceserial.md)

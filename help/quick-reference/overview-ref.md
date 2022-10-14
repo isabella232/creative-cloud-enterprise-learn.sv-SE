@@ -4,9 +4,9 @@ description: Tutorials för att hjälpa dig att komma igång på Creative Cloud 
 role: User
 level: Beginner, Intermediate
 exl-id: 5c981e46-7599-4b49-99be-f5dcee60636d
-source-git-commit: b31d4d2f7c8d141d65c7e4b72595fbc1c1252fd2
+source-git-commit: 86d38929a610846a56def4b71b22da3f111a4761
 workflow-type: tm+mt
-source-wordcount: '1200'
+source-wordcount: '1208'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,39 @@ ht-degree: 0%
 Som kreatör i ett företag måste du samarbeta med distribuerade team, upprätta skalbara processer och följa företagets system och riktlinjer. Dessa snabbguider hjälper dig att lära dig nya funktioner i Creative Cloud.
 
 
-## Klicka för att hämta PDF i snabbguiden
+## Klicka för att ladda ned PDF i snabbguiden (i alfabetisk ordning)
+
+### Adobe Express (tidigare Adobe Spark)
+
+<table>
+<tr>
+ <td>
+   <a href="CreateEditandShareaWebPagewithSpark.pdf">
+      <img alt="Skapa, redigera och dela en webbsida med Spark" src="../assets/acrobat_PDF_96.png" />
+   </a>
+    <div>
+   <a href="CreateEditandShareaWebPagewithSpark.pdf"><strong>Skapa, redigera och dela en webbsida med Spark (PDF)</strong></a>
+    </div>
+    <em>Skapa ett interaktivt, responsivt och ljuslådeaktiverat fotorutnät för din webbsida med enkla och intuitiva verktyg i Adobe Spark och vackra bilder från Adobe [!DNL Stock]</em>
+    <br>
+  </td>
+  <td>
+    <img alt="Mellanrum" src="../assets/acrobat_PDF_whitespacer_96.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="Mellanrum" src="../assets/acrobat_PDF_whitespacer_96.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="Mellanrum" src="../assets/acrobat_PDF_whitespacer_96.png" />
+    <div>
+    <br>
+  </td>
+</tr>
+</table>
 
 ### Creative Cloud for enterprise
 
@@ -54,7 +86,6 @@ Som kreatör i ett företag måste du samarbeta med distribuerade team, upprätt
     <em>Utforska de fantastiska funktionerna i Lightroom på din mobila enhet för att ta fram det bästa i dina bilder</em>
     <br>
   </td>
-</tr>
   <td>
    <a href="SketchCompandFinalizeaBrochureLayoutwithCreativeCloud.pdf">
       <img alt="Skissa, komponera och färdigställ en broschyrlayout med Creative Cloud" src="../assets/acrobat_PDF_96.png" />
@@ -65,32 +96,95 @@ Som kreatör i ett företag måste du samarbeta med distribuerade team, upprätt
     <em>Utforska snabbt layoutidéer för tryck, webb, mobil eller sociala medier på din mobila enhet med Adobe Comp</em>
     <br>
   </td>
+</tr>
+</table>
+
+### Teckensnitt
+
+<table>
+<tr>
   <td>
-    <img alt="Mellanrum" src="../assets/GrayBanner_Spacer.png" />
+   <a href="UnlimitedAdobeFontsatyourFingertips.pdf">
+      <img alt="Skapa vacker typografi med Creative Cloud" src="../assets/acrobat_PDF_96.png" />
+   </a>
+    <div>
+   <a href="UnlimitedAdobeFontsatyourFingertips.pdf"><strong>Obegränsad Adobe Fonts nära till hands (PDF)</strong></a>
+    </div>
+    <em>[!DNL Capture] intressanta teckensnitt i verkligheten med Adobe [!DNL Capture] på din mobila enhet och sedan identifiera och aktivera och spara liknande teckensnitt med hjälp av Adobe Fonts- och Creative Cloud-bibliotek</em>
+    <br>
+  </td>
+   <td>
+    <img alt="Mellanrum" src="../assets/acrobat_PDF_whitespacer_96.png" />
     <div>
     <br>
   </td>
   <td>
-    <img alt="Mellanrum" src="../assets/GrayBanner_Spacer.png" />
+    <img alt="Mellanrum" src="../assets/acrobat_PDF_whitespacer_96.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="Mellanrum" src="../assets/acrobat_PDF_whitespacer_96.png" />
     <div>
     <br>
   </td>
 </tr>
 </table>
 
-
-### Adobe Express (tidigare Adobe Spark)
+### Fresco
 
 <table>
 <tr>
  <td>
-   <a href="CreateEditandShareaWebPagewithSpark.pdf">
-      <img alt="Skapa, redigera och dela en webbsida med Spark" src="../assets/acrobat_PDF_96.png" />
+   <a href="Frescoworkshop.pdf">
+      <img alt="Prova på Fresco på iPad (och iPhone)" src="../assets/acrobat_PDF_96.png" />
    </a>
     <div>
-   <a href="CreateEditandShareaWebPagewithSpark.pdf"><strong>Skapa, redigera och dela en webbsida med Spark (PDF)</strong></a>
+   <a href="Frescoworkshop.pdf"><strong>Prova på Fresco på iPad (och iPhone) (PDF)</strong></a>
     </div>
-    <em>Skapa ett interaktivt, responsivt och ljuslådeaktiverat fotorutnät för din webbsida med enkla och intuitiva verktyg i Adobe Spark och vackra bilder från Adobe [!DNL Stock]</em>
+    <em>Utforska en helt ny värld av digitalteckning och målning med Adobe Fresco i denna 15 minuter långa praktiska verkstad</em>
+    <br>
+  </td>
+  <td>
+    <img alt="Mellanrum" src="../assets/acrobat_PDF_whitespacer_96.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="Mellanrum" src="../assets/acrobat_PDF_whitespacer_96.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="Mellanrum" src="../assets/acrobat_PDF_whitespacer_96.png" />
+    <div>
+    <br>
+  </td>
+</tr>
+</table>
+
+### Illustrator
+
+<table>
+<tr>
+   <td>
+   <a href="CreateacompositeusingimagesandshapeswithIllustratorforiPad.pdf">
+      <img alt="Skapa en sammansatt bild med hjälp av bilder och former med Illustrator för iPad" src="../assets/acrobat_PDF_96.png" />
+   </a>
+    <div>
+   <a href="CreateacompositeusingimagesandshapeswithIllustratorforiPad.pdf"><strong>Skapa en sammansatt bild med hjälp av bilder och former med Illustrator för iPad (PDF)</strong></a>
+    </div>
+    <em>Med Illustrator kan du formatera teckningar på ungefär samma sätt som du formaterar text</em>
+    <br>
+  </td>
+   <td>
+   <a href="ResponsiveandAnimatedSVGwithXDIllustratorandCSS.pdf">
+      <img alt="Responsiv och animerad SVG med XD, Illustrator och CSS" src="../assets/acrobat_PDF_96.png" />
+   </a>
+    <div>
+   <a href="ResponsiveandAnimatedSVGwithXDIllustratorandCSS.pdf"><strong>Responsiv och animerad SVG med XD, Illustrator och CSS (PDF)</strong></a>
+    </div>
+    <em>Lägg till animeringar i SVG-filerna med bara några rader CSS</em>
     <br>
   </td>
   <td>
@@ -140,8 +234,6 @@ Som kreatör i ett företag måste du samarbeta med distribuerade team, upprätt
     <em>Skapa ett levande foto genom att kombinera videoklipp från Adobe [!DNL Stock] med smarta maskningstekniker i Photoshop. Ge liv åt dina bilder med rörelse och en strategisk looppunkt</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
    <a href="CreateJaw-DroppingGraphicswithPhotoshopAfterEffects.pdf">
       <img alt="Skapa häpnadsväckande grafik med Photoshop + After Effects" src="../assets/acrobat_PDF_96.png" />
@@ -152,6 +244,8 @@ Som kreatör i ett företag måste du samarbeta med distribuerade team, upprätt
     <em>Använd en vanlig videoteknik i After Effects för att snabbt ta bort en bakgrundsfärg i ett foto för att skapa en unik fotosammansättning för dina designprojekt</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
    <a href="GettoknowPhotoshopontheiPad.pdf">
       <img alt="Lär känna Photoshop på iPad" src="../assets/acrobat_PDF_96.png" />
@@ -167,93 +261,17 @@ Som kreatör i ett företag måste du samarbeta med distribuerade team, upprätt
     <div>
     <br>
   </td>
+  <td>
+    <img alt="Mellanrum" src="../assets/GrayBanner_Spacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="Mellanrum" src="../assets/GrayBanner_Spacer.png" />
+    <div>
+    <br>
+  </td>
 </tr>  
-</table>
-
-### Fresco
-
-<table>
-<tr>
- <td>
-   <a href="Frescoworkshop.pdf">
-      <img alt="Prova på Fresco på iPad (och iPhone)" src="../assets/acrobat_PDF_96.png" />
-   </a>
-    <div>
-   <a href="Frescoworkshop.pdf"><strong>Prova på Fresco på iPad (och iPhone) (PDF)</strong></a>
-    </div>
-    <em>Utforska en helt ny värld av digitalteckning och målning med Adobe Fresco i denna 15 minuter långa praktiska verkstad</em>
-    <br>
-  </td>
-  <td>
-    <img alt="Mellanrum" src="../assets/acrobat_PDF_whitespacer_96.png" />
-    <div>
-    <br>
-  </td>
-  <td>
-    <img alt="Mellanrum" src="../assets/acrobat_PDF_whitespacer_96.png" />
-    <div>
-    <br>
-  </td>
-</tr>
-</table>
-
-### XD
-
-<table>
-<tr>
-   <td>
-   <a href="AdobeXDAdvancedVoicePrototyping.pdf">
-      <img alt="Adobe XD: Avancerade röstprototyper" src="../assets/acrobat_PDF_96.png" />
-   </a>
-    <div>
-   <a href="AdobeXDAdvancedVoicePrototyping.pdf"><strong>Adobe XD: Advanced Voice Prototyping (PDF)</strong></a>
-    </div>
-    <em>Skapa en interaktiv prototyp som kan svara på klickningar, beröringar och ljudindata från dina användare</em>
-    <br>
-  </td>
-   <td>
-   <a href="CoeditingReal-TimeDesignCollaborationUsingAdobeXD.pdf">
-      <img alt="Samredigering: Designsamarbete i realtid med Adobe XD" src="../assets/acrobat_PDF_96.png" />
-   </a>
-    <div>
-   <a href="CoeditingReal-TimeDesignCollaborationUsingAdobeXD.pdf"><strong>Samredigering: Designsamarbete i realtid med Adobe XD (PDF)</strong></a>
-    </div>
-    <em>Lär dig samarbeta över en interaktiv prototyp med kollegor, kunder och utvecklare med de unika verktygen för delning som finns i Adobe XD och Creative Cloud</em>
-    <br>
-  </td>
-  <td>
-   <a href="DesignandPrototypeInteractiveProjectswithCreativeCloud.pdf">
-      <img alt="Designa och skapa prototyper för interaktiva projekt med Creative Cloud" src="../assets/acrobat_PDF_96.png" />
-   </a>
-    <div>
-   <a href="DesignandPrototypeInteractiveProjectswithCreativeCloud.pdf"><strong>Designa och skapa prototyper för interaktiva projekt med Creative Cloud (PDF)</strong></a>
-    </div>
-    <em>Skapa en helt interaktiv och animerad användarupplevelse på bara några minuter genom att kombinera Adobe XD med ett stort utbud av unika och mångsidiga resurser på Adobe [!DNL Stock]</em>
-    <br>
-  </td>
- </tr>
- <tr>
-  <td>
-   <a href="LetsXDSeeHowtoDesignPrototypeandHandofftoTeams.pdf">
-      <img alt="Let’s XD - Se hur du designar, tar fram prototyper och lämnar över till team" src="../assets/acrobat_PDF_96.png" />
-   </a>
-    <div>
-   <a href="LetsXDSeeHowtoDesignPrototypeandHandofftoTeams.pdf"><strong>Let’s XD - Se hur du designar, skapar prototyper och lämnar över till team (PDF)</strong></a>
-    </div>
-    <em>Komponenter ger dig oöverträffad flexibilitet när du snabbt och enhetligt arbetar i designflödet</em>
-    <br>
-  </td>
-  <td>
-    <img alt="Mellanrum" src="../assets/GrayBanner_Spacer.png" />
-    <div>
-    <br>
-  </td>
-  <td>
-    <img alt="Mellanrum" src="../assets/GrayBanner_Spacer.png" />
-    <div>
-    <br>
-  </td>
-</tr>
 </table>
 
 ### [!DNL Stock]
@@ -290,8 +308,6 @@ Som kreatör i ett företag måste du samarbeta med distribuerade team, upprätt
     <em>[!DNL Capture] tittarnas uppmärksamhet, oavsett bildskärm, genom att kombinera foton med videofilmer från Adobe [!DNL Stock]</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
    <a href="ShowcaseyourdatawithAdobeStockMotionGraphicTemplates.pdf">
       <img alt="Visa upp dina data med Adobe [!DNL Stock] Mallar för rörelsegrafik" src="../assets/acrobat_PDF_96.png" />
@@ -302,6 +318,8 @@ Som kreatör i ett företag måste du samarbeta med distribuerade team, upprätt
     <em>Visa dina data på ett mer inflytelserikt sätt genom att lägga till rörelse och design med en Motion Graphic-mall från Adobe [!DNL Stock]</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
    <a href="ShowOffYourDesignWorkintheRealWorld.pdf">
       <img alt="Visa upp ditt designarbete i verkligheten" src="../assets/acrobat_PDF_96.png" />
@@ -322,58 +340,9 @@ Som kreatör i ett företag måste du samarbeta med distribuerade team, upprätt
     <em>Kombinera statiska bilder och videoklipp i Photoshop och skapa en engagerande animerad GIF som passar ett stort antal e-postprogram</em>
     <br>
   </td>
-</tr>
-</table>
-
-### Teckensnitt
-
-<table>
-<tr>
-  <td>
-   <a href="UnlimitedAdobeFontsatyourFingertips.pdf">
-      <img alt="Skapa vacker typografi med Creative Cloud" src="../assets/acrobat_PDF_96.png" />
-   </a>
-    <div>
-   <a href="UnlimitedAdobeFontsatyourFingertips.pdf"><strong>Obegränsad Adobe Fonts nära till hands (PDF)</strong></a>
-    </div>
-    <em>[!DNL Capture] intressanta teckensnitt i verkligheten med Adobe [!DNL Capture] på din mobila enhet och sedan identifiera och aktivera och spara liknande teckensnitt med hjälp av Adobe Fonts- och Creative Cloud-bibliotek</em>
-    <br>
-  </td>
-   <td>
-    <img alt="Mellanrum" src="../assets/acrobat_PDF_whitespacer_96.png" />
-    <div>
-    <br>
-  </td>
   <td>
     <img alt="Mellanrum" src="../assets/acrobat_PDF_whitespacer_96.png" />
     <div>
-    <br>
-  </td>
-</tr>
-</table>
-
-### Illustrator
-
-<table>
-<tr>
-   <td>
-   <a href="CreateacompositeusingimagesandshapeswithIllustratorforiPad.pdf">
-      <img alt="Skapa en sammansatt bild med hjälp av bilder och former med Illustrator för iPad" src="../assets/acrobat_PDF_96.png" />
-   </a>
-    <div>
-   <a href="CreateacompositeusingimagesandshapeswithIllustratorforiPad.pdf"><strong>Skapa en sammansatt bild med hjälp av bilder och former med Illustrator för iPad (PDF)</strong></a>
-    </div>
-    <em>Med Illustrator kan du formatera teckningar på ungefär samma sätt som du formaterar text</em>
-    <br>
-  </td>
-   <td>
-   <a href="ResponsiveandAnimatedSVGwithXDIllustratorandCSS.pdf">
-      <img alt="Responsiv och animerad SVG med XD, Illustrator och CSS" src="../assets/acrobat_PDF_96.png" />
-   </a>
-    <div>
-   <a href="ResponsiveandAnimatedSVGwithXDIllustratorandCSS.pdf"><strong>Responsiv och animerad SVG med XD, Illustrator och CSS (PDF)</strong></a>
-    </div>
-    <em>Lägg till animeringar i SVG-filerna med bara några rader CSS</em>
     <br>
   </td>
   <td>
@@ -406,6 +375,11 @@ Som kreatör i ett företag måste du samarbeta med distribuerade team, upprätt
    <a href="SkiptheShootGettheShot.pdf"><strong>Hoppa över tagningen - Ta bilden (PDF)</strong></a>
     </div>
     <em>Anpassa och märka en 3D-modell i [!DNL Dimension] använda material, miljöegenskaper, ljus och fotografi för att skapa fotorealistiska bilder för alla designprojekt</em>
+    <br>
+  </td>
+  <td>
+    <img alt="Mellanrum" src="../assets/acrobat_PDF_whitespacer_96.png" />
+    <div>
     <br>
   </td>
   <td>
@@ -450,7 +424,6 @@ Som kreatör i ett företag måste du samarbeta med distribuerade team, upprätt
     <em>Berätta en övertygande historia i sociala medier genom att kombinera video och grafik i Premiere Pro</em>
     <br>
   </td>
-<tr>
   <td>
    <a href="ShootEditPublishyourVideoswithCreativeCloud.pdf">
       <img alt="Fotografera, redigera och publicera dina bilder med Creative Cloud" src="../assets/acrobat_PDF_96.png" />
@@ -461,15 +434,52 @@ Som kreatör i ett företag måste du samarbeta med distribuerade team, upprätt
     <em>Kombinera video och rörlig grafik för att berätta en övertygande historia för sociala medier med lättanvända redigeringsverktyg och rörelsegrafikmallar i Premiere [!DNL Rush]</em>
     <br>
   </td>
-  <td>
-    <img alt="Mellanrum" src="../assets/GrayBanner_Spacer.png" />
-    <div>
-    <br>
-  </td>
-  <td>
-    <img alt="Mellanrum" src="../assets/GrayBanner_Spacer.png" />
-    <div>
-    <br>
-  </td>
 </tr>
+</table>
+
+### XD
+
+<table>
+<tr>
+   <td>
+   <a href="AdobeXDAdvancedVoicePrototyping.pdf">
+      <img alt="Adobe XD: Avancerade röstprototyper" src="../assets/acrobat_PDF_96.png" />
+   </a>
+    <div>
+   <a href="AdobeXDAdvancedVoicePrototyping.pdf"><strong>Adobe XD: Advanced Voice Prototyping (PDF)</strong></a>
+    </div>
+    <em>Skapa en interaktiv prototyp som kan svara på klickningar, beröringar och ljudindata från dina användare</em>
+    <br>
+  </td>
+   <td>
+   <a href="CoeditingReal-TimeDesignCollaborationUsingAdobeXD.pdf">
+      <img alt="Samredigering: Designsamarbete i realtid med Adobe XD" src="../assets/acrobat_PDF_96.png" />
+   </a>
+    <div>
+   <a href="CoeditingReal-TimeDesignCollaborationUsingAdobeXD.pdf"><strong>Samredigering: Designsamarbete i realtid med Adobe XD (PDF)</strong></a>
+    </div>
+    <em>Lär dig samarbeta över en interaktiv prototyp med kollegor, kunder och utvecklare med de unika verktygen för delning som finns i Adobe XD och Creative Cloud</em>
+    <br>
+  </td>
+  <td>
+   <a href="DesignandPrototypeInteractiveProjectswithCreativeCloud.pdf">
+      <img alt="Designa och skapa prototyper för interaktiva projekt med Creative Cloud" src="../assets/acrobat_PDF_96.png" />
+   </a>
+    <div>
+   <a href="DesignandPrototypeInteractiveProjectswithCreativeCloud.pdf"><strong>Designa och skapa prototyper för interaktiva projekt med Creative Cloud (PDF)</strong></a>
+    </div>
+    <em>Skapa en helt interaktiv och animerad användarupplevelse på bara några minuter genom att kombinera Adobe XD med ett stort utbud av unika och mångsidiga resurser på Adobe [!DNL Stock]</em>
+    <br>
+  </td>
+  <td>
+   <a href="LetsXDSeeHowtoDesignPrototypeandHandofftoTeams.pdf">
+      <img alt="Nu ska vi använda XD - Se hur man designar, gör prototyper och lämnar över till Teams" src="../assets/acrobat_PDF_96.png" />
+   </a>
+    <div>
+   <a href="LetsXDSeeHowtoDesignPrototypeandHandofftoTeams.pdf"><strong>Let's XD - Se hur du designar, skapar prototyper och lämnar över till Teams (PDF)</strong></a>
+    </div>
+    <em>Komponenter ger dig oöverträffad flexibilitet när du snabbt och enhetligt arbetar i designflödet</em>
+    <br>
+  </td>
+ </tr>
 </table>
