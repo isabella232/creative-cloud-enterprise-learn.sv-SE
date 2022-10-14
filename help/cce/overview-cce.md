@@ -4,9 +4,9 @@ description: Tutorials för att hjälpa dig att komma igång på Creative Cloud 
 role: User
 level: Beginner, Intermediate
 exl-id: eea91ea5-9adc-4a7f-93c0-6cdfe650cfb7
-source-git-commit: eb461cadf0dc4c2122e3772e6d8f082516fd14f0
+source-git-commit: c649360eab0566ef15df295d8ad09a5c0d2ec5c9
 workflow-type: tm+mt
-source-wordcount: '1423'
+source-wordcount: '1453'
 ht-degree: 0%
 
 ---
@@ -25,11 +25,11 @@ Som kreatör i ett företag måste du samarbeta med distribuerade team, upprätt
 <table style="table-layout:fixed">
 <tr>
  <td>
-   <a href="assets/AcrobatforContentCreators.pdf">
+   <a href="acrobat-content-creators.md">
       <img alt="Acrobat för innehållsskapare" src="assets/AcrobatforContentCreators.jpg" />
    </a>
     <div>
-   <a href="assets/AcrobatforContentCreators.pdf"><strong>Acrobat för innehållsskapare (PDF)</strong></a>
+   <a href="acrobat-content-creators.md"><strong>Acrobat för innehållsskapare (PDF)</strong></a>
     </div>
     <em>Läs om verktygen i Acrobat som effektiviserar arbetsflödet</em>
     <br>
@@ -141,6 +141,16 @@ Som kreatör i ett företag måste du samarbeta med distribuerade team, upprätt
 <table  style="table-layout:fixed">
 <tr>
   <td>
+   <a href="cc-workflows-cc-libraries.md">
+      <img alt="Förbättra CC-arbetsflöden med CC Libraries" src="assets/CCTeamLibraries_1280.jpg" />
+   </a>
+   <div>
+   <a href="cc-workflows-cc-libraries.md"><strong>Förbättra CC-arbetsflöden med CC Libraries</strong></a>
+    </div>
+    <em>Läs om hur Creative Cloud Libraries håller ihop designelement - och säkerställer enhetliga projekt för designers och team</em>
+    <br>
+  </td>
+  <td>
    <a href="ccteamlibraries.md">
       <img alt="Skapa Creative Cloud Libraries för team" src="assets/CCTeamLibraries_1280.jpg" />
    </a>
@@ -170,6 +180,8 @@ Som kreatör i ett företag måste du samarbeta med distribuerade team, upprätt
     <em>Creative Cloud Libraries har ett inbyggt varumärkessystem som gör att designers kan dela varumärkesresurser mellan olika team</em>
     <br>
   </td>
+  </tr>
+  <tr>
   <td>
    <a href="assets/ShareTextStylesFromIllustratorwithCreativeCloudLibraries.pdf">
       <img alt="Dela textformat från Illustrator med Creative Cloud Libraries" src="assets/ShareTextStylesFromIllustratorwithCreativeCloudLibraries.jpg" />
@@ -178,6 +190,21 @@ Som kreatör i ett företag måste du samarbeta med distribuerade team, upprätt
    <a href="assets/ShareTextStylesFromIllustratorwithCreativeCloudLibraries.pdf"><strong>Dela textformat från Illustrator med Creative Cloud Libraries (PDF)</strong></a>
     </div>
     <em>Arbeta smartare, inte hårdare, i Illustrator</em>
+    <br>
+  </td>
+  <td>
+    <img alt="Mellanrum" src="../assets/acrobat_PDF_grayspacer_96.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="Mellanrum" src="../assets/acrobat_PDF_grayspacer_96.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="Mellanrum" src="../assets/acrobat_PDF_grayspacer_96.png" />
+    <div>
     <br>
   </td>
 </tr>

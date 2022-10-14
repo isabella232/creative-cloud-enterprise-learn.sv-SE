@@ -4,7 +4,7 @@ description: Tutorials för att hjälpa dig att komma igång med Adobe DVA-produ
 role: User
 level: Beginner, Intermediate
 exl-id: 4a0c57f5-053f-4e47-a42e-05f2d2a1bd15
-source-git-commit: a8ce127bd9eee259bd1d37640abcfb41631a5fe3
+source-git-commit: 36a413f40c7f8743d81628c36daba0062844679b
 workflow-type: tm+mt
 source-wordcount: '87'
 ht-degree: 0%

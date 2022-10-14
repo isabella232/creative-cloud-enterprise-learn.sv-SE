@@ -4,9 +4,9 @@ breadcrumb-title: Creative Cloud for enterprise
 user-guide-description: Se självstudiekurser och snabbguider med fokus på Creative Cloud för företag.
 solution: Creative Cloud
 type: Tutorial
-source-git-commit: a8ce127bd9eee259bd1d37640abcfb41631a5fe3
+source-git-commit: c649360eab0566ef15df295d8ad09a5c0d2ec5c9
 workflow-type: tm+mt
-source-wordcount: '374'
+source-wordcount: '380'
 ht-degree: 8%
 
 ---
@@ -19,6 +19,7 @@ ht-degree: 8%
    + [Översikt](cce/overview-cce.md)
    + Självstudiekurser {#ccetutorials}
       + [Acrobat för innehållsskapare](cce/acrobat-content-creators.md)
+      + [Förbättra CC-arbetsflöden med CC Libraries](cce/cc-workflows-cc-libraries.md)
       + [Skapa Creative Cloud Libraries för team](cce/ccteamlibraries.md)
       + [Dela varumärkesresurser med Creative Cloud Libraries for teams](cce/sharecclibraries.md)
       + [Skapa unika montage med Adobe [!DNL Stock] och Photoshop för iPad](cce/compositepsipad.md)
