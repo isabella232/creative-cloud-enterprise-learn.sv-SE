@@ -4,7 +4,7 @@ description: Tutorials för att hjälpa dig att komma igång med Adobe XD
 role: User
 level: Beginner, Intermediate
 exl-id: 411ef3da-42c1-4c98-a75d-dca990546eb4
-source-git-commit: b99fa53168d2d2d4bb6c14ebf3a9a52e8f0af379
+source-git-commit: 442c619a9119b0c6b45bd86ff53caf7bdb3387df
 workflow-type: tm+mt
 source-wordcount: '458'
 ht-degree: 0%
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 ![Creative Cloud Hero Image](../assets/XD.jpg)
 
-Adobe XD är ett verktyg för design och prototyper av användarupplevelser för att designa webbplatser, appar, röstgränssnitt, spel och andra typer av digitala upplevelser.
-
-## Klicka här om du vill se en Adobe XD-självstudiekurs
+Adobe XD är ett verktyg för design och prototyper av användarupplevelser för att designa webbplatser, appar, röstgränssnitt, spel och andra typer av digitala upplevelser. Välj en bild för att visa en självstudiekurs.
 
 <table>
 <tr>
@@ -32,107 +30,105 @@ Adobe XD är ett verktyg för design och prototyper av användarupplevelser för
     <br>
   </td>
   <td>
-   <a href="assets/ControlMultipleXDArtboardswithNestedSymbols.pdf">
+   <a href="assets/ControlMultipleXDArtboardswithNestedSymbols.pdf" target="_blank">
       <img alt="Styra flera XD-ritytor med kapslade symboler" src="assets/ControlMultipleXDArtboardswithNestedSymbols.jpg" />
    </a>
     <div>
-   <a href="assets/ControlMultipleXDArtboardswithNestedSymbols.pdf"><strong>Styra flera XD-ritytor med kapslade symboler (PDF)</strong></a>
+   <a href="assets/ControlMultipleXDArtboardswithNestedSymbols.pdf" target="_blank"><strong>Styra flera XD-ritytor med kapslade symboler (PDF)</strong></a>
     </div>
     <em>Symboler är ett utmärkt sätt att skapa återanvändbara teckningar och text som kan användas flera gånger på ritytor i projektet</em>
     <br>
   </td>
   <td>
-   <a href="assets/CreateaZoomableeCommercePhotowithXDandAdobeStock.pdf">
+   <a href="assets/CreateaZoomableeCommercePhotowithXDandAdobeStock.pdf" target="_blank">
       <img alt="Skapa ett zoombart e-handelsfoto med XD och Adobe [!DNL Stock]" src="assets/CreateaZoomableeCommercePhotowithXDandAdobeStock.jpg" />
    </a>
     <div>
-   <a href="assets/CreateaZoomableeCommercePhotowithXDandAdobeStock.pdf"><strong>Skapa ett zoombart e-handelsfoto med XD och Adobe [!DNL Stock] (PDF)</strong></a>
+   <a href="assets/CreateaZoomableeCommercePhotowithXDandAdobeStock.pdf" target="_blank"><strong>Skapa ett zoombart e-handelsfoto med XD och Adobe [!DNL Stock] (PDF)</strong></a>
     </div>
     <em>Genom att kombinera högupplösta foton med funktionen Animera automatiskt i Adobe XD kan du skapa mer engagerande upplevelser för webbplatsen</em>
     <br>
   </td>
-</tr>
-<tr>
- <td>
-   <a href="assets/CreatingaRotatingProductInterfaceforECommercewithAdobeXD.pdf">
+  <td>
+   <a href="assets/CreatingaRotatingProductInterfaceforECommercewithAdobeXD.pdf" target="_blank">
       <img alt="Skapa ett roterande produktgränssnitt för e-handel med Adobe XD" src="assets/CreatingaRotatingProductInterfaceforECommercewithAdobeXD.jpg" />
    </a>
     <div>
-   <a href="assets/CreatingaRotatingProductInterfaceforECommercewithAdobeXD.pdf"><strong>Skapa ett roterande produktgränssnitt för e-handel med Adobe XD (PDF)</strong></a>
+   <a href="assets/CreatingaRotatingProductInterfaceforECommercewithAdobeXD.pdf" target="_blank"><strong>Skapa ett roterande produktgränssnitt för e-handel med Adobe XD (PDF)</strong></a>
     </div>
     <em>Designa ett gränssnitt som ger en roterande vy av produkten, och sedan kan du förvandla din design till en interaktiv prototyp som visar exakt hur upplevelsen kommer att fungera på webben eller mobilen</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
-   <a href="assets/DesignandPrototypeanInteractiveQuizwithXD.pdf">
+   <a href="assets/DesignandPrototypeanInteractiveQuizwithXD.pdf" target="_blank">
       <img alt="Designa och gör prototyper till interaktiva frågor med XD" src="assets/DesignandPrototypeanInteractiveQuizwithXD.jpg" />
    </a>
     <div>
-   <a href="assets/DesignandPrototypeanInteractiveQuizwithXD.pdf"><strong>Designa och skapa prototyper för interaktiva frågor med XD (PDF)</strong></a>
+   <a href="assets/DesignandPrototypeanInteractiveQuizwithXD.pdf" target="_blank"><strong>Designa och skapa prototyper för interaktiva frågor med XD (PDF)</strong></a>
     </div>
     <em>Utforma den feedback en användare kommer att få under ett projekt</em>
     <br>
   </td>
   <td>
-   <a href="assets/DesignInteractiveProjectswithMicroAnimationsinXD.pdf">
+   <a href="assets/DesignInteractiveProjectswithMicroAnimationsinXD.pdf" target="_blank">
       <img alt="Designa interaktiva projekt med mikroanimeringar i XD" src="assets/DesignInteractiveProjectswithMicroAnimationsinXD.jpg" />
    </a>
     <div>
-   <a href="assets/DesignInteractiveProjectswithMicroAnimationsinXD.pdf"><strong>Designa interaktiva projekt med mikroanimeringar i XD (PDF)</strong></a>
+   <a href="assets/DesignInteractiveProjectswithMicroAnimationsinXD.pdf" target="_blank"><strong>Designa interaktiva projekt med mikroanimeringar i XD (PDF)</strong></a>
     </div>
     <em>Lär dig skapa interaktiva animerade prototyper av dina designer med Adobe XD</em>
     <br>
   </td>
-</tr>
-<tr>
- <td>
-   <a href="assets/JumpstartyourXDProjectfromaPhotoshopFile.pdf">
+  <td>
+   <a href="assets/JumpstartyourXDProjectfromaPhotoshopFile.pdf" target="_blank">
       <img alt="Kom igång snabbt med XD-projekt från en Photoshop-fil (PSD)" src="assets/JumpstartyourXDProjectfromaPhotoshopFile.jpg" />
    </a>
     <div>
-   <a href="assets/JumpstartyourXDProjectfromaPhotoshopFile.pdf"><strong>Snabbstarta XD-projekt från en Photoshop-fil (PSD) (PDF)</strong></a>
+   <a href="assets/JumpstartyourXDProjectfromaPhotoshopFile.pdf" target="_blank"><strong>Snabbstarta XD-projekt från en Photoshop-fil (PSD) (PDF)</strong></a>
     </div>
     <em>Adobe XD har några fantastiska interaktiva designverktyg som fungerar tillsammans med ditt befintliga arbetsflöde, så att du kan utveckla din interaktiva designvision</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
-   <a href="assets/MobileWebExperienceswithXD.pdf">
+   <a href="assets/MobileWebExperienceswithXD.pdf" target="_blank">
       <img alt="Designa en mobil webbupplevelse med XD" src="assets/MobileWebExperienceswithXD.jpg" />
    </a>
     <div>
-   <a href="assets/MobileWebExperienceswithXD.pdf"><strong>Designa en mobil webbupplevelse med XD (PDF)</strong></a>
+   <a href="assets/MobileWebExperienceswithXD.pdf" target="_blank"><strong>Designa en mobil webbupplevelse med XD (PDF)</strong></a>
     </div>
     <em>Ta en titt bakom kulisserna på designprocessen för webbgalleriet Russell Brown MAX Madness med Adobe XD</em>
     <br>
   </td>
   <td>
-   <a href="assets/PrototypeaMobileWebExperiencewithAdobeXD.pdf">
+   <a href="assets/PrototypeaMobileWebExperiencewithAdobeXD.pdf" target="_blank">
       <img alt="Skapa prototyper för en mobil webbupplevelse med Adobe XD" src="assets/PrototypeaMobileWebExperiencewithAdobeXD.jpg" />
    </a>
     <div>
-   <a href="assets/PrototypeaMobileWebExperiencewithAdobeXD.pdf"><strong>Skapa prototyper för en mobil webbupplevelse med Adobe XD (PDF)</strong></a>
+   <a href="assets/PrototypeaMobileWebExperiencewithAdobeXD.pdf" target="_blank"><strong>Skapa prototyper för en mobil webbupplevelse med Adobe XD (PDF)</strong></a>
     </div>
     <em>För upplevelsedesign krävs strategier, design och funktionsprototyper - och med Adobe XD kan du göra allt</em>
     <br>
   </td>
-</tr>
-<tr>
-   <td>
-   <a href="assets/PrototypeaMobileWebExperiencewithAdobeXD.pdf">
+  <td>
+   <a href="assets/PrototypeaMobileWebExperiencewithAdobeXD.pdf" target="_blank">
       <img alt="Superladda det upprepade stödrastret i XD med extern text och grafik" src="assets/PrototypeaMobileWebExperiencewithAdobeXD.jpg" />
    </a>
     <div>
-   <a href="assets/PrototypeaMobileWebExperiencewithAdobeXD.pdf"><strong>Superladda det upprepade stödrastret i XD med extern text och grafik (PDF)</strong></a>
+   <a href="assets/PrototypeaMobileWebExperiencewithAdobeXD.pdf" target="_blank"><strong>Superladda det upprepade stödrastret i XD med extern text och grafik (PDF)</strong></a>
     </div>
     <em>Kombinera upprepningsrutnätet med extern text och grafik för att öka produktiviteten</em>
     <br>
   </td>
   <td>
-   <a href="assets/BehindtheScenesofMAXMadnesswithAdobeXD.pdf">
+   <a href="assets/BehindtheScenesofMAXMadnesswithAdobeXD.pdf" target="_blank">
       <img alt="Bakom kulisserna av MAX Madness med Adobe XD" src="assets/BehindtheScenesofMAXMadnesswithAdobeXD.jpg" />
    </a>
     <div>
-   <a href="assets/BehindtheScenesofMAXMadnesswithAdobeXD.pdf"><strong>Bakom kulisserna av MAX Madness med Adobe XD (PDF)</strong></a>
+   <a href="assets/BehindtheScenesofMAXMadnesswithAdobeXD.pdf" target="_blank"><strong>Bakom kulisserna av MAX Madness med Adobe XD (PDF)</strong></a>
     </div>
     <em>En optimerad mobil webbupplevelse kan verkligen genljuda hos dina användare</em>
     <br>

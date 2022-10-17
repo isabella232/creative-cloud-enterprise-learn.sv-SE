@@ -4,7 +4,7 @@ description: Tutorials för att hjälpa dig att komma igång med Adobe DVA-produ
 role: User
 level: Beginner, Intermediate
 exl-id: 4a0c57f5-053f-4e47-a42e-05f2d2a1bd15
-source-git-commit: 36a413f40c7f8743d81628c36daba0062844679b
+source-git-commit: 442c619a9119b0c6b45bd86ff53caf7bdb3387df
 workflow-type: tm+mt
 source-wordcount: '87'
 ht-degree: 0%
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 ![Creative Cloud Hero Image](../assets/CCEbanner-DVA.png)
 
-Förverkliga dina idéer med Adobe-program för videoredigering, rörlig grafik, specialeffekter, animering med mera.
-
-## Klicka här om du vill se en självstudievideo från Adobe
+Förverkliga dina idéer med Adobe-program för videoredigering, rörlig grafik, specialeffekter, animering med mera. Välj en bild för att visa en självstudiekurs.
 
 <table>
 <tr>
