@@ -4,7 +4,7 @@ description: Tutorials för att hjälpa dig att komma igång på Creative Cloud 
 role: User
 level: Beginner, Intermediate
 exl-id: eea91ea5-9adc-4a7f-93c0-6cdfe650cfb7
-source-git-commit: 384f104dd62a89b5874f7c5ba666fca56755c905
+source-git-commit: 52f7fef0c7b7317b84e8f4508b274eac5cf162dd
 workflow-type: tm+mt
 source-wordcount: '1453'
 ht-degree: 0%
@@ -16,7 +16,6 @@ ht-degree: 0%
 ![Creative Cloud Hero Image](../assets/CCEbanner.png)
 
 Som kreatör i ett företag måste du samarbeta med distribuerade team, upprätta skalbara processer och följa företagets system och riktlinjer. Dessa självstudiekurser hjälper dig att lära dig nya funktioner i Creative Cloud - ur ett företagsperspektiv.
-
 
 ## Klicka här om du vill se en självstudiekurs (i alfabetisk ordning)
 
@@ -316,11 +315,11 @@ Som kreatör i ett företag måste du samarbeta med distribuerade team, upprätt
 <table  style="table-layout:fixed">
 <tr>
 <td>
-   <a href="Taming-font-anxiety.md">
+   <a href="taming-type-anxiety.md">
       <img alt="Tämjande ångest" src="assets/TamingTypeAnxiety.jpg" />
    </a>
     <div>
-   <a href="Taming-font-anxiety.md"><strong>Tämjning typ ångest (PDF)</strong></a>
+   <a href="taming-type-anxiety.md"><strong>Tämjning typ ångest (PDF)</strong></a>
     </div>
     <em>Lär dig hur du får tillgång till och använder över 20 000 professionellt utformade teckensnitt i Creative Cloud</em>
     <br>

@@ -4,9 +4,9 @@ breadcrumb-title: Creative Cloud for enterprise
 user-guide-description: Se självstudiekurser och snabbguider med fokus på Creative Cloud för företag
 solution: Creative Cloud
 type: Tutorial
-source-git-commit: 70e1e436f8fe439259fea2c48b263f255002fb10
+source-git-commit: 54260475720010fa756d67dd5175888e9bd5cc05
 workflow-type: tm+mt
-source-wordcount: '387'
+source-wordcount: '393'
 ht-degree: 9%
 
 ---
@@ -15,12 +15,12 @@ ht-degree: 9%
 # Självstudiekurser för Creative Cloud for enterprise {#cce-learning-hub}
 
 + [Översikt](overview.md)
-+ CCE {#cceoverview}
++ Creative Cloud for enterprise {#cceoverview}
    + [Översikt](cce/overview-cce.md)
    + Självstudiekurser {#ccetutorials}
       + [Acrobat för innehållsskapare](cce/acrobat-content-creators.md)
       + [Förbättra CC-arbetsflöden med CC Libraries](cce/cc-workflows-cc-libraries.md)
-      + [Tämja typångest](cce/Taming-font-anxiety.md)
+      + [Tämja typångest](cce/taming-type-anxiety.md)
       + [Skapa Creative Cloud Libraries för team](cce/ccteamlibraries.md)
       + [Dela varumärkesresurser med Creative Cloud Libraries for teams](cce/sharecclibraries.md)
       + [Skapa unika montage med Adobe [!DNL Stock] och Photoshop för iPad](cce/compositepsipad.md)
@@ -28,8 +28,8 @@ ht-degree: 9%
       + [Avkodning av alfabetet soppa av grafiska format](cce/alphabetsoup.md)
       + [Prova på Fresco på iPad och iPhone](cce/frescoworkshop.md)
    + Snabbguider {#ccerefguides}
-   + [Lista över produkter](quick-reference/overview-ref.md)
-+ [!DNL Stock] {#stockoverview}
+   + [CCE-stödlinjer](quick-reference/overview-ref.md)
++ [!DNL Adobe Stock] {#stockoverview}
    + [Översikt](stock/overview-stock.md)
    + Självstudiekurser {#stocktutorials}
       + [Sök i Adobe [!DNL Stock] licenshistorik](stock/searchstock.md)
@@ -55,19 +55,19 @@ ht-degree: 9%
       + [Anpassa en inläsningsskärmanimering med Adobe [!DNL Stock] och XD](stock/loadingscreen.md)
       + [Anpassa en Adobe [!DNL Stock] presentationsmall som ser professionell ut](stock/presentationtemplate.md)
       + [Anpassa färgerna i en Adobe [!DNL Stock] vektorillustration](stock/customizecolors.md)
-+ 3D &amp; VR {#3doverview}
++ Adobe 3D &amp; VR {#3doverview}
    + [Översikt](3di/overview-3di.md)
    + Självstudiekurser {#3dtutorials}
       + [Tips och tekniker för att bemästra 3D-ljus i CGI](3di/mastering3dlighting.md)
       + [Skapa fotorealistisk virtuell fotografering med 3D-rendering och montage](3di/photorealistic.md)
       + [Anpassa och märka en 3D-modell med [!DNL Dimension] och Adobe [!DNL Stock]](3di/3ddimensionstock.md)
-+ Video {#videooverview}
++ Adobe Video {#videooverview}
    + [Översikt](dva/overview-dva.md)
    + Självstudiekurser {#videotutorials}
       + [Videogranskning med Frame.io](dva/video-review-frame-io.md)
-   + Snabbguider {#stockrefguides}
-      + [Stock-stödlinjer](dva/overview-dva-ref.md)
-+ XD {#xdoverview}
+   + Snabbguider {#videorefguides}
+      + [Videostödlinjer](dva/overview-dva-ref.md)
++ Adobe XD {#xdoverview}
    + [Översikt](xd/overview-xd.md)
    + Självstudiekurser {#xdtutorials}
    + [Bekvämt med [!UICONTROL Komponenter] i Adobe XD](xd/components.md)
