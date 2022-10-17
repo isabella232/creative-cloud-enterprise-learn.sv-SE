@@ -4,9 +4,9 @@ description: Tutorials som hjälper dig att komma igång på Adobe [!DNL Stock]
 role: User
 level: Beginner, Intermediate
 exl-id: 83e1af30-489f-474c-874a-8cd8b36d4a38
-source-git-commit: 442c619a9119b0c6b45bd86ff53caf7bdb3387df
+source-git-commit: a7687756cd036f756810314b3dedfa63d5aea2a9
 workflow-type: tm+mt
-source-wordcount: '1211'
+source-wordcount: '1212'
 ht-degree: 0%
 
 ---
@@ -259,9 +259,7 @@ Kreatörer pressas att snabbt leverera engagerande visuellt innehåll. Adobe Sto
     <em>Snygga till alla slags projekt med en snygg illustration. Hitta den perfekta vektorn i Adobe [!DNL Stock]och sedan matcha färgerna med projektpaletten med Adobe Illustrator</em>
     <br>
   </td>
-</tr>
-<tr>
-   <td>
+  <td>
       <a href="assets/AddMotiontoStillImageswithAdobeStockandPhotoshop.pdf">
          <img alt="Lägg till rörelse i stillbilder med Adobe [!DNL Stock] och Photoshop" src="assets/AddMotiontoStillImageswithAdobeStockandPhotoshop.jpg" />
       </a>
@@ -303,8 +301,6 @@ Kreatörer pressas att snabbt leverera engagerande visuellt innehåll. Adobe Sto
       <em>Sammanställ två olika bilder för att skapa en helt ny scen för dina designprojekt. Adobe [!DNL Stock] och Adobe Photoshop gör det enkelt</em>
       <br>
    </td>
-</tr>
-<tr>
    <td>
       <a href="assets/CreatingaHalloweenCinemagraphwithPhotoshopCCandAdobeStock.pdf" target="_blank">
          <img alt="Skapa en Halloween-film med Photoshop CC och Adobe [!DNL Stock]" src="assets/CreatingaHalloweenCinemagraphwithPhotoshopCCandAdobeStock.jpg" />
@@ -315,6 +311,8 @@ Kreatörer pressas att snabbt leverera engagerande visuellt innehåll. Adobe Sto
       <em>Skapa ett filmstycke genom att sätta ihop video, illustrationer och foton med Adobe Photoshop</em>
       <br>
   </td>
+</tr>
+<tr>
    <td>
       <a href="assets/PutyourDatainMotionwithAdobeStockandPremierePro.pdf" target="_blank">
          <img alt="Sätt fart på dina data med Adobe [!DNL Stock] och Premiere Pro" src="assets/PutyourDatainMotionwithAdobeStockandPremierePro.jpg" />
@@ -345,9 +343,7 @@ Kreatörer pressas att snabbt leverera engagerande visuellt innehåll. Adobe Sto
       <em>Följ de här stegen för att visa upp ditt material i ett naturtroget Adobe [!DNL Stock] mall med Adobe Photoshop</em>
       <br>
   </td>
- </tr> 
- <tr>
-   <td>
+  <td>
       <a href="assets/UncoveramazingdetailsinAdobeStockimageswithLightroomformobile.pdf" target="_blank">
          <img alt="Hitta otroliga detaljer i Adobe [!DNL Stock] bilder med Lightroom for mobile" src="assets/UncoveramazingdetailsinAdobeStockimageswithLightroomformobile.jpg" />
       </a>
@@ -357,6 +353,8 @@ Kreatörer pressas att snabbt leverera engagerande visuellt innehåll. Adobe Sto
       <em>Upptäck kraften i Lightroom på din mobila enhet för att ta fram det bästa i dina bilder</em>
       <br>
   </td>
+ </tr> 
+ <tr>
    <td>
       <a href="assets/VisualizePosterDesignsintheRealWorldwithAdobeStockandPhotoshop.pdf" target="_blank">
          <img alt="Visualisera affischdesign i verkligheten med Adobe [!DNL Stock] och Photoshop" src="assets/VisualizePosterDesignsintheRealWorldwithAdobeStockandPhotoshop.jpg" />
@@ -368,12 +366,17 @@ Kreatörer pressas att snabbt leverera engagerande visuellt innehåll. Adobe Sto
       <br>
   </td>
   <td>
-    <img alt="Mellanrum" src="../assets/Whitespacer.png" />
+    <img alt="Mellanrum" src="../assets/Gray_thumbnail.png" />
     <div>
     <br>
   </td>
   <td>
-    <img alt="Mellanrum" src="../assets/Whitespacer.png" />
+    <img alt="Mellanrum" src="../assets/Gray_thumbnail.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="Mellanrum" src="../assets/Gray_thumbnail.png" />
     <div>
     <br>
   </td>

@@ -4,9 +4,9 @@ description: Tutorials för att hjälpa dig att komma igång med Adobe XD
 role: User
 level: Beginner, Intermediate
 exl-id: 411ef3da-42c1-4c98-a75d-dca990546eb4
-source-git-commit: 442c619a9119b0c6b45bd86ff53caf7bdb3387df
+source-git-commit: a7687756cd036f756810314b3dedfa63d5aea2a9
 workflow-type: tm+mt
-source-wordcount: '458'
+source-wordcount: '459'
 ht-degree: 0%
 
 ---
@@ -91,8 +91,6 @@ Adobe XD är ett verktyg för design och prototyper av användarupplevelser för
     <em>Adobe XD har några fantastiska interaktiva designverktyg som fungerar tillsammans med ditt befintliga arbetsflöde, så att du kan utveckla din interaktiva designvision</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
    <a href="assets/MobileWebExperienceswithXD.pdf" target="_blank">
       <img alt="Designa en mobil webbupplevelse med XD" src="assets/MobileWebExperienceswithXD.jpg" />
@@ -103,6 +101,8 @@ Adobe XD är ett verktyg för design och prototyper av användarupplevelser för
     <em>Ta en titt bakom kulisserna på designprocessen för webbgalleriet Russell Brown MAX Madness med Adobe XD</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
    <a href="assets/PrototypeaMobileWebExperiencewithAdobeXD.pdf" target="_blank">
       <img alt="Skapa prototyper för en mobil webbupplevelse med Adobe XD" src="assets/PrototypeaMobileWebExperiencewithAdobeXD.jpg" />
@@ -131,6 +131,11 @@ Adobe XD är ett verktyg för design och prototyper av användarupplevelser för
    <a href="assets/BehindtheScenesofMAXMadnesswithAdobeXD.pdf" target="_blank"><strong>Bakom kulisserna av MAX Madness med Adobe XD (PDF)</strong></a>
     </div>
     <em>En optimerad mobil webbupplevelse kan verkligen genljuda hos dina användare</em>
+    <br>
+  </td>
+  <td>
+    <img alt="Mellanrum" src="../assets/Whitespacer.png" />
+    <div>
     <br>
   </td>
 </tr>
