@@ -4,10 +4,10 @@ breadcrumb-title: Creative Cloud for enterprise
 user-guide-description: Se självstudiekurser och snabbguider med fokus på Creative Cloud för företag
 solution: Creative Cloud
 type: Tutorial
-source-git-commit: 54260475720010fa756d67dd5175888e9bd5cc05
+source-git-commit: 9ba263d5a4d9b870653bf0e7cb848b910836cfd8
 workflow-type: tm+mt
-source-wordcount: '393'
-ht-degree: 9%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -28,7 +28,7 @@ ht-degree: 9%
       + [Avkodning av alfabetet soppa av grafiska format](cce/alphabetsoup.md)
       + [Prova på Fresco på iPad och iPhone](cce/frescoworkshop.md)
    + Snabbguider {#ccerefguides}
-   + [CCE-stödlinjer](quick-reference/overview-ref.md)
+      + [CCE-stödlinjer](quick-reference/overview-ref.md)
 + [!DNL Adobe Stock] {#stockoverview}
    + [Översikt](stock/overview-stock.md)
    + Självstudiekurser {#stocktutorials}
