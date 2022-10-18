@@ -4,9 +4,9 @@ description: Läs om hur Frame.io-tillägget för Adobe Premiere Pro gör att du
 role: User
 level: Beginner, Intermediate
 thumb: KT-11296.jpg
-source-git-commit: 86d38929a610846a56def4b71b22da3f111a4761
+source-git-commit: 72274ddcf4419935bb7ac2abf5170c1138a4b86b
 workflow-type: tm+mt
-source-wordcount: '86'
+source-wordcount: '91'
 ht-degree: 0%
 
 ---
@@ -15,6 +15,6 @@ ht-degree: 0%
 
 Samarbeta där du skapar. Läs om hur Frame.io-tillägget för Adobe Premiere Pro gör att du kan centralisera och dela resurser, få realtidskommentarer, spåra ändringar och få snabbare godkännanden - allt utan att behöva lämna tidslinjen i den här praktiska självstudiekursen.
 
-**Markera bilden nedan för att hämta videogranskning med Frame.io (PDF).**
+Markera bilden nedan för att visa eller hämta självstudiekursen för PDF.
 
-[![Acrobat-självstudiekurs](assets/Videoreviewwithframe_400.jpg)](assets/Video-review-with-Frame.io.pdf)
+[![Bild på första sidan av självstudiekursen](assets/Videoreviewwithframe.jpg){&quot;width=680&quot;}](assets/Video-review-with-Frame.io.pdf){target=&quot;blank&quot;}
