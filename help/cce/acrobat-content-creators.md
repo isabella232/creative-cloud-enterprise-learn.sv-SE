@@ -4,9 +4,9 @@ description: Läs om de viktigaste verktygen i Adobe Acrobat som effektiviserar 
 role: User
 level: Beginner, Intermediate
 thumb: KT-10962.jpg
-source-git-commit: e64a8848737b8fa2d8105b652368f9aa78063bed
+source-git-commit: eb08bfc60b0072022821260a9dd2015d416b27e4
 workflow-type: tm+mt
-source-wordcount: '67'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -17,4 +17,4 @@ Som innehållsskapare skapar du förmodligen PDF och visar sedan regelbundet PDF
 
 <br> 
 
-[![Bild på första sidan av självstudiekursen](assets/Acrobatforcontentcreators.png)](assets/AcrobatforContentCreators.pdf)
+[![Bild på första sidan av självstudiekursen](assets/Acrobatforcontentcreators.png){&quot;width=680&quot;}](assets/AcrobatforContentCreators.pdf){target=&quot;blank&quot;}
