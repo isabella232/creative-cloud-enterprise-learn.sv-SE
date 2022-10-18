@@ -4,9 +4,9 @@ description: Läs om hur Creative Cloud Libraries håller ihop designelement - o
 role: User
 level: Intermediate
 thumb: KT-11193.jpg
-source-git-commit: 7d00d1309550538ac1ab3b2c0eb3eeb290268eea
+source-git-commit: 5ba204bfda788cb616d1576fc6901acbf030a639
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '65'
 ht-degree: 0%
 
 ---
@@ -17,4 +17,4 @@ Lär dig hur Creative Cloud Libraries håller ihop designelement - vilket säker
 
 Markera bilden nedan för att visa eller hämta självstudiekursen för PDF.
 
-[![Bild på första sidan av självstudiekursen](assets/Improveccworkflowswithcclibraries.jpg){&quot;width=680&quot;}](assets/ImproveCCWorkflowsCCLibraries.pdf){target=&quot;blank&quot;}
+[![Bild på första sidan av självstudiekursen](assets/Improveccworkflowswithcclibraries.png){&quot;width=680&quot;}](assets/ImproveCCWorkflowsCCLibraries.pdf){target=&quot;blank&quot;}
