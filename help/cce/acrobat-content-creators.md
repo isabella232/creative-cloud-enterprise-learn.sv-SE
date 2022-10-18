@@ -4,7 +4,7 @@ description: Läs om de viktigaste verktygen i Adobe Acrobat som effektiviserar 
 role: User
 level: Beginner, Intermediate
 thumb: KT-10962.jpg
-source-git-commit: b20d263758d627eae81d574059646e4911f8ca57
+source-git-commit: 5c00c61ce68465f44c43664ca807f11cd1ff0b93
 workflow-type: tm+mt
 source-wordcount: '68'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Som innehållsskapare skapar du förmodligen PDF och visar sedan regelbundet PDF-filerna i Acrobat. Men Acrobat innehåller också många verktyg som effektiviserar vanliga arbetsflöden.
 
-<table style="table-layout:fixed">
+<table style="table-layout:auto">
 <tr>
  <td>
    <a href="assets/AcrobatforContentCreators.pdf" target="_blank">
