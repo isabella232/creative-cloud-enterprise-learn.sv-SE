@@ -6,8 +6,8 @@ solution: Creative Cloud
 type: Tutorial
 source-git-commit: 8776e5bf06700702223c284d5be437019654a793
 workflow-type: tm+mt
-source-wordcount: '396'
-ht-degree: 9%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
