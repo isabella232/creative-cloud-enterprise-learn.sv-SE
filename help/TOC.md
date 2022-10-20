@@ -4,10 +4,10 @@ breadcrumb-title: Creative Cloud for enterprise
 user-guide-description: Se självstudiekurser och snabbguider med fokus på Creative Cloud för företag
 solution: Creative Cloud
 type: Tutorial
-source-git-commit: 9ba263d5a4d9b870653bf0e7cb848b910836cfd8
+source-git-commit: 8776e5bf06700702223c284d5be437019654a793
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '396'
+ht-degree: 9%
 
 ---
 
@@ -32,6 +32,7 @@ ht-degree: 0%
 + [!DNL Adobe Stock] {#stockoverview}
    + [Översikt](stock/overview-stock.md)
    + Självstudiekurser {#stocktutorials}
+      + [Fantastiska digitala resurser](stock/stunning-digital-assets.md)
       + [Sök i Adobe [!DNL Stock] licenshistorik](stock/searchstock.md)
       + [Lägg till en handritad estetik i Adobe [!DNL Stock] bilder](stock/handdrawn.md)
       + [Ge typografin en personlig prägel med masker och animeringar](stock/flairtypography.md)
