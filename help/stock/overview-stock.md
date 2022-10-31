@@ -4,9 +4,9 @@ description: Tutorials som hjälper dig att komma igång på Adobe [!DNL Stock]
 role: User
 level: Beginner, Intermediate
 exl-id: 83e1af30-489f-474c-874a-8cd8b36d4a38
-source-git-commit: 8776e5bf06700702223c284d5be437019654a793
+source-git-commit: 5c7eea176959609a3f2fcdc51ed8e02f9f15dec9
 workflow-type: tm+mt
-source-wordcount: '1240'
+source-wordcount: '1242'
 ht-degree: 0%
 
 ---
@@ -21,10 +21,10 @@ Kreatörer pressas att snabbt leverera engagerande visuellt innehåll. Adobe Sto
 <tr>
    <td>
       <a href="stunning-digital-assets.md">
-         <img alt="Fantastiska digitala resurser" src="assets/Stunningdigitalassets.png" />
+         <img alt="Fantastiska digitala resurser (PDF)" src="assets/Stunningdigitalassets.png" />
       </a>
       <div>
-      <a href="stunning-digital-assets.md"><strong>Fantastiska digitala resurser</strong></a>
+      <a href="stunning-digital-assets.md"><strong>Fantastiska digitala resurser (PDF)</strong></a>
       </div>
       <em>Lär dig integrera Adobe Stock med CC Libraries för att skapa enhetliga och professionella designresultat för tryck och skärm i den här praktiska självstudiekursen</em>
       <br>
