@@ -4,9 +4,9 @@ description: Tutorials för att hjälpa dig att komma igång på Creative Cloud 
 role: User
 level: Beginner, Intermediate
 exl-id: eea91ea5-9adc-4a7f-93c0-6cdfe650cfb7
-source-git-commit: b55059508f33e040d6238fadf3a15a18e0131d0a
+source-git-commit: ad7b21fc0ba8742117ff09b31e594d8d11dee51d
 workflow-type: tm+mt
-source-wordcount: '1534'
+source-wordcount: '1530'
 ht-degree: 0%
 
 ---
@@ -156,10 +156,10 @@ Som kreatör i ett företag måste du samarbeta med distribuerade team, upprätt
 <tr>
   <td>
    <a href="cc-workflows-cc-libraries.md">
-      <img alt="Förbättra CC-arbetsflöden med CC Libraries (PDF)" src="assets/Improveccworkflowswithcclibraries.png" />
+      <img alt="Förbättra CC-arbetsflöden med CC Libraries" src="assets/Improveccworkflowswithcclibraries.png" />
    </a>
    <div>
-   <a href="cc-workflows-cc-libraries.md"><strong>Förbättra CC-arbetsflöden med CC Libraries (PDF)</strong></a>
+   <a href="cc-workflows-cc-libraries.md"><strong>Förbättra CC-arbetsflöden med CC Libraries</strong></a>
     </div>
     <em>Läs om hur Creative Cloud Libraries håller ihop designelement - och säkerställer enhetliga projekt för designers och team</em>
     <br>
@@ -331,10 +331,10 @@ Som kreatör i ett företag måste du samarbeta med distribuerade team, upprätt
 <tr>
 <td>
    <a href="taming-type-anxiety.md">
-      <img alt="Tämjning typ ångest (PDF)" src="assets/TamingTypeAnxiety.png" />
+      <img alt="Tämjande ångest" src="assets/TamingTypeAnxiety.png" />
    </a>
     <div>
-   <a href="taming-type-anxiety.md"><strong>Tämjning typ ångest (PDF)</strong></a>
+   <a href="taming-type-anxiety.md"><strong>Tämjande ångest</strong></a>
     </div>
     <em>Lär dig hur du får tillgång till och använder över 20 000 professionellt utformade teckensnitt i Creative Cloud</em>
     <br>

@@ -4,9 +4,9 @@ breadcrumb-title: Creative Cloud for enterprise
 user-guide-description: Se självstudiekurser och snabbguider med fokus på Creative Cloud för företag
 solution: Creative Cloud
 type: Tutorial
-source-git-commit: 6213900f0618e843bed50af6386bed8f1d4b3ab3
+source-git-commit: ad7b21fc0ba8742117ff09b31e594d8d11dee51d
 workflow-type: tm+mt
-source-wordcount: '407'
+source-wordcount: '415'
 ht-degree: 9%
 
 ---
@@ -61,12 +61,14 @@ ht-degree: 9%
 + Adobe 3D &amp; VR {#3doverview}
    + [Översikt](3di/overview-3di.md)
    + Självstudiekurser {#3dtutorials}
+      + [3D-design och -rendering](3di/substance-3d-stager.md)
       + [Tips och tekniker för att bemästra 3D-ljus i CGI](3di/mastering3dlighting.md)
       + [Skapa fotorealistisk virtuell fotografering med 3D-rendering och montage](3di/photorealistic.md)
       + [Anpassa och märka en 3D-modell med [!DNL Dimension] och Adobe [!DNL Stock]](3di/3ddimensionstock.md)
 + Adobe Video {#videooverview}
    + [Översikt](dva/overview-dva.md)
    + Självstudiekurser {#videotutorials}
+      + [Professionella mallar för rörlig grafik](dva/motion-graphics-templates.md)
       + [Videogranskning med Frame.io](dva/video-review-frame-io.md)
    + Snabbguider {#videorefguides}
       + [Videostödlinjer](dva/overview-dva-ref.md)

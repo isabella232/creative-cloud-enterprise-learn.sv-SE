@@ -4,9 +4,9 @@ description: Tutorials som hjälper dig att komma igång med Adobe 3D och VR
 role: User
 level: Beginner, Intermediate
 exl-id: f9d03c3d-0767-476f-a7e1-0b283cf16cd3
-source-git-commit: f5976ce274daea03ef5066f1c292c3ed6a6ad92f
+source-git-commit: ad7b21fc0ba8742117ff09b31e594d8d11dee51d
 workflow-type: tm+mt
-source-wordcount: '275'
+source-wordcount: '305'
 ht-degree: 0%
 
 ---
@@ -20,6 +20,16 @@ Skapa engagerande innehåll i 3D snabbare med högkvalitativa modeller, material
 <table>
 <tr>
  <td>
+   <a href="substance-3d-stager.md">
+      <img alt="3D-design och -rendering" src="assets/Substance3DStager.png" />
+   </a>
+    <div>
+   <a href="substance-3d-stager.md"><strong>3D-design och -rendering</strong></a>
+    </div>
+    <em>Importera innehåll, ordna scenen, lägg på material och texturer, justera bildbaserat och fysiskt ljus, spara kameror med olika upplösningar och återge fotorealistiska bilder</em>
+    <br>
+  </td>
+  <td>
    <a href="assets/CreateRealistic3DMockupswithAdobeStockandDimension.pdf">
       <img alt="Skapa realistiska 3D-modeller med Adobe [!DNL Stock] och [!DNL Dimension]" src="assets/CreateRealistic3DMockupswithAdobeStockandDimension.jpg" />
    </a>
@@ -49,6 +59,8 @@ Skapa engagerande innehåll i 3D snabbare med högkvalitativa modeller, material
     <em>När du vill se hur dina produkter kommer att se ut i verkligheten, Adobe [!DNL Dimension] är din go-to-app</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
    <a href="mastering3dlighting.md">
       <img alt="Tips och tekniker för att bemästra 3D-ljus i CGI" src="assets/Mastering3dlighting_1.gif" />
@@ -59,8 +71,6 @@ Skapa engagerande innehåll i 3D snabbare med högkvalitativa modeller, material
     <em>Lär dig mer om 3D-ljus och hur du skapar olika ljusförhållanden som helt kan förändra en datorgenererad scen och hur objekt ser ut i den</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
    <a href="photorealistic.md">
       <img alt="Skapa fotorealistisk virtuell fotografering med 3D-rendering och montage" src="assets/Photorealistic_TOC.png" />
@@ -79,11 +89,6 @@ Skapa engagerande innehåll i 3D snabbare med högkvalitativa modeller, material
    <a href="3ddimensionstock.md"><strong>Anpassa och märka en 3D-modell med [!DNL Dimension] och Adobe [!DNL Stock]</strong></a>
     </div>
     <em>Anpassa och märka en 3D-modell i [!DNL Dimension] använda material, miljöegenskaper, ljus och fotografi för att skapa fotorealistiska bilder för alla designprojekt</em>
-    <br>
-  </td>
-  <td>
-    <img alt="Mellanrum" src="../assets/Gray_thumbnail.png" />
-    <div>
     <br>
   </td>
   <td>
