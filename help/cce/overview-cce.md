@@ -4,9 +4,9 @@ description: Tutorials för att hjälpa dig att komma igång på Creative Cloud 
 role: User
 level: Beginner, Intermediate
 exl-id: eea91ea5-9adc-4a7f-93c0-6cdfe650cfb7
-source-git-commit: 5c7eea176959609a3f2fcdc51ed8e02f9f15dec9
+source-git-commit: b55059508f33e040d6238fadf3a15a18e0131d0a
 workflow-type: tm+mt
-source-wordcount: '1456'
+source-wordcount: '1534'
 ht-degree: 0%
 
 ---
@@ -56,6 +56,26 @@ Som kreatör i ett företag måste du samarbeta med distribuerade team, upprätt
 <table style="table-layout:fixed">
 <tr>
  <td>
+   <a href="adobe-express-content-that-stands-out.md">
+      <img alt="Adobe Express: Innehåll som sticker ut" src="assets/Adobe-Express-content-that-stands-out.png" />
+   </a>
+    <div>
+   <a href="adobe-express-content-that-stands-out.md"><strong>Adobe Express: Innehåll som sticker ut</strong></a>
+    </div>
+    <em> Skapa vacker grafik, webbsidor och videoberättelser på några minuter med Adobe Express</em>
+    <br>
+  </td>
+  <td>
+   <a href="assets/CreatingYourBrandinAdobeSpark.pdf">
+      <img alt="Skapa ditt varumärke i Adobe Spark" src="assets/CreatingYourBrandinAdobeSpark.jpg" />
+   </a>
+    <div>
+   <a href="assets/CreatingYourBrandinAdobeSpark.pdf"><strong>Skapa ditt varumärke i Adobe Spark (PDF)</strong></a>
+    </div>
+    <em>Adobe Spark gör det enkelt att definiera ert varumärke</em>
+    <br>
+  </td>
+  <td>
    <a href="assets/AddingaGlideshowtoyourSparkPageAdobeBlog.pdf">
       <img alt="Lägga till ett bildspel i Sparken Page" src="assets/AddingaGlideshowtoyourSparkPageAdobeBlog.jpg" />
    </a>
@@ -83,11 +103,6 @@ Som kreatör i ett företag måste du samarbeta med distribuerade team, upprätt
    <a href="assets/MeetYourNewProductionArtistAdobeSparkPost.pdf"><strong>Träffa din nya produktionskonstnär: Adobe Spark Post (PDF)</strong></a>
     </div>
     <em>Adobe Spark lär sig av dig när du skapar layouter, definierar färger, importerar grafik och ordnar element i dina kompositioner</em>
-    <br>
-  </td>
-  <td>
-    <img alt="Mellanrum" src="../assets/acrobat_PDF_whitespacer_96.png" />
-    <div>
     <br>
   </td>
 </tr>
@@ -214,6 +229,16 @@ Som kreatör i ett företag måste du samarbeta med distribuerade team, upprätt
 <table style="table-layout:fixed">
 <tr>
  <td>
+   <a href="collaboration-the-future-of-creativity.md">
+      <img alt="Samarbete: Kreativitetens framtid" src="assets/Collaboration-The-Future-of-Creativity.png" />
+   </a>
+    <div>
+   <a href="collaboration-the-future-of-creativity.md"><strong>Samarbete: Kreativitetens framtid</strong></a>
+    </div>
+    <em>Bland de många fördelarna med en Adobe Creative Cloud-prenumeration finns kostnadsfri tillgång till fler än 20 000 professionellt utformade och förvaltade teckensnitt från Adobe Fonts</em>
+    <br>
+  </td>
+  <td>
    <a href="assets/FromHandLetteringtoIllustratorviaCreativeCloud.pdf">
       <img alt="Från handskrift till Illustrator via Creative Cloud" src="assets/FromHandLetteringtoIllustratorviaCreativeCloud.jpg" />
    </a>
@@ -231,16 +256,6 @@ Som kreatör i ett företag måste du samarbeta med distribuerade team, upprätt
    <a href="assets/FromLightroomWebtoInDesignviaCreativeCloud.pdf"><strong>Från Lightroom på webben till InDesign via Creative Cloud (PDF)</strong></a>
     </div>
     <em>Ta kreativiteten från kameran till slutresultatet med filer och bibliotek från Creative Cloud</em>
-    <br>
-  </td>
-  <td>
-    <img alt="Mellanrum" src="../assets/acrobat_PDF_whitespacer_96.png" />
-    <div>
-    <br>
-  </td>
-  <td>
-    <img alt="Mellanrum" src="../assets/acrobat_PDF_whitespacer_96.png" />
-    <div>
     <br>
   </td>
 </tr>
