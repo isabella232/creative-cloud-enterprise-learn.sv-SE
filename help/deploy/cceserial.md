@@ -4,9 +4,9 @@ description: Förstå hur serienummer upphör att gälla för Creative Cloud for
 role: User
 level: Beginner, Intermediate
 exl-id: bc457be0-86dc-4e8a-b6b2-34bc76af2d21
-source-git-commit: 6b819aef801e003e5a160d24ba69522cf6a7e715
+source-git-commit: 524d071b6f4e059823601381f04c337aedc55970
 workflow-type: tm+mt
-source-wordcount: '848'
+source-wordcount: '844'
 ht-degree: 3%
 
 ---
@@ -84,13 +84,13 @@ När serienumret har gått ut har användarna inte längre tillgång till Acroba
 
 Vid alla efterföljande försök att starta Acrobat uppmanas slutanvändaren att **Logga in nu** följt av möjligheten att skapa ett eget Adobe ID och gå in i testversionsläge. Nya Adobe ID som skapas av slutanvändaren kopplas dock inte till organisationens licenser och kommer att orsaka ytterligare förvirring hos användarna.
 
-![Acrobat-inloggningsdialogruta 1](assets/acrobatsignin1.png)
+![Acrobat Sign i dialog 1](assets/acrobatsignin1.png)
 
-![Acrobat-inloggningsdialogruta 2](assets/acrobatsignin2.png)
+![Acrobat Sign i dialog 2](assets/acrobatsignin2.png)
 
 ## Kontakta oss om du behöver hjälp
 
 Om du har några frågor om hur du använder [AdobeExpiryCheck](https://helpx.adobe.com/enterprise/kb/volume-license-expiration-check.html) eller behöver hjälp med att migrera från serienummerdistribution till namngiven användare, finns det några alternativ:
 * Skicka e-post till Adobe Enterprise Onboarding-teamet - **entonb@adobe.com**
 * Öppna ett supportärende i [Admin Console](https://adminconsole.adobe.com/support)
-* Kontakta din kundansvarige på Adobe eller en Customer Success Manager
+* Kontakta ditt Adobe-kontoteam
