@@ -1,5 +1,5 @@
 ---
-title: Photoshop på iPad
+title: Photoshop på iPad.
 description: Skapa allt du kan tänka dig, var inspirationen än slår till med Photoshop på iPad
 role: User
 level: Beginner, Intermediate
@@ -7,11 +7,11 @@ exl-id: 5be50d97-3ff5-4b10-b186-109473c3bd32
 source-git-commit: 6b819aef801e003e5a160d24ba69522cf6a7e715
 workflow-type: tm+mt
 source-wordcount: '207'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# Photoshop på iPad
+# Photoshop på iPad.
 
 ![Tutorial Hero Image](../assets/PSoniPad.jpg)
 

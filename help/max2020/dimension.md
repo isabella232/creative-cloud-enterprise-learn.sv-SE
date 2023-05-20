@@ -1,6 +1,6 @@
 ---
-title: '"[!DNL Dimension]"'
-description: '"[!DNL Dimension] gör det enkelt att skapa varumärkesvisualiseringar, illustrationer, produktmodeller, förpackningsdesign och annat kreativt arbete"'
+title: "[!DNL Dimension]"
+description: "[!DNL Dimension] gör det enkelt att skapa varumärkesvisualiseringar, illustrationer, produktmodeller, förpackningsdesign och annat kreativt arbete"
 role: User
 level: Beginner, Intermediate
 exl-id: 5e23b3f2-d246-4993-948c-5c687dabcd8b

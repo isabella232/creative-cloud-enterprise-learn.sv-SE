@@ -7,7 +7,7 @@ exl-id: e27874b7-ba02-46b7-a5e4-fe2485d9c148
 source-git-commit: e3982cf31ebb0dac5927baa1352447b3222785c9
 workflow-type: tm+mt
 source-wordcount: '322'
-ht-degree: 6%
+ht-degree: 23%
 
 ---
 
@@ -48,7 +48,7 @@ Som kreatör i ett företag måste du samarbeta med distribuerade team, upprätt
     <div>
     <a href="illustrator.md"><strong>Illustrator</strong></a>
     </div>
-    <em>Vektorgrafik och illustrationer</em>
+    <em>Vektorgrafik och -illustrationer</em>
     <br>
   </td>
 </tr>
@@ -80,7 +80,7 @@ Som kreatör i ett företag måste du samarbeta med distribuerade team, upprätt
     <div>
     <a href="rush.md"><strong>Rush</strong></a>
     </div>
-    <em>Skapa och dela videofilmer online var som helst</em>
+    <em>Skapa och dela onlinevideor var du vill</em>
     <br>
   </td>
 </tr>
@@ -129,7 +129,7 @@ Som kreatör i ett företag måste du samarbeta med distribuerade team, upprätt
     <div>
     <a href="fresco.md"><strong>Fresco</strong></a>
     </div>
-    <em>Återupptäck hur roligt det är att rita och måla var som helst</em>
+    <em>Återupptäck glädjen med att teckna och måla</em>
     <br>
   </td>
   <td>
@@ -139,19 +139,19 @@ Som kreatör i ett företag måste du samarbeta med distribuerade team, upprätt
     <div>
     <a href="illustratoripad.md"><strong>Illustrator på iPad</strong></a>
     </div>
-    <em>Vektorgrafik och illustrationer</em>
+    <em>Vektorgrafik och -illustrationer</em>
     <br>
   </td>
 </tr>
 <tr>
  <td>
     <a href="photoshopipad.md">
-      <img alt="Photoshop på iPad" src="../assets/PSoniPad.jpg" />
+      <img alt="Photoshop på iPad." src="../assets/PSoniPad.jpg" />
     </a>
     <div>
-    <a href="photoshopipad.md"><strong>Photoshop på iPad</strong></a>
+    <a href="photoshopipad.md"><strong>Photoshop på iPad.</strong></a>
     </div>
-    <em>Redigera, gör montage och skapa vackra bilder, grafik och grafik på datorn och iPad</em>
+    <em>Redigera, gör montage och skapa vackra bilder, grafik och digital konst på datorn och iPad</em>
     <br>
   </td>
   <td>
@@ -186,7 +186,7 @@ Som kreatör i ett företag måste du samarbeta med distribuerade team, upprätt
       <img alt="Creative Cloud-datorprogram" src="../assets/CCDA.jpg" />
     </a>
     <div>
-    <a href="creativeclouddesktopapp.md"><strong>Creative Cloud-datorprogram</strong></a>
+    <a href="creativeclouddesktopapp.md"><strong>Creative Cloud-datorprogrammet</strong></a>
     </div>
     <em>Creative Cloud-datorprogrammet är navet för att hantera CC-program, CC-tjänster och CC-samarbete - och mycket mer!</em>
     <br>

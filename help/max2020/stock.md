@@ -1,5 +1,5 @@
 ---
-title: '"[!DNL Stock]"'
+title: "[!DNL Stock]"
 description: Adobe [!DNL Stock] for enterprise ger kreativa team tillgång till över 200 miljoner bilder, videor, mallar, illustrationer, ljudfiler och 3D-resurser
 role: User
 level: Beginner, Intermediate

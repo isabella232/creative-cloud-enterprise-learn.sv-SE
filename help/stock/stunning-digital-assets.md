@@ -4,9 +4,10 @@ description: Lär dig integrera Adobe Stock med CC Libraries för att skapa enhe
 role: User
 level: Beginner, Intermediate
 thumb: KT-11314.jpg
-source-git-commit: fcdbab0baec68df925d7d6a36415459bbff2be1e
+exl-id: 02e1c735-1956-4cb4-a3c4-200b7ef1fc1d
+source-git-commit: 92b250d685ff39430d4ee4c3bb816ed8d7eb043f
 workflow-type: tm+mt
-source-wordcount: '155'
+source-wordcount: '153'
 ht-degree: 0%
 
 ---
@@ -17,7 +18,7 @@ Lär dig integrera Adobe Stock med CC Libraries för att skapa enhetliga och pro
 
 Markera bilden nedan för att visa eller hämta självstudiekursen för PDF.
 
-[![Bild på första sidan av självstudiekursen](assets/Stunningdigitalassets.png){&quot;width=680&quot;}](assets/Stunning-Digital-Assets.pdf){target=&quot;blank&quot;}
+[![Bild på första sidan av självstudiekursen](assets/Stunningdigitalassets.png){&quot;width=680&quot;}](assets/Stunning-Digital-Assets.pdf){target="blank"}
 
 >[!NOTE]
 >

@@ -4,9 +4,10 @@ description: Importera innehåll, ordna scenen, lägg på material och texturer,
 role: User
 level: Beginner, Intermediate
 thumb: KT-11643.jpg
-source-git-commit: ad7b21fc0ba8742117ff09b31e594d8d11dee51d
+exl-id: 1404fb19-2400-4523-b360-1620acd61c1b
+source-git-commit: 64ee96d6cb943cdb8bb708ecb89c426d5af1557e
 workflow-type: tm+mt
-source-wordcount: '79'
+source-wordcount: '77'
 ht-degree: 0%
 
 ---
@@ -17,4 +18,4 @@ Importera innehåll, ordna scenen, lägg på material och texturer, justera bild
 
 Markera bilden nedan för att visa eller hämta självstudiekursen för PDF.
 
-[![Bild på första sidan av självstudiekursen](assets/Substance3DStager.png){&quot;width=680&quot;}](assets/Adobe-Substance-Stager.pdf){target=&quot;blank&quot;}
+[![Bild på första sidan av självstudiekursen](assets/Substance3DStager.png){&quot;width=680&quot;}](assets/Adobe-Substance-Stager.pdf){target="blank"}

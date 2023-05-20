@@ -7,7 +7,7 @@ exl-id: 9533fb1f-a2cc-4c06-b701-67c75a60dbaf
 source-git-commit: 6b819aef801e003e5a160d24ba69522cf6a7e715
 workflow-type: tm+mt
 source-wordcount: '130'
-ht-degree: 0%
+ht-degree: 14%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 ![Creative Cloud Hero Image](../assets/CCEbanner.png)
 
-Creative Cloud for enterprise stöder anpassad driftsättning och flexibel licenshantering, och det fungerar med andra företagserbjudanden från Adobe.
+Creative Cloud for enterprise stöder anpassad driftsättning och flexibel licenshantering, och det kan kombineras med andra erbjudanden till företag.
 
 * [Förstå när serienummer för Creative Cloud for enterprise och Acrobat förfaller](cceserial.md)
 Läs mer om hur du använder serienummer i Creative Cloud for enterprise och Acrobat.

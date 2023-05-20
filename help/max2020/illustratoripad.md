@@ -1,6 +1,6 @@
 ---
 title: Illustrator på iPad
-description: Adobe Illustrator på iPad är en omdesignad vektorupplevelse för pekskärmar, Apple Pencil och iPad
+description: Adobe Illustrator på iPad är en vektordesign som har omdesignats för pekskärmar, Apple Pencil och iPad
 role: User
 level: Beginner, Intermediate
 exl-id: 268b9891-77f6-4606-964c-343c443eafcb
@@ -13,9 +13,9 @@ ht-degree: 0%
 
 # Illustrator på iPad
 
-![Tutorial Hero Image](../assets/AIoniPad.jpg)
+![Hero-bild av självstudiekurs](../assets/AIoniPad.jpg)
 
-Adobe Illustrator på iPad är en ny vektordesignupplevelse för pekskärmar, Apple Pencil och iPad.
+Adobe Illustrator på iPad är en vektordesign som är anpassad för pekskärmar, Apple Pencil och iPad.
 
 ## Bläddra i Tutorials
 
@@ -28,16 +28,16 @@ Adobe Illustrator på iPad är en ny vektordesignupplevelse för pekskärmar, Ap
     <div>
    <a href="illustratoripad.md#tutorial1"><strong>Introduktion till Illustrator på iPad</strong></a>
     </div>
-    <em>Skapa en nödplaceringsikon och förvandla den till ett mönster som du kan använda på din [!DNL Dimension] och Zazzle-projektet!</em>
+    <em>Skapa en platsikon och omvandla den till ett mönster som du kan använda på dina [!DNL Dimension] och Zazzle-projekt!</em>
     <br>
   </td>
   <td>
-    <img alt="Mellanrum" src="../assets/Whitespacer.png" />
+    <img alt="Avstånd" src="../assets/Whitespacer.png" />
     <div>
     <br>
   </td>
   <td>
-    <img alt="Mellanrum" src="../assets/Whitespacer.png" />
+    <img alt="Avstånd" src="../assets/Whitespacer.png" />
     <div>
     <br>
   </td>
@@ -49,23 +49,23 @@ Adobe Illustrator på iPad är en ny vektordesignupplevelse för pekskärmar, Ap
 >[!VIDEO](https://video.tv.adobe.com/v/326823?hidetitle=true)
 
 **Beskrivning**
-Med den här snabböversikten över Illustrator för iPad kommer du snabbt igång med att skapa en bekymmersam platsikon och göra om den till ett mönster som du kan tillämpa på dina [!DNL Dimension] och Zazzle-projektet!
+I den här korta översikten över Illustrator for iPad kommer du snabbt igång med att skapa en platsikon som gör att du kan använda den i [!DNL Dimension] och Zazzle-projekt!
 
-I den här självstudiekursen får du lära dig hur du:
-* Illustrator har fräschats upp för iPad och gör det produktivare, snabbar upp samarbetet, ger fler kreativa kunskaper och ger alla en kreativ frihet
-* Touchgränssnittet ger en mer taktil och exakt upplevelse med Apple Pencil
-* Åtkomst till bilder och färger från CC Libraries
-* Växla mellan arbetsflöden för mobiler och datorer med Illustrator
+I den här självstudiekursen får du lära dig att:
+* Illustrator har omdesignats för iPad och förändrar produktiviteten, snabbar upp samarbetet, ger fler kreativa möjligheter och ger kreativitet
+* Touchgränssnittet gör att du kan arbeta mer exakt med Apple Pencil
+* Få åtkomst till grafik och färger från CC Libraries
+* Samredigeringsarbetsflöde för mobiler och datorer med Illustrator
 
 **Presenteras av:**
 Dave Weinberg, Senior Solutions Consultant (Digital Media)
 
-![Illustrator på iPad-logotyp](../assets/ai_appicon_96.png)
+![Illustrator på iPad logotyp](../assets/ai_appicon_96.png)
 
-**Resurser för Illustrator på iPad**
+**Illustrator on iPad Resources**
 
-[Utbildning och support](https://helpx.adobe.com/support/illustrator.html) är ditt nav för ytterligare självstudiekurser, [Nyheter](https://helpx.adobe.com/illustrator/using/whats-new/mobile-2021.html)och länkar till användarforum.
+[Läs mer &amp; Support](https://helpx.adobe.com/support/illustrator.html) är navet för fler självstudiekurser, [Nyheter](https://helpx.adobe.com/illustrator/using/whats-new/mobile-2021.html)och länkar till communityforum.
 
-**Oktober 2020-utgåvan**
+**Oktober 2020-versionen**
 
-Börja använda dessa funktioner (och mycket mer!) genom att hämta den senaste uppdateringen från Creative Cloud-datorprogrammet.
+Börja använda dessa funktioner (och mer!) genom att hämta den senaste uppdateringen från Creative Cloud-datorprogrammet.

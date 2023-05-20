@@ -7,72 +7,45 @@ ht-degree: 0%
 ---
 # Adobe uppförandekod
 
-## Vår Pledge
+## Vårt löfte
 
-För att främja en öppen och välkomstmiljö
-Deltagare och underhållare förbinder sig att delta i vårt projekt och
-vår community har en upplevelse utan trakasseri för alla, oavsett ålder, kropp
-Storlek, funktionshinder, etnisk tillhörighet, könsidentitet och -uttryck, erfarenhetsnivå.
-nationalitet, personligt utseende, ras, religion eller sexuell identitet och
-orientering.
+För att främja en öppen och välkomnande miljö lovar vi som bidragsgivare och underhållare att göra deltagandet i vårt projekt och vårt samhälle till en trakasseringsfri upplevelse för alla, oavsett ålder, kroppsstorlek, funktionshinder, etnicitet, könsidentitet och -uttryck, erfarenhetsnivå, nationalitet, personligt utseende, ras, religion eller sexuell identitet och läggning.
 
 ## Våra standarder
 
-Exempel på beteende som bidrar till att skapa en positiv miljö
-include:
+Exempel på beteende som bidrar till att skapa en positiv miljö är:
 
-* Välkomstspråk och inkluderande språk
+* Att använda ett välkomnande och inkluderande språk
 * Att visa respekt för olika åsikter och upplevelser
-* Ta emot konstruktiv kritik
-* Fokusera på vad som är bäst för communityn
-* Visar empati mot andra communitymedlemmar
+* Att ta emot konstruktiv kritik
+* Fokusera på vad som är bäst för samhället
+* Att visa empati mot andra samhällsmedlemmar
 
 Exempel på oacceptabla beteenden hos deltagare är:
 
-* Användning av sexuellt språk eller sexuella bilder och ovälkommen sexuell uppmärksamhet eller
-förskott
+* Användning av sexuellt språk eller bilder och ovälkommen sexuell uppmärksamhet eller framsteg
 * Trollning, förolämpande/nedsättande kommentarer och personliga eller politiska attacker
 * Offentliga eller privata trakasserier
-* Publicera andras personuppgifter, t.ex. fysiska eller elektroniska
-adress, utan uttrycklig tillåtelse
-* Annat beteende som rimligen skulle kunna anses olämpligt i en
-professionell inställning
+* Publicera andras personuppgifter, t.ex. en fysisk eller elektronisk adress, utan uttryckligt tillstånd
+* Annat beteende som rimligen kan anses olämpligt i en professionell miljö
 
 ## Vårt ansvar
 
-Projektledare ansvarar för att klargöra standarderna för
-beteenden och förväntas vidta lämpliga och rättvisa korrigerande åtgärder i
-svar på alla fall av oacceptabla beteenden.
+Projektledare ansvarar för att klargöra standarderna för acceptabelt beteende och förväntas vidta lämpliga och rättvisa korrigerande åtgärder som svar på alla fall av oacceptabelt beteende.
 
-Projektledare har rätt och ansvar att ta bort, redigera eller
-avvisa kommentarer, implementeringar, kod, wiki-redigeringar, utgåvor och andra bidrag
-som inte följer denna uppförandekod, eller för att tillfälligt förbjuda eller
-permanent alla medverkande på andra beteenden som de anser olämpliga,
-hotande, stötande eller skadligt.
+Projektledare har rätt och ansvar att ta bort, redigera eller avvisa kommentarer, implementeringar, kod, wiki-redigeringar, utgåvor och andra bidrag som inte är anpassade till denna uppförandekod, eller att tillfälligt eller permanent förbjuda medverkande för andra beteenden som de anser vara olämpliga, hotfulla, stötande eller skadliga.
 
 ## Scope
 
-Denna uppförandekod gäller både för projektutrymmen och offentliga platser
-när en person representerar projektet eller dess community. Exempel på
-som representerar ett projekt eller en community som inkluderar användning av ett officiellt projektmejl
-adress, publicering via ett officiellt konto för sociala medier eller som fungerar som utsedd
--representant vid online- eller offlineevent. En representation av ett projekt kan vara
-vidare definieras och förtydligas av projektansvariga.
+Denna uppförandekod gäller både inom projektutrymmen och på offentliga platser när en person representerar projektet eller dess gemenskap. Exempel på att representera ett projekt eller en community är att använda en officiell e-postadress, publicera via ett officiellt konto på sociala medier eller fungera som utsedd representant vid online- eller offlineevenemang. Representation för ett projekt kan definieras och förtydligas ytterligare av projektledare.
 
-## Verkställande
+## Verkställighet
 
-Förekommer missbruk, trakasserier eller på annat sätt oacceptabelt beteende kan
-rapporterat genom att kontakta projektteamet på Grp-opensourceoffice@adobe.com. Alla
-Klagomålen kommer att granskas och undersökas och kommer att resultera i ett svar på att
-anses vara nödvändigt och lämpligt med hänsyn till omständigheterna. Projektteamet är
-är skyldiga att upprätthålla sekretess med avseende på uppgiftslämnaren av en incident.
-Ytterligare information om specifika efterlevnadsprinciper kan bokföras separat.
+Förekomster av missbruk, trakasserier eller på annat sätt oacceptabelt beteende kan rapporteras genom att kontakta projektteamet på Grp-opensourceoffice@adobe.com. Alla klagomål kommer att granskas och utredas och resultera i ett svar som bedöms nödvändigt och lämpligt med hänsyn till omständigheterna. Projektgruppen är skyldig att upprätthålla sekretess gentemot den som rapporterar en incident.
+Ytterligare information om specifika efterlevnadsprinciper kan publiceras separat.
 
-Projektledare som inte följer eller tillämpar uppförandekoden i gott skick
-Förtroendet kan få tillfälliga eller bestående återverkningar som bestäms av andra
-Projektets ledare.
+Projektledare som inte följer eller tillämpar uppförandekoden i god tro kan få tillfälliga eller permanenta återverkningar som bestäms av andra medlemmar i projektets ledning.
 
-## Attribut
+## Tillskrivning
 
-Denna uppförandekod har anpassats från [Contributor-konventionen](https://contributor-covenant.org), version 1.4,
-finns på [https://contributor-covenant.org/version/1/4](https://contributor-covenant.org/version/1/4/)
+Denna uppförandekod har anpassats från [Medverkandeavtal](https://contributor-covenant.org), version 1.4, tillgänglig på [https://contributor-covenant.org/version/1/4](https://contributor-covenant.org/version/1/4/)

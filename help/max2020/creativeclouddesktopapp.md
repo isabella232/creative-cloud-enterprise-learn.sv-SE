@@ -7,7 +7,7 @@ exl-id: 5a45d334-3581-4b85-acb6-57764efa6f0a
 source-git-commit: 6b819aef801e003e5a160d24ba69522cf6a7e715
 workflow-type: tm+mt
 source-wordcount: '153'
-ht-degree: 5%
+ht-degree: 8%
 
 ---
 
@@ -57,7 +57,7 @@ I den här självstudiekursen får du lära dig hur du:
 * Hantera och dela resurser
 * Åtkomst till Adobe Fonts
 * Upptäck självstudiekurser
-* Dela dina verk på Behance
+* Dela ditt arbete på Behance
 
 **Presenteras av:**
 Patti Sokol, Principal Solutions Consultant (Digital Media)

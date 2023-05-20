@@ -8,7 +8,7 @@ thumbnail: KT-8039.jpg
 exl-id: 575a18f7-7927-42e7-bd0b-58994536a9f7
 source-git-commit: a3fa682d11269ca94ca5b7d9a5a00178722d3cce
 workflow-type: tm+mt
-source-wordcount: '110'
+source-wordcount: '107'
 ht-degree: 0%
 
 ---
@@ -23,4 +23,4 @@ Utforska en helt ny värld av digitalteckning och målning med Adobe Fresco i de
 
 [**Ladda ned Quick Reference PDF Guide**](../quick-reference/Frescoworkshop.pdf)
 
-[![Bild av första sidan i snabbguiden](assets/FrescoworkshopPage1.png)](../quick-reference/Frescoworkshop.pdf)
+[![Bild på första sidan i snabbguiden](assets/FrescoworkshopPage1.png)](../quick-reference/Frescoworkshop.pdf)

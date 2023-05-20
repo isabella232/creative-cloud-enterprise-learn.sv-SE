@@ -14,6 +14,6 @@ ht-degree: 0%
 
 # Skapa ett 3D-collage för en affisch med Adobe [!DNL Stock] bilder
 
-Skapa affischer som drar till sig uppmärksamhet. Hitta bilder i Adobe [!DNL Stock] och designa ett collage i Adobe Illustrator med en iögonfallande 3D-effekt.
+Skapa affischer som drar till sig uppmärksamheten. Hitta relevanta bilder i Adobe [!DNL Stock] och utforma ett collage i Adobe Illustrator som har en iögonfallande 3D-effekt.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331805?hidetitle=true)

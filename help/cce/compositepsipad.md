@@ -6,7 +6,7 @@ level: Beginner, Intermediate
 exl-id: c2f1440a-5da7-4e04-9c7d-fe595d45a8c2
 source-git-commit: e3982cf31ebb0dac5927baa1352447b3222785c9
 workflow-type: tm+mt
-source-wordcount: '90'
+source-wordcount: '87'
 ht-degree: 0%
 
 ---
@@ -21,4 +21,4 @@ Ha kraften i Photoshop nära till hands. Lär dig att använda ett av dina favor
 
 [**Ladda ned Quick Reference PDF Guide**](../quick-reference/GettoknowPhotoshopontheiPad.pdf)
 
-[![Bild av första sidan i snabbguiden](assets/GettoknowPhotoshopontheiPadPage1.png)](../quick-reference/GettoknowPhotoshopontheiPad.pdf)
+[![Bild på första sidan i snabbguiden](assets/GettoknowPhotoshopontheiPadPage1.png)](../quick-reference/GettoknowPhotoshopontheiPad.pdf)

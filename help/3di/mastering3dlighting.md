@@ -31,9 +31,9 @@ Processen för att skapa en 3D-rendering är aldrig riktigt densamma, men detta 
 1. Skapa eller förvärva objekt
 1. Scensammanställning
 1. Bildruta scenen
-1. **Ljus**
+1. **Belysning**
 1. Skapa eller tilldela material
-1. Återgivning
+1. Rendering
 
 När du kommer till belysningsfasen är det idealiskt att ställa in dina lampor innan du arbetar på materialen. Det gör du genom att tilldela hela scenen ett neutralt grått, matt material. På så sätt kommer du att kunna se och förstå tydligare hur ljusen påverkar objektets silhuetter på scenen. När materialen är klara kan belysningen behöva ytterligare förbättringar.
 

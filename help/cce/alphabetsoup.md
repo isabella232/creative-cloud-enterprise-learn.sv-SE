@@ -8,7 +8,7 @@ thumbnail: KT-8038.jpg
 exl-id: a6bccd09-d4e6-43ec-9bf9-58c34f215267
 source-git-commit: 87830322955c0d4a6b7f6c31676f6dc651e63943
 workflow-type: tm+mt
-source-wordcount: '152'
+source-wordcount: '149'
 ht-degree: 0%
 
 ---
@@ -23,4 +23,4 @@ JPG-, PNG-, SVG-, GIF- och EPS-filer används ofta inom design, vissa för webbs
 
 [**Ladda ned Quick Reference PDF Guide**](../quick-reference/Decodingthealphabetsoupofgraphicformats.pdf)
 
-[![Bild av första sidan i snabbguiden](assets/DecodingthealphabetsoupofgraphicformatsPage1.png)](../quick-reference/Decodingthealphabetsoupofgraphicformats.pdf)
+[![Bild på första sidan i snabbguiden](assets/DecodingthealphabetsoupofgraphicformatsPage1.png)](../quick-reference/Decodingthealphabetsoupofgraphicformats.pdf)
