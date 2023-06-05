@@ -4,9 +4,9 @@ description: Välkommen till utbildningsnavet Creative Cloud for enterprise
 role: User
 level: Beginner, Intermediate, Experienced
 exl-id: d0223157-24aa-486b-806a-fc6f6a36d7cf
-source-git-commit: ab1ccf6b37a5fd9ca55edf9d9b7bee66bf7c73e3
+source-git-commit: 715226411355dce6411212f6d51043afc77998be
 workflow-type: tm+mt
-source-wordcount: '173'
+source-wordcount: '201'
 ht-degree: 9%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 9%
 
 Välkommen till utbildningsnavet Creative Cloud for enterprise. Här hittar du ett stort utbud av utbildningar med fokus på Creative Cloud för företag. Våra självstudiekurser, webbinarier och användningsexempel är utformade för att snabbt hålla både nybörjare och administratörer uppdaterade om Creative Cloud för företagsprodukter.
 
-## Bläddra bland ämnen
+## Bläddra bland avsnitt
 
 <table style="table-layout:fixed">
 <tr>
@@ -32,6 +32,26 @@ Välkommen till utbildningsnavet Creative Cloud for enterprise. Här hittar du e
     <br>
   </td>
   <td>
+    <a href="express/overview-express.md">
+      <img alt="Adobe Express" src="assets/Express.png" />
+    </a>
+    <div>
+   <a href="express/overview-express.md"><strong>Adobe Express</strong></a>
+    </div>
+    <em>Ett lättanvänt kreativt verktyg utan erfarenhet</em>
+    <br>
+  </td>
+  <td>
+    <a href="firefly/overview-firefly.md">
+      <img alt="Adobe Firefly" src="assets/firefly.png" />
+    </a>
+    <div>
+   <a href="firefly/overview-firefly.md"><strong>Adobe Firefly</strong></a>
+    </div>
+    <em>Den nya familjen kreativa generativa AI-modeller som kommer till Adobe</em>
+    <br>
+  </td>
+  <td>
     <a href="stock/overview-stock.md">
       <img alt="Adobe Stock" src="assets/Stock.jpg" />
     </a>
@@ -41,6 +61,7 @@ Välkommen till utbildningsnavet Creative Cloud for enterprise. Här hittar du e
     <em>Högklassiga digitala bilder, illustrationer, videor, ljud, mallar med mera</em>
     <br>
   </td>
+</tr>
   <td>
    <a href="3di/overview-3di.md">
       <img alt="Adobe 3D &amp; VR" src="assets/Dimenio.jpg" />
@@ -51,8 +72,6 @@ Välkommen till utbildningsnavet Creative Cloud for enterprise. Här hittar du e
     <em>Skapa fotorealistiska 3D-bilder för varumärken, produktbilder och förpackningsdesign</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
   <a href="dva/overview-dva.md">
       <img alt="Adobe Video" src="assets/CCEbanner-DVA.png" />

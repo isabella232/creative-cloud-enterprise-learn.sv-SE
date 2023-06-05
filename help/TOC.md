@@ -4,9 +4,9 @@ breadcrumb-title: Creative Cloud for enterprise
 user-guide-description: Se självstudiekurser och snabbguider med fokus på Creative Cloud för företag
 solution: Creative Cloud
 type: Tutorial
-source-git-commit: 360291c15785a2d0e42295190425f6bb1975662c
+source-git-commit: 65ca74fa255996d8ce81e1d4f5211a3d52c2eb92
 workflow-type: tm+mt
-source-wordcount: '416'
+source-wordcount: '470'
 ht-degree: 10%
 
 ---
@@ -31,6 +31,26 @@ ht-degree: 10%
       + [Prova på Fresco på iPad och iPhone](cce/frescoworkshop.md)
    + Snabbguider {#ccerefguides}
       + [CCE-stödlinjer](quick-reference/overview-ref.md)
++ [!DNL Adobe Express] {#expressoverview}
+   + [Översikt](express/overview-express.md)
+   + Självstudiekurser {#expresstutorials}
+      + [Kom igång med Adobe Express](express/get-started.md)
+      + [Adobe Express för nybörjare](express/adobe-express-beginners.md)
+      + [Få snabb inspiration](express/get-inspiration.md)
+      + [Skapa mallar](express/create-templates.md)
+      + [Lägga till designresurser](express/add-design-assets.md)
+      + [Gruppera objekt](express/group-objects.md)
+      + [Markera och flytta lager](express/layers.md)
+      + [Skapa flera sidor](express/multiple-pages.md)
+      + [Ångra och gör om](express/undo-redo.md)
+      + [Använd CC Libraries](express/cc-libraries.md)
+      + [Använd ert varumärke](express/brand.md)
+      + [Integrering med Google Drive](express/google-drive.md)
+      + [Ta bort bakgrund](express/remove-background.md)
+      + [Finjustera ett urklipp](express/refine-cutout.md)
+      + [Använda texteffekter](express/text-effects.md)
+      + [Använda bildeffekter](express/image-effects.md)
+      + [Skapa böjd text](express/create-curved-text.md)
 + [!DNL Adobe Firefly] {#fireflyoverview}
    + [Översikt](firefly/overview-firefly.md)
 + [!DNL Adobe Stock] {#stockoverview}
