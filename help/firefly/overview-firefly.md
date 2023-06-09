@@ -3,9 +3,9 @@ title: Adobe [!DNL Firefly] Översikt
 description: Kom igång snabbt med Adobe [!DNL Firefly]
 role: User
 level: Beginner
-source-git-commit: 7299bb82c2f481aeadee348d262a136a3f9945b5
+source-git-commit: 6a4b1174482f607b70a7e9ac8683325e808aae7e
 workflow-type: tm+mt
-source-wordcount: '112'
+source-wordcount: '115'
 ht-degree: 0%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 ![Firefly Hero Image](../assets/firefly.png)
 
-Firefly är den nya familjen av kreativa generativa AI-modeller som kommer till Adobe-produkter och som i första hand fokuserar på bild- och texteffektgenerering. Firefly erbjuder nya sätt att tänka, skapa och kommunicera samtidigt som de kreativa arbetsflödena förbättras avsevärt.
+Firefly är den nya familjen av kreativa generativa AI-modeller som kommer till Adobe och som i första hand fokuserar på att skapa bild- och texteffekter. Firefly erbjuder nya sätt att tänka, skapa och kommunicera samtidigt som de kreativa arbetsflödena förbättras avsevärt.
 
 <br> 
 
@@ -35,7 +35,7 @@ Firefly är den nya familjen av kreativa generativa AI-modeller som kommer till 
       <div>
       <a href="https://firefly.adobe.com/" target="_blank"><strong>Adobe Firefly (beta)</strong></a>
       </div>
-      <em>Gå med i betaprogrammet Adobe Firefly.</em>
+      <em>Gå med i betaprogrammet för Adobe Firefly.</em>
       <br>
   </td>
   <td>
@@ -49,9 +49,9 @@ Firefly är den nya familjen av kreativa generativa AI-modeller som kommer till 
       <br>
   </td>
   <td>
-    <img alt="Mellanrum" src="../assets/Whitespacer.png" />
-    <div>
-    <br>
+      <a href="webinar-experimenting.md">
+         <img alt="Experimentera med Adobe Firefly" src="assets/webinar-experimenting.png" />
+      </a>
   </td>
   <td>
     <img alt="Mellanrum" src="../assets/Whitespacer.png" />

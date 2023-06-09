@@ -4,9 +4,9 @@ breadcrumb-title: Creative Cloud for enterprise
 user-guide-description: Se självstudiekurser och snabbguider med fokus på Creative Cloud för företag
 solution: Creative Cloud
 type: Tutorial
-source-git-commit: 91984a5d4fd32db0af0007a65cb9245ff2a5b960
+source-git-commit: 0e71f14ba016ae538d9facbbf54cab6850edd05d
 workflow-type: tm+mt
-source-wordcount: '476'
+source-wordcount: '481'
 ht-degree: 9%
 
 ---
@@ -55,6 +55,8 @@ ht-degree: 9%
       + [Skapa böjd text](express/create-curved-text.md)
 + [!DNL Adobe Firefly] {#fireflyoverview}
    + [Översikt](firefly/overview-firefly.md)
+   + Webbseminarier {#firefly-webinars}
+      + [Experimentera med Adobe Firefly](firefly/webinar-experimenting.md)
 + [!DNL Adobe Stock] {#stockoverview}
    + [Översikt](stock/overview-stock.md)
    + Självstudiekurser {#stocktutorials}
