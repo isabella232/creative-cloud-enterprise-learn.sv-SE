@@ -3,9 +3,9 @@ title: Adobe [!DNL Firefly] Översikt
 description: Kom igång snabbt med Adobe [!DNL Firefly]
 role: User
 level: Beginner
-source-git-commit: 6a4b1174482f607b70a7e9ac8683325e808aae7e
+source-git-commit: 0697674f779ffe2feba72d64da222a5b0506ce45
 workflow-type: tm+mt
-source-wordcount: '115'
+source-wordcount: '132'
 ht-degree: 0%
 
 ---
@@ -52,6 +52,11 @@ Firefly är den nya familjen av kreativa generativa AI-modeller som kommer till 
       <a href="webinar-experimenting.md">
          <img alt="Experimentera med Adobe Firefly" src="assets/webinar-experimenting.png" />
       </a>
+      <div>
+      <a href="webinar-experimenting.md"><strong>Experimentera med Firefly webinar</strong></a>
+      </div>
+      <em>Följ med Howard Pinsky när han dyker in i betaversionen av Firefly i detta webbinarium</em>
+      <br>
   </td>
   <td>
     <img alt="Mellanrum" src="../assets/Whitespacer.png" />
