@@ -5,9 +5,9 @@ role: User
 level: Beginner, Intermediate
 keywords: 3D-belysning, 600 Global MSV
 exl-id: 05eb729e-35b8-46e2-9c56-590250097d0b
-source-git-commit: 01d80f9b296bc7d13b5e931cf0ca22d1335271dc
+source-git-commit: 5e47268715a213c3bdc58cd61cdc7646ba333dd8
 workflow-type: tm+mt
-source-wordcount: '2739'
+source-wordcount: '2733'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,7 @@ Lär dig mer om 3D-ljus och hur du skapar olika ljusförhållanden som helt kan 
 
 Vi uppfattar världen omkring oss med våra sinnen: Vi hör, vi känner, vi luktar, vi ser. Vi kan se eftersom våra ögon fångar upp information som kommer till oss från elementära partiklar som kallas fotoner. Denna information bearbetas av vår hjärna för att skapa en bild. Det vi tolkar som objektfärg, glansighet, genomskinlighet eller metalliska egenskaper är alla produkter av samspelet mellan fotonerna och objektets yta.
 
-Ljusmekaniken i en datorgenererad 3D-scen följer samma naturliga princip om fotonspridning, genom en process som kallas [strålföljning](https://en.wikipedia.org/wiki/Ray_tracing_(graphics)). Strålar studsar mot former och interagerar med deras material, vilket effektivt definierar hur objekt visas i den slutliga bilden. Ljus visar dimensionerna för allt som finns i en 3D-scen.
+Ljusmekaniken i en datorgenererad 3D-scen följer samma naturliga princip för fotonspridning, genom en process som kallas strålföljning. Strålar studsar mot former och interagerar med deras material, vilket effektivt definierar hur objekt visas i den slutliga bilden. Ljus visar dimensionerna för allt som finns i en 3D-scen.
 
 Vissa material är mer känsliga för ljusförhållanden än andra. Ta till exempel metaller: Ett kromobjekt reflekterar i princip allt runt det. Om ett ljus flyttas, blir ljusare eller större, är all denna information synlig direkt på kromytan i nästan spegelliknande detalj, så att den kan se helt annorlunda ut från ett ljusförhållande till det andra.
 
@@ -43,7 +43,7 @@ Det är bäst att arbeta med ljuset en i taget. Det aktiva ljuset ska vara det e
 
 ![Exempel på 3 ljus som lyser upp en 3D-bilmodell individuellt och alla 3 av dem arbetar tillsammans](assets/Mastering3dlighting_3.gif)
 
-Ett annat användbart trick är att skapa en sfär med ett glänsande metallmaterial (en krom eller en spegel). Denna &quot;spegelboll&quot; speglar effektivt hela scenen runt den, så att du enkelt kan bestämma ljusets position, riktning eller storlek. När det gäller miljön ljus, kommer du att kunna se dess reflektion i spegelkulan, vilket hjälper till att ställa in dess orientering i rymden.
+Ett annat användbart trick är att skapa en sfär med ett glänsande metallmaterial (en krom eller en spegel). Denna &quot;spegelboll&quot; kommer effektivt att återspegla hela scenen runt den, så att du enkelt kan bestämma ljusets position, riktning eller storlek. Om miljön ljus, kommer du att kunna se dess reflektion i spegelkulan, vilket hjälper till att ställa in dess orientering i rymden.
 
 ![Använda en spegelkula (sfär med metallisk textur) för att se och orientera miljöljuset i en 3D-scen](assets/Mastering3dlighting_4.gif)
 
@@ -125,7 +125,7 @@ Du kan kontrollera skuggornas mjukhet genom att skala det glödande objektet upp
 
 ![Om du ändrar storleken på objektljuset ökar ljusmängden och skuggorna mjukas upp](assets/Mastering3dlighting_19.gif)
 
-Till skillnad från de tidigare ljustyperna vi har täckt kan dessa ljus också utnyttja texturer, förutom vanliga färger. Texturerna kan fästas vid basfärgen på deras material, och ljusintensiteten styrs med ett glödreglage.
+Till skillnad från de tidigare typer av ljus som vi har täckt, dessa ljus kan också utnyttja texturer, förutom vanliga färger. Texturerna kan fästas vid basfärgen på deras material, och ljusintensiteten styrs med ett glödreglage.
 
 ![Använda en textur på ett objektljus som belyser en 3D-bilmodell](assets/Mastering3dlighting_20.gif)
 
@@ -147,7 +147,7 @@ Installationen består av tre ljuskällor:
 
    ![Exempel på en fälglampa som belyser en 3D-hörlursmodell](assets/Mastering3dlighting_23.jpg)
 
-1. **Fyllnadsljus:** mindre intensivt och tjänar till att fylla i mörkare områden, används detta för områden som de tidigare två ljusen inte når.
+1. **Fyllnadsljus:** mindre intensiv och tjänar till att fylla i mörkare områden, används detta för områden som de tidigare två ljusen inte når.
 
    ![Exempel på en fyllnadsljus som belyser en 3D-hörlursmodell](assets/Mastering3dlighting_24.jpg)
 
