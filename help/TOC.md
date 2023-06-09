@@ -4,9 +4,9 @@ breadcrumb-title: Creative Cloud for enterprise
 user-guide-description: Se självstudiekurser och snabbguider med fokus på Creative Cloud för företag
 solution: Creative Cloud
 type: Tutorial
-source-git-commit: 0e71f14ba016ae538d9facbbf54cab6850edd05d
+source-git-commit: 2308b637adf076bf8fdcc56c1b34ebe734385e1e
 workflow-type: tm+mt
-source-wordcount: '481'
+source-wordcount: '482'
 ht-degree: 9%
 
 ---
@@ -106,29 +106,29 @@ ht-degree: 9%
    + [Översikt](deploy/overview-deploy.md)
    + [Serienumrets giltighetstid](deploy/cceserial.md)
    + [Namngiven användarlicensiering](deploy/nameduserlicensing.md)
-+ MAX 2020 {#max2020}
-   + [Översikt](max2020/overview-max.md)
++ Adobe MAX {#max}
+   + [Översikt](max/overview-max.md)
    + Självstudiekurser {#tutorials}
-      + [Översikt](max2020/maxtutorials.md)
+      + [Översikt](max/maxtutorials.md)
       + Skrivbordsprodukter {#desktop-products}
-         + [Acrobat och Sign](max2020/acrobat-sign.md)
-         + [[!DNL Dimension]](max2020/dimension.md)
-         + [Illustrator](max2020/illustrator.md)
-         + [InDesign](max2020/indesign.md)
-         + [Photoshop](max2020/photoshop.md)
-         + [[!DNL Rush]](max2020/rush.md)
-         + [XD](max2020/xd.md)
+         + [Acrobat och Sign](max/acrobat-sign.md)
+         + [[!DNL Dimension]](max/dimension.md)
+         + [Illustrator](max/illustrator.md)
+         + [InDesign](max/indesign.md)
+         + [Photoshop](max/photoshop.md)
+         + [[!DNL Rush]](max/rush.md)
+         + [XD](max/xd.md)
       + Mobilappar {#mobile-apps}
-         + [[!DNL Capture]](max2020/capture.md)
-         + [Fresco](max2020/fresco.md)
-         + [Illustrator på iPad](max2020/illustratoripad.md)
-         + [Photoshop på iPad.](max2020/photoshopipad.md)
+         + [[!DNL Capture]](max/capture.md)
+         + [Fresco](max/fresco.md)
+         + [Illustrator på iPad](max/illustratoripad.md)
+         + [Photoshop på iPad.](max/photoshopipad.md)
       + Integreringar {#integrations}
-         + [AEM](max2020/aem.md)
-         + [Creative Cloud-datorprogram](max2020/creativeclouddesktopapp.md)
-         + [CC Libraries](max2020/cclibraries.md)
-         + [InDesign Server](max2020/indesignserver.md)
-         + [[!DNL Stock]](max2020/stock.md)
-         + [Företagsadministration](max2020/enterprise.md)
+         + [AEM](max/aem.md)
+         + [Creative Cloud-datorprogram](max/creativeclouddesktopapp.md)
+         + [CC Libraries](max/cclibraries.md)
+         + [InDesign Server](max/indesignserver.md)
+         + [[!DNL Stock]](max/stock.md)
+         + [Företagsadministration](max/enterprise.md)
       + Praktiskt projekt {#project}
-         + [Skapa din egen ansiktsmask](max2020/handsonproject.md)
+         + [Skapa din egen ansiktsmask](max/handsonproject.md)
