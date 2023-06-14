@@ -3,9 +3,9 @@ title: Adobe [!DNL Firefly] Översikt
 description: Kom igång snabbt med Adobe [!DNL Firefly]
 role: User
 level: Beginner
-source-git-commit: 0697674f779ffe2feba72d64da222a5b0506ce45
+source-git-commit: 0a38a173e0b2c14db9eb3a082e1ebd4635058214
 workflow-type: tm+mt
-source-wordcount: '132'
+source-wordcount: '149'
 ht-degree: 0%
 
 ---
@@ -35,7 +35,7 @@ Firefly är den nya familjen av kreativa generativa AI-modeller som kommer till 
       <div>
       <a href="https://firefly.adobe.com/" target="_blank"><strong>Adobe Firefly (beta)</strong></a>
       </div>
-      <em>Gå med i betaprogrammet för Adobe Firefly.</em>
+      <em>Gå med i betaprogrammet Adobe Firefly.</em>
       <br>
   </td>
   <td>
@@ -45,7 +45,7 @@ Firefly är den nya familjen av kreativa generativa AI-modeller som kommer till 
       <div>
       <a href="https://www.adobe.com/sensei/generative-ai/firefly.html" target="_blank"><strong>Utforska Firefly i Photoshop</strong></a>
       </div>
-      <em>Firefly finns nu i Photoshop och sättet du skapar kommer aldrig att bli detsamma</em>
+      <em>Firefly ligger nu i Photoshop och det sätt som du skapar kommer aldrig att bli detsamma</em>
       <br>
   </td>
   <td>
@@ -59,9 +59,14 @@ Firefly är den nya familjen av kreativa generativa AI-modeller som kommer till 
       <br>
   </td>
   <td>
-    <img alt="Mellanrum" src="../assets/Whitespacer.png" />
-    <div>
-    <br>
+      <a href="generative-fill.md">
+         <img alt="Generativ fyllning i Photoshop" src="assets/generative-fill.png" />
+      </a>
+      <div>
+      <a href="generative-fill.md"><strong>Generativ fyllning i Photoshop</strong></a>
+      </div>
+      <em>Lär dig hur du använder Generativ fyllning från Adobe Firefly</em>
+      <br>
   </td>
 </tr>
 </table>
