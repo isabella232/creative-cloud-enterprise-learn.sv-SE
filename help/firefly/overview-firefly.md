@@ -3,9 +3,10 @@ title: Adobe [!DNL Firefly] Översikt
 description: Kom igång snabbt med Adobe [!DNL Firefly]
 role: User
 level: Beginner
-source-git-commit: 0a38a173e0b2c14db9eb3a082e1ebd4635058214
+exl-id: 6ba5adc4-b67b-45dd-95e6-13d642b991b8
+source-git-commit: 36effc4e0896ef572130bf3fee4b5059c481f23c
 workflow-type: tm+mt
-source-wordcount: '149'
+source-wordcount: '174'
 ht-degree: 0%
 
 ---
@@ -14,7 +15,7 @@ ht-degree: 0%
 
 ![Firefly Hero Image](../assets/firefly.png)
 
-Firefly är den nya familjen av kreativa generativa AI-modeller som kommer till Adobe och som i första hand fokuserar på att skapa bild- och texteffekter. Firefly erbjuder nya sätt att tänka, skapa och kommunicera samtidigt som de kreativa arbetsflödena förbättras avsevärt.
+Firefly är den nya familjen av kreativa generativa AI-modeller som kommer till Adobe-produkter och som i första hand fokuserar på bild- och texteffektgenerering. Firefly erbjuder nya sätt att tänka, skapa och kommunicera samtidigt som de kreativa arbetsflödena förbättras avsevärt.
 
 <br> 
 
@@ -69,4 +70,30 @@ Firefly är den nya familjen av kreativa generativa AI-modeller som kommer till 
       <br>
   </td>
 </tr>
+<tr>
+   <td>
+      <a href="web-banner-ad.md">
+         <img alt="Banderollannonser i Photoshop" src="assets/banner-ad-variations.png" />
+      </a>
+      <div>
+      <a href="web-banner-ad.md"><strong>Banderollannonser i Photoshop</strong></a>
+      </div>
+      <em>Lär dig hur du använder Generativ fyllning för att snabba upp skapandet av webbannonser och banners</em>
+      <br>
+  </td>
+  <td>
+    <img alt="Mellanrum" src="../assets/Gray_thumbnail.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="Mellanrum" src="../assets/Gray_thumbnail.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="Mellanrum" src="../assets/Gray_thumbnail.png" />
+    <div>
+    <br>
+  </td>
 </table>
