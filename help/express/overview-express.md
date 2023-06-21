@@ -3,9 +3,10 @@ title: Adobe [!DNL Express] Översikt
 description: Kom igång snabbt med Adobe [!DNL Express]
 role: User
 level: Beginner
-source-git-commit: 579283730f25cc367a97810a34e2f883659b4d9b
+exl-id: 0feb9a09-008e-4d38-a5c2-23f8d001eeb4
+source-git-commit: f2885238c7a57953b176881f352afd541d9ce7b7
 workflow-type: tm+mt
-source-wordcount: '93'
+source-wordcount: '101'
 ht-degree: 0%
 
 ---
@@ -44,13 +45,18 @@ Adobe Express är ett lättanvänt verktyg utan någon erfarenhet.
       </a>
   </td>
   <td>
-      <a href="schedule.md">
-         <img alt="Schemalägg sociala inlägg" src="assets/schedule.png" />
+      <a href="create-webinar-poster.md">
+         <img alt="Skapa affischer för webbseminarier med Firefly" src="assets/webinar-poster.png" />
       </a>
   </td>
 </tr>
 <tr>
-   <td>
+  <td>
+      <a href="schedule.md">
+         <img alt="Schemalägg sociala inlägg" src="assets/schedule.png" />
+      </a>
+  </td>
+ <td>
    <a href="collaborate.md">
       <img alt="Bjud in projektmedarbetare" src="assets/collaborate.png" />
    </a>
@@ -65,14 +71,14 @@ Adobe Express är ett lättanvänt verktyg utan någon erfarenhet.
       <img alt="Skapa mallar" src="assets/templates.png" />
    </a>
   </td>
-  <td>
+</tr>
+<tr>
+ <td>
       <a href="add-design-assets.md">
          <img alt="Lägga till designresurser" src="assets/design-assets.png" />
       </a>
   </td>
-</tr>
-<tr>
-  <td>
+ <td>
       <a href="group-objects.md">
          <img alt="Gruppera objekt" src="assets/group-objects.png" />
       </a>
@@ -87,14 +93,14 @@ Adobe Express är ett lättanvänt verktyg utan någon erfarenhet.
          <img alt="Skapa flera sidor" src="assets/multiple-pages.png" />
       </a>
   </td>
+</tr>
+<tr>
   <td>
       <a href="undo-redo.md">
          <img alt="Ångra och gör om" src="assets/undo-redo.png" />
       </a>
   </td>
-</tr>
-<tr>
-  <td>
+ <td>
       <a href="cc-libraries.md">
          <img alt="Använd CC Libraries" src="assets/cc-libraries.png" />
       </a>
@@ -109,12 +115,12 @@ Adobe Express är ett lättanvänt verktyg utan någon erfarenhet.
          <img alt="Integrering med Google Drive" src="assets/google-drive.png" />
       </a>
   </td>
-   <td>
+</tr>
+  <td>
       <a href="remove-background.md">
          <img alt="Ta bort bakgrund" src="assets/background.png" />
       </a>
   </td>
-</tr>
   <td>
       <a href="refine-cutout.md">
          <img alt="Finjustera ett urklipp" src="assets/cutouts.png" />
@@ -130,10 +136,29 @@ Adobe Express är ett lättanvänt verktyg utan någon erfarenhet.
          <img alt="Använda bildeffekter" src="assets/image-effects.png" />
       </a>
   </td>
-  <td>
+</tr>
+<tr>
+
+<td>
       <a href="create-curved-text.md">
          <img alt="Skapa böjd text" src="assets/curved-text.png" />
       </a>
+  </td>
+  <td>
+  <td>
+    <img alt="Mellanrum" src="../assets/Gray_thumbnail.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="Mellanrum" src="../assets/Gray_thumbnail.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="Mellanrum" src="../assets/Gray_thumbnail.png" />
+    <div>
+    <br>
   </td>
 </tr>
 </table>

@@ -4,9 +4,9 @@ breadcrumb-title: Creative Cloud for enterprise
 user-guide-description: Se självstudiekurser och snabbguider med fokus på Creative Cloud för företag
 solution: Creative Cloud
 type: Tutorial
-source-git-commit: e0d7d7951b1a6faadfe77151952e68eedda8bf4e
+source-git-commit: b9d3493d2596d724970e79e0fa0920bd110fb59a
 workflow-type: tm+mt
-source-wordcount: '495'
+source-wordcount: '500'
 ht-degree: 9%
 
 ---
@@ -37,6 +37,7 @@ ht-degree: 9%
       + [Kom igång med Adobe Express](express/get-started.md)
       + [Adobe Express för nybörjare](express/adobe-express-beginners.md)
       + [Skapa affischer med Firefly](express/create-social-posters.md)
+      + [Skapa affischer för webbseminarier med Firefly](express/create-webinar-poster.md)
       + [Schemalägg sociala inlägg](express/schedule.md)
       + [Bjud in projektmedarbetare](express/collaborate.md)
       + [Få snabb inspiration](express/get-inspiration.md)
