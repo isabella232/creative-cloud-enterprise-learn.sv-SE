@@ -4,9 +4,9 @@ description: Kom igång snabbt med Adobe [!DNL Firefly]
 role: User
 level: Beginner
 exl-id: 6ba5adc4-b67b-45dd-95e6-13d642b991b8
-source-git-commit: 0068e905d3f9f5eb5161157b90aa99eff97cb0fb
+source-git-commit: 5fcd683659a7a35679838f3b4074ab1e27f6f1ba
 workflow-type: tm+mt
-source-wordcount: '92'
+source-wordcount: '93'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 ![Firefly Hero Image](../assets/firefly.png)
 
-Firefly är den nya familjen av kreativa generativa AI-modeller som kommer till Adobe och som i första hand fokuserar på att skapa bild- och texteffekter. Firefly erbjuder nya sätt att tänka, skapa och kommunicera samtidigt som de kreativa arbetsflödena förbättras avsevärt.
+Firefly är den nya familjen av kreativa generativa AI-modeller som kommer till Adobe-produkter och som i första hand fokuserar på bild- och texteffektgenerering. Firefly erbjuder nya sätt att tänka, skapa och kommunicera samtidigt som de kreativa arbetsflödena förbättras avsevärt.
 
 <br> 
 
@@ -56,7 +56,7 @@ Firefly är den nya familjen av kreativa generativa AI-modeller som kommer till 
 
 <table style="table-layout:fixed">
 <tr>
-  <td>
+   <td>
       <a href="generative-fill.md">
          <img alt="Generativ fyllning i Photoshop" src="assets/generative-fill.png" />
       </a>
@@ -67,9 +67,9 @@ Firefly är den nya familjen av kreativa generativa AI-modeller som kommer till 
       </a>
   </td>
   <td>
-    <img alt="Mellanrum" src="../assets/Whitespacer.png" />
-    <div>
-    <br>
+      <a href="text-effects.md">
+         <img alt="Texteffekter" src="assets/text-effects.png" />
+      </a>
   </td>
   <td>
     <img alt="Mellanrum" src="../assets/Whitespacer.png" />
