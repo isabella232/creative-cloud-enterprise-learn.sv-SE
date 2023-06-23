@@ -3,10 +3,11 @@ title: Adobe [!DNL Firefly] Översikt
 description: Kom igång snabbt med Adobe [!DNL Firefly]
 role: User
 level: Beginner
+jira: KT-13379
 exl-id: 6ba5adc4-b67b-45dd-95e6-13d642b991b8
-source-git-commit: 5fcd683659a7a35679838f3b4074ab1e27f6f1ba
+source-git-commit: 83825707e568f91dab3ead2cfe7f02c7c78d0abf
 workflow-type: tm+mt
-source-wordcount: '93'
+source-wordcount: '96'
 ht-degree: 0%
 
 ---
@@ -72,9 +73,9 @@ Firefly är den nya familjen av kreativa generativa AI-modeller som kommer till 
       </a>
   </td>
   <td>
-    <img alt="Mellanrum" src="../assets/Whitespacer.png" />
-    <div>
-    <br>
+      <a href="generative-recolor.md">
+         <img alt="Generativ omfärgning i Illustrator" src="assets/firefly-recolor.png" />
+      </a>
   </td>
 </tr>
 </table>

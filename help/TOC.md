@@ -4,9 +4,9 @@ breadcrumb-title: Creative Cloud for enterprise
 user-guide-description: Se självstudiekurser och snabbguider med fokus på Creative Cloud för företag
 solution: Creative Cloud
 type: Tutorial
-source-git-commit: 5fcd683659a7a35679838f3b4074ab1e27f6f1ba
+source-git-commit: 83825707e568f91dab3ead2cfe7f02c7c78d0abf
 workflow-type: tm+mt
-source-wordcount: '502'
+source-wordcount: '505'
 ht-degree: 9%
 
 ---
@@ -61,6 +61,7 @@ ht-degree: 9%
       + [Banderollannonser i [!DNL Photoshop]](firefly/web-banner-ad.md)
       + [Generativ ifyllning [!DNL Photoshop]](firefly/generative-fill.md)
       + [Texteffekter](firefly/text-effects.md)
+      + [Generativ omfärgning i [!DNL Illustrator]](firefly/generative-recolor.md)
    + Webbseminarier {#firefly-webinars}
       + [Experimentera med Adobe Firefly](firefly/webinar-experimenting.md)
 + [!DNL Adobe Stock] {#stockoverview}
