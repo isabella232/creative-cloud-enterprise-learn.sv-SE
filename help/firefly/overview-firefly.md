@@ -5,9 +5,9 @@ role: User
 level: Beginner
 jira: KT-13379
 exl-id: 6ba5adc4-b67b-45dd-95e6-13d642b991b8
-source-git-commit: 83825707e568f91dab3ead2cfe7f02c7c78d0abf
+source-git-commit: 756fe272cdf135c4b7c11125b65311cf1eaca7cd
 workflow-type: tm+mt
-source-wordcount: '96'
+source-wordcount: '103'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 ![Firefly Hero Image](../assets/firefly.png)
 
-Firefly är den nya familjen av kreativa generativa AI-modeller som kommer till Adobe-produkter och som i första hand fokuserar på bild- och texteffektgenerering. Firefly erbjuder nya sätt att tänka, skapa och kommunicera samtidigt som de kreativa arbetsflödena förbättras avsevärt.
+Firefly är den nya familjen av kreativa generativa AI-modeller som kommer till Adobe och som i första hand fokuserar på att skapa bild- och texteffekter. Firefly erbjuder nya sätt att tänka, skapa och kommunicera samtidigt som de kreativa arbetsflödena förbättras avsevärt.
 
 <br> 
 
@@ -58,10 +58,15 @@ Firefly är den nya familjen av kreativa generativa AI-modeller som kommer till 
 <table style="table-layout:fixed">
 <tr>
    <td>
+      <a href="overview-of-firefly.md">
+         <img alt="Översikt över Adobe Firefly" src="assets/firefly-overview.png" />
+      </a>
+   </td>
+   <td>
       <a href="generative-fill.md">
          <img alt="Generativ fyllning i Photoshop" src="assets/generative-fill.png" />
       </a>
-  </td>
+   </td>
    <td>
       <a href="web-banner-ad.md">
          <img alt="Banderollannonser i Photoshop" src="assets/banner-ad-variations.png" />
@@ -72,10 +77,27 @@ Firefly är den nya familjen av kreativa generativa AI-modeller som kommer till 
          <img alt="Texteffekter" src="assets/text-effects.png" />
       </a>
   </td>
-  <td>
+</tr>
+<tr>
+<td>
       <a href="generative-recolor.md">
          <img alt="Generativ omfärgning i Illustrator" src="assets/firefly-recolor.png" />
       </a>
+  </td>
+<td>
+    <img alt="Mellanrum" src="../assets/Gray_thumbnail.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="Mellanrum" src="../assets/Gray_thumbnail.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="Mellanrum" src="../assets/Gray_thumbnail.png" />
+    <div>
+    <br>
   </td>
 </tr>
 </table>
