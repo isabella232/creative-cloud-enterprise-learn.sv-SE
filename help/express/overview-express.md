@@ -4,9 +4,9 @@ description: Kom igång snabbt på Adobe [!DNL Express]
 role: User
 level: Beginner
 exl-id: 0feb9a09-008e-4d38-a5c2-23f8d001eeb4
-source-git-commit: 0ba5727c6f6d188e4cfe9124f93700a4c43a635d
+source-git-commit: f67b18917de0c0c0af365cda07b2de94ab877004
 workflow-type: tm+mt
-source-wordcount: '104'
+source-wordcount: '110'
 ht-degree: 0%
 
 ---
@@ -35,10 +35,9 @@ Adobe Express är ett lättanvänt verktyg utan behov av erfarenhet.
       </a>
   </td>
   <td>
-      <a href="create-blog-graphics.md">
-         <img alt="Skapa blogggrafik med Firefly" src="assets/blog-graphic.png" />
+      <a href="create-on-boarding.md">
+         <img alt="Skapa innehåll för rekrytering och introduktion med Firefly" src="assets/on-boarding.png" />
       </a>
-  </td>
   <td>
       <a href="create-social-posters.md">
          <img alt="Skapa affischer för sociala medier med Firefly" src="assets/social-firefly.png" />
@@ -52,6 +51,11 @@ Adobe Express är ett lättanvänt verktyg utan behov av erfarenhet.
 </tr>
 <tr>
  <td>
+      <a href="create-webinar-poster.md">
+         <img alt="Skapa affischer till webbseminarier med Firefly" src="assets/webinar-poster.png" />
+      </a>
+  </td>
+  <td>
       <a href="schedule.md">
          <img alt="Schemalägg sociala inlägg" src="assets/schedule.png" />
       </a>
@@ -66,36 +70,36 @@ Adobe Express är ett lättanvänt verktyg utan behov av erfarenhet.
          <img alt="Få snabb inspiration" src="assets/inspiration.png" />
       </a>
   </td>
-  <td>
+</tr>
+<tr>
+   <td>
    <a href="create-templates.md">
       <img alt="Skapa mallar" src="assets/templates.png" />
    </a>
   </td>
+   <td>
+         <a href="add-design-assets.md">
+            <img alt="Lägg till mediefiler för design" src="assets/design-assets.png" />
+         </a>
+   </td>
+   <td>
+         <a href="group-objects.md">
+            <img alt="Gruppera objekt" src="assets/group-objects.png" />
+         </a>
+   </td>
+   <td>
+         <a href="layers.md">
+            <img alt="Markera och flytta lager" src="assets/layers.png" />
+         </a>
+   </td>
 </tr>
 <tr>
-<td>
-      <a href="add-design-assets.md">
-         <img alt="Lägg till mediefiler för design" src="assets/design-assets.png" />
-      </a>
-  </td>
- <td>
-      <a href="group-objects.md">
-         <img alt="Gruppera objekt" src="assets/group-objects.png" />
-      </a>
-  </td>
-  <td>
-      <a href="layers.md">
-         <img alt="Markera och flytta lager" src="assets/layers.png" />
-      </a>
-  </td>
   <td>
       <a href="multiple-pages.md">
          <img alt="Skapa flera sidor" src="assets/multiple-pages.png" />
       </a>
   </td>
-</tr>
-<tr>
-   <td>
+  <td>
       <a href="undo-redo.md">
          <img alt="Ångra och göra om" src="assets/undo-redo.png" />
       </a>
@@ -110,13 +114,13 @@ Adobe Express är ett lättanvänt verktyg utan behov av erfarenhet.
          <img alt="Använd ditt varumärke" src="assets/brand.png" />
       </a>
   </td>
-  <td>
+</tr>
+<tr>
+ <td>
       <a href="google-drive.md">
          <img alt="Integrering med Google Drive" src="assets/google-drive.png" />
       </a>
   </td>
-</tr>
-<tr>
   <td>
       <a href="remove-background.md">
          <img alt="Ta bort bakgrund" src="assets/background.png" />
@@ -132,22 +136,17 @@ Adobe Express är ett lättanvänt verktyg utan behov av erfarenhet.
          <img alt="Använda texteffekter" src="assets/text-effects.png" />
       </a>
   </td>
-  <td>
+</tr>
+<tr>
+   <td>
       <a href="image-effects.md">
          <img alt="Använd bildeffekter" src="assets/image-effects.png" />
       </a>
   </td>
-</tr>
-<tr>
    <td>
       <a href="create-curved-text.md">
          <img alt="Skapa krökt text" src="assets/curved-text.png" />
       </a>
-   </td>
-   <td>
-      <img alt="Avgränsare" src="../assets/Gray_thumbnail.png" />
-      <div>
-      <br>
    </td>
    <td>
       <img alt="Avgränsare" src="../assets/Gray_thumbnail.png" />
