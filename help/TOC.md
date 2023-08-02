@@ -1,65 +1,66 @@
 ---
-user-guide-title: Creative Cloud for enterprise Tutorials
+user-guide-title: Creative Cloud för företag Tutorials
 breadcrumb-title: Creative Cloud for enterprise
-user-guide-description: Se självstudiekurser och snabbguider med fokus på Creative Cloud för företag
+user-guide-description: Visa självstudiekurser och snabbreferensguider med fokus på Creative Cloud för företag
 solution: Creative Cloud
 type: Tutorial
-source-git-commit: 15ead51dd12bd972513ddabdfac1730484558b81
+source-git-commit: 0ba5727c6f6d188e4cfe9124f93700a4c43a635d
 workflow-type: tm+mt
-source-wordcount: '509'
+source-wordcount: '516'
 ht-degree: 9%
 
 ---
 
 
-# Självstudiekurser för Creative Cloud for enterprise {#cce-learning-hub}
+# Självstudiekurser om Creative Cloud for enterprise {#cce-learning-hub}
 
 + [Översikt](overview.md)
 + Creative Cloud for enterprise {#cceoverview}
    + [Översikt](cce/overview-cce.md)
    + Självstudiekurser {#ccetutorials}
       + [Acrobat för innehållsskapare](cce/acrobat-content-creators.md)
-      + [Förbättra CC-arbetsflöden med CC Libraries](cce/cc-workflows-cc-libraries.md)
+      + [Förbättra arbetsflödena för CC med CC Libraries](cce/cc-workflows-cc-libraries.md)
       + [Tämja typångest](cce/taming-type-anxiety.md)
       + [Adobe Express: Innehåll som sticker ut](cce/adobe-express-content-that-stands-out.md)
-      + [Samarbete: Framtiden för kreativiteten](cce/collaboration-the-future-of-creativity.md)
-      + [Skapa Creative Cloud Libraries för team](cce/ccteamlibraries.md)
-      + [Dela varumärkesresurser med Creative Cloud Libraries for teams](cce/sharecclibraries.md)
-      + [Skapa unika montage med Adobe [!DNL Stock] och Photoshop för iPad](cce/compositepsipad.md)
+      + [Samarbete: Framtiden för kreativitet](cce/collaboration-the-future-of-creativity.md)
+      + [Skapa Creative Cloud-bibliotek för team](cce/ccteamlibraries.md)
+      + [Dela varumärkesresurser med Creative Cloud Libraries för teams](cce/sharecclibraries.md)
+      + [Skapa unika sammansatta bilder med Adobe [!DNL Stock] och Photoshop för iPad](cce/compositepsipad.md)
       + [Skapa biografer med Photoshop](cce/cinemagraphps.md)
-      + [Avkodning av alfabetet soppa av grafiska format](cce/alphabetsoup.md)
+      + [Avkoda alfabetsoppan av grafiska format](cce/alphabetsoup.md)
       + [Prova på Fresco på iPad och iPhone](cce/frescoworkshop.md)
-   + Snabbguider {#ccerefguides}
-      + [CCE-stödlinjer](quick-reference/overview-ref.md)
+   + Snabbreferensstödlinjer {#ccerefguides}
+      + [CCE stödlinjer](quick-reference/overview-ref.md)
 + [!DNL Adobe Express] {#expressoverview}
    + [Översikt](express/overview-express.md)
    + Självstudiekurser {#expresstutorials}
       + [Kom igång med Adobe Express](express/get-started.md)
       + [Adobe Express för nybörjare](express/adobe-express-beginners.md)
-      + [Skapa affischer med Firefly](express/create-social-posters.md)
-      + [Skapa affischer för webbseminarier med Firefly](express/create-webinar-poster.md)
+      + [Skapa bildinnehåll för bloggar med Firefly](express/create-blog-graphics.md)
+      + [Skapa affischer för sociala medier med Firefly](express/create-social-posters.md)
+      + [Skapa affischer till webbseminarier med Firefly](express/create-webinar-poster.md)
       + [Schemalägg sociala inlägg](express/schedule.md)
       + [Bjud in projektmedarbetare](express/collaborate.md)
       + [Få snabb inspiration](express/get-inspiration.md)
       + [Skapa mallar](express/create-templates.md)
-      + [Lägga till designresurser](express/add-design-assets.md)
+      + [Lägg till mediefiler för design](express/add-design-assets.md)
       + [Gruppera objekt](express/group-objects.md)
       + [Markera och flytta lager](express/layers.md)
       + [Skapa flera sidor](express/multiple-pages.md)
-      + [Ångra och gör om](express/undo-redo.md)
-      + [Använd CC Libraries](express/cc-libraries.md)
-      + [Använd ert varumärke](express/brand.md)
+      + [Ångra och göra om](express/undo-redo.md)
+      + [Använda CC Libraries](express/cc-libraries.md)
+      + [Använd ditt varumärke](express/brand.md)
       + [Integrering med Google Drive](express/google-drive.md)
       + [Ta bort bakgrund](express/remove-background.md)
-      + [Finjustera ett urklipp](express/refine-cutout.md)
+      + [Finjustera en utstansning](express/refine-cutout.md)
       + [Använda texteffekter](express/text-effects.md)
-      + [Använda bildeffekter](express/image-effects.md)
-      + [Skapa böjd text](express/create-curved-text.md)
+      + [Använd bildeffekter](express/image-effects.md)
+      + [Skapa krökt text](express/create-curved-text.md)
 + [!DNL Adobe Firefly] {#fireflyoverview}
    + [Översikt](firefly/overview-firefly.md)
    + Självstudiekurser {#firefly-tutorials}
       + [Översikt över Adobe Firefly](firefly/overview-of-firefly.md)
-      + [Banderollannonser i [!DNL Photoshop]](firefly/web-banner-ad.md)
+      + [Banderollannons variationer i [!DNL Photoshop]](firefly/web-banner-ad.md)
       + [Generativ ifyllning [!DNL Photoshop]](firefly/generative-fill.md)
       + [Texteffekter](firefly/text-effects.md)
       + [Generativ omfärgning i [!DNL Illustrator]](firefly/generative-recolor.md)
@@ -70,55 +71,55 @@ ht-degree: 9%
    + Självstudiekurser {#stocktutorials}
       + [Fantastiska digitala resurser](stock/stunning-digital-assets.md)
       + [Sök i Adobe [!DNL Stock] licenshistorik](stock/searchstock.md)
-      + [Lägg till en handritad estetik i Adobe [!DNL Stock] bilder](stock/handdrawn.md)
-      + [Ge typografin en personlig prägel med masker och animeringar](stock/flairtypography.md)
+      + [Lägg till en handritad estetik i Adobe [!DNL Stock] images](stock/handdrawn.md)
+      + [Få typografi att sticka ut med masker och animeringar](stock/flairtypography.md)
       + [Animera en Adobe [!DNL Stock] vektorillustration i Photoshop](stock/animatevector.md)
-      + [Börja din årsrapport med en videofilm som skapats med Adobe [!DNL Stock] och Spark Video](stock/annualreport.md)
-      + [Ge liv åt kreativiteten med anpassade animeringar från Adobe [!DNL Stock]](stock/customanimations.md)
-      + [Ändra en Adobe [!DNL Stock] bildens färger så att de matchar din berättelse](stock/changecolors.md)
-      + [Skapa ett 3D-collage för en affisch med Adobe [!DNL Stock] bilder](stock/collage.md)
-      + [Skapa en fet etikett med Adobe [!DNL Stock] och smarta objekt i Photoshop](stock/boldlabel.md)
-      + [Skapa en infografik med riktlinjer för företag med Adobe [!DNL Stock]](stock/infographic.md)
-      + [Skapa en produktjämförelse med Adobe [!DNL Stock]](stock/featurecomparison.md)
-      + [Skapa ett halvsurrealistiskt montage med Adobe [!DNL Stock]](stock/surrealcomposite.md)
+      + [Börja din årsrapport med en video skapad med Adobe [!DNL Stock] och Spark Video](stock/annualreport.md)
+      + [Gör dina kreativa verk mer levande med anpassade animeringar från Adobe [!DNL Stock]](stock/customanimations.md)
+      + [Ändra en Adobe [!DNL Stock] bildens färger som matchar din story](stock/changecolors.md)
+      + [Skapa ett 3D-kollage för en affisch med Adobe [!DNL Stock] images](stock/collage.md)
+      + [Skapa en fet etikett med Adobe [!DNL Stock] och smarta Photoshop-objekt](stock/boldlabel.md)
+      + [Skapa en informationsgrafik med riktlinjer för företaget med Adobe [!DNL Stock]](stock/infographic.md)
+      + [Skapa ett diagram för jämförelse av produktfunktioner med Adobe [!DNL Stock]](stock/featurecomparison.md)
+      + [Skapa en halvsurrealistisk sammansatt bild med Adobe [!DNL Stock]](stock/surrealcomposite.md)
       + [Skapa ett halvsurrealistiskt mönster med Adobe [!DNL Stock]](stock/surrealpattern.md)
       + [Skapa en interaktiv produktkonfigurator med Adobe [!DNL Stock]](stock/productconfigurator.md)
       + [Skapa ett interaktivt turistfoto med Adobe [!DNL Stock] och XD](stock/interactivetourismphoto.md)
       + [Skapa animeringar för e-post med Adobe [!DNL Stock] och Photoshop](stock/animationemail.md)
       + [Skapa sammanhängande varumärkesbilder med vackra övertoningar och Adobe [!DNL Stock] resurser](stock/brandgradients.md)
       + [Skapa engagerande webbgrafik genom att kombinera Adobe [!DNL Stock] bilder med CSS](stock/webgraphics.md)
-      + [Skapa inspirerande humörtavlor på nolltid med Adobe [!DNL Stock]](stock/moodboard.md)
-      + [Skapa realistiska fotomontage med Adobe [!DNL Stock] bilder](stock/realisticcomposite.md)
+      + [Skapa inspirerande moodboards på nolltid med Adobe [!DNL Stock]](stock/moodboard.md)
+      + [Skapa realistiska fotomontage med Adobe [!DNL Stock] images](stock/realisticcomposite.md)
       + [Anpassa en inläsningsskärmanimering med Adobe [!DNL Stock] och XD](stock/loadingscreen.md)
       + [Anpassa en Adobe [!DNL Stock] presentationsmall som ser professionell ut](stock/presentationtemplate.md)
       + [Anpassa färgerna i en Adobe [!DNL Stock] vektorillustration](stock/customizecolors.md)
-+ Adobe 3D &amp; VR {#3doverview}
++ Adobe 3D och VR {#3doverview}
    + [Översikt](3di/overview-3di.md)
    + Självstudiekurser {#3dtutorials}
-      + [3D-design och -rendering](3di/substance-3d-stager.md)
+      + [3D-design och rendering](3di/substance-3d-stager.md)
       + [Tips och tekniker för att bemästra 3D-ljus i CGI](3di/mastering3dlighting.md)
-      + [Skapa fotorealistisk virtuell fotografering med 3D-rendering och montage](3di/photorealistic.md)
-      + [Anpassa och märka en 3D-modell med [!DNL Dimension] och Adobe [!DNL Stock]](3di/3ddimensionstock.md)
-+ Adobe Video {#videooverview}
+      + [Skapa fotorealistisk virtuell fotografering med 3D-rendering och komposition](3di/photorealistic.md)
+      + [Anpassa och varumärkesanpassa en 3D-modell med [!DNL Dimension] och Adobe [!DNL Stock]](3di/3ddimensionstock.md)
++ Adobe-video {#videooverview}
    + [Översikt](dva/overview-dva.md)
    + Självstudiekurser {#videotutorials}
       + [Professionella mallar för rörlig grafik](dva/motion-graphics-templates.md)
       + [Videogranskning med Frame.io](dva/video-review-frame-io.md)
-   + Snabbguider {#videorefguides}
+   + Snabbreferensstödlinjer {#videorefguides}
       + [Videostödlinjer](dva/overview-dva-ref.md)
 + Adobe XD {#xdoverview}
    + [Översikt](xd/overview-xd.md)
    + Självstudiekurser {#xdtutorials}
-   + [Bekvämt med [!UICONTROL Komponenter] i Adobe XD](xd/components.md)
+   + [Bekanta dig med [!UICONTROL Komponenter] i ADOBE XD](xd/components.md)
 + Driftsätta och hantera {#deploy}
    + [Översikt](deploy/overview-deploy.md)
-   + [Serienumrets giltighetstid](deploy/cceserial.md)
+   + [Serienummer löper ut](deploy/cceserial.md)
    + [Namngiven användarlicensiering](deploy/nameduserlicensing.md)
 + Adobe MAX {#max}
    + [Översikt](max/overview-max.md)
    + Självstudiekurser {#tutorials}
       + [Översikt](max/maxtutorials.md)
-      + Skrivbordsprodukter {#desktop-products}
+      + Produkter för stationära datorer {#desktop-products}
          + [Acrobat och Sign](max/acrobat-sign.md)
          + [[!DNL Dimension]](max/dimension.md)
          + [Illustrator](max/illustrator.md)
@@ -139,4 +140,4 @@ ht-degree: 9%
          + [[!DNL Stock]](max/stock.md)
          + [Företagsadministration](max/enterprise.md)
       + Praktiskt projekt {#project}
-         + [Skapa din egen ansiktsmask](max/handsonproject.md)
+         + [Skapa en egen ansiktsmask](max/handsonproject.md)
