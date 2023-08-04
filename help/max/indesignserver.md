@@ -1,21 +1,22 @@
 ---
 title: InDesign Server
-description: Adobe Adobe ® InDesign ® Server är en robust och skalbar motor som utnyttjar InDesign:s design-, layout- och typografiska funktioner för att programmatiskt skapa engagerande automatiserade dokument
+description: Serverprogramvaran Adobe Adobe&reg; InDesign InDesign&reg; har en robust och skalbar motor med funktioner för design, layout och typografi som gör att du kan skapa engagerande automatiserade dokument programmatiskt
+feature: Graphic Design
 role: User
 level: Beginner, Intermediate
 exl-id: 534124fb-a903-430e-ad56-f124e4f024a0
-source-git-commit: 7b202fd4de29e83dd28c40dc6115a1be51c1f384
+source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
 workflow-type: tm+mt
-source-wordcount: '268'
+source-wordcount: '272'
 ht-degree: 1%
 
 ---
 
 # InDesign Server
 
-![Tutorial Hero Image](../assets/InDesignServer.jpg)
+![Bild för självstudiekurs](../assets/InDesignServer.jpg)
 
-Adobe InDesign ® Server är en robust och skalbar motor som utnyttjar InDesign design-, layout- och typografifunktioner så att du kan skapa engagerande automatiserade dokument programmatiskt.
+Adobe InDesignInDesign ® Server har en robust och skalanpassningsbar motor med funktioner för design, layout och typografi som gör det möjligt att programmatiskt skapa engagerande automatiserade dokument.
 
 ## Bläddra i Tutorials
 
@@ -32,12 +33,12 @@ Adobe InDesign ® Server är en robust och skalbar motor som utnyttjar InDesign 
     <br>
   </td>
   <td>
-    <img alt="Mellanrum" src="../assets/Whitespacer.png" />
+    <img alt="Avgränsare" src="../assets/Whitespacer.png" />
     <div>
     <br>
   </td>
   <td>
-    <img alt="Mellanrum" src="../assets/Whitespacer.png" />
+    <img alt="Avgränsare" src="../assets/Whitespacer.png" />
     <div>
     <br>
   </td>
@@ -49,15 +50,15 @@ Adobe InDesign ® Server är en robust och skalbar motor som utnyttjar InDesign 
 >[!VIDEO](https://video.tv.adobe.com/v/326901?hidetitle=true)
 
 **Beskrivning**
-Datadriven utformning kan uppnås genom programmering med InDesign Server.
+Datadriven utformning kan uppnås programmässigt med InDesign Server.
 
-I den här självstudiekursen får du lära dig hur du:
-* Skapa textmallar med förformaterade InDesign- eller objektformat
-* Flöde i externt datadrivet innehåll för snabbare personalisering av innehåll
-* Generera PDF-bilder eller knyt dem till andra AEM-baserade utdataformat i layouten
+I den här självstudiekursen får du lära dig mer om att:
+* Skapa InDesign-mallar med förformaterade text- eller objektformat
+* Flöde i externt datadrivet innehåll för snabbare innehållsanpassning
+* Skapa spot-on-PDF eller koppla in dig i andra AEM-drivna utdataformat med din layout
 
 **Presenteras av:**
-Eric Rowse, Senior Solutions Consultant (Digital Media)
+ERIC ROWSE, KONSULT FÖR SENIORA LÖSNINGAR (DIGITALA MEDIA)
 
 ## Ytterligare resurser från InDesign Server
 
@@ -70,7 +71,7 @@ Eric Rowse, Senior Solutions Consultant (Digital Media)
     <div>
    <a href="https://www.adobe.com/products/indesignserver/buying-guide.html"><strong>InDesign Server: Köpguide</strong></a>
     </div>
-    <em>Resurser för interna utvecklare och partners</em>
+    <em>Resurser tillgängliga för interna utvecklare eller partners</em>
     <br>
   </td>
   <td>
@@ -80,11 +81,11 @@ Eric Rowse, Senior Solutions Consultant (Digital Media)
     <div>
    <a href="https://www.adobe.com/products/indesignserver/partner.html"><strong>InDesign Server: Hitta en partner</strong></a>
     </div>
-    <em>Även om ni har expertisen att utveckla internt rekommenderar Adobe att ni samarbetar med våra partners för att hitta en lösning som uppfyller era krav</em>
+    <em>Även om du har expertisen att utveckla internt rekommenderar Adobe att du samarbetar med våra partners för att hitta en lösning som uppfyller dina krav</em>
     <br>
   </td>
   <td>
-    <img alt="Mellanrum" src="../assets/Whitespacer.png" />
+    <img alt="Avgränsare" src="../assets/Whitespacer.png" />
     <div>
     <br>
   </td>
@@ -93,10 +94,10 @@ Eric Rowse, Senior Solutions Consultant (Digital Media)
 
 ![InDesign Server-logotyp](../assets/id_server_appicon_96.png)
 
-**Resurser i InDesign Server**
+**Resurser för InDesign Server**
 
-[Utbildning och support](https://www.adobe.com/products/indesignserver.html) är ditt nav för ytterligare självstudiekurser, Nyheter och länkar till användarforum.
+[Lär dig mer och support](https://www.adobe.com/products/indesignserver.html) är navet för ytterligare självstudiekurser, Nyheter och länkar till användarforum.
 
-**Oktober 2020-utgåvan**
+**Versionen från oktober 2020**
 
 Börja använda dessa funktioner (och mycket mer!) genom att hämta den senaste uppdateringen från Creative Cloud-datorprogrammet.

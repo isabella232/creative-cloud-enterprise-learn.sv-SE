@@ -1,19 +1,20 @@
 ---
-title: Skapa ett 3D-collage för en affisch med Adobe [!DNL Stock] bilder
-description: Designa ett collage i Adobe Illustrator med en iögonfallande 3D-effekt från bilder i Adobe [!DNL Stock]
+title: Skapa ett 3D-kollage för en affisch med Adobe [!DNL Stock] images
+description: Designa ett kollage i Adobe Illustrator med en iögonfallande 3D-effekt från foton i Adobe [!DNL Stock]
+feature: Licensable Assets, 3D
 role: User
 level: Beginner, Intermediate
 thumbnail: 331805.jpg
 exl-id: 500c88f5-1313-49b5-a3ca-38535e172640
-source-git-commit: e3982cf31ebb0dac5927baa1352447b3222785c9
+source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
 workflow-type: tm+mt
 source-wordcount: '59'
 ht-degree: 0%
 
 ---
 
-# Skapa ett 3D-collage för en affisch med Adobe [!DNL Stock] bilder
+# Skapa ett 3D-kollage för en affisch med Adobe [!DNL Stock] images
 
-Skapa affischer som drar till sig uppmärksamheten. Hitta relevanta bilder i Adobe [!DNL Stock] och utforma ett collage i Adobe Illustrator som har en iögonfallande 3D-effekt.
+Skapa affischer som drar till sig uppmärksamhet. Hitta relevanta bilder i Adobe [!DNL Stock] och designa ett kollage i Adobe Illustrator med en iögonfallande 3D-effekt.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331805?hidetitle=true)

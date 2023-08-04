@@ -1,17 +1,19 @@
 ---
-title: Lägga till designresurser
-description: Lär dig hur du anpassar Instagram klistermärken och inlägg
+title: Lägg till designresurser
+description: Lär dig anpassa Instagram-klistermärken och inlägg
+feature: Graphic Design
 role: User
 level: Beginner
-source-git-commit: e45ff88014e4bceea43ab7c45069d73f29987459
+exl-id: fbbc0591-c29b-4222-8d11-c95c600d4f62
+source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
 workflow-type: tm+mt
 source-wordcount: '22'
 ht-degree: 0%
 
 ---
 
-# Lägga till designresurser
+# Lägg till mediefiler för design
 
-Lär dig hur du anpassar Instagram klistermärken och inlägg.
+Lär dig anpassa Instagram-klistermärken och inlägg.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3420226?quality=12&learn=on&hidetitle=true)

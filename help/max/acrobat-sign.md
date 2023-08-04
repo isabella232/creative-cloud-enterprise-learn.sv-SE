@@ -1,10 +1,11 @@
 ---
 title: Acrobat och Sign
 description: En lista med självstudiekurser för Acrobat och Adobe Sign
+feature: Collaboration, Share, Integrations
 role: User
 level: Beginner, Intermediate
 exl-id: 7b7defa1-d2fb-4908-a605-4696fceeb467
-source-git-commit: 7b202fd4de29e83dd28c40dc6115a1be51c1f384
+source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
 workflow-type: tm+mt
 source-wordcount: '614'
 ht-degree: 0%
@@ -13,9 +14,9 @@ ht-degree: 0%
 
 # Acrobat och Sign
 
-![Tutorial Hero Image](../assets/DC.jpg)
+![Bild för självstudiekurs](../assets/DC.jpg)
 
-Med Adobe Document Cloud - som innehåller världsledande PDF- och signaturlösningar - kan man förvandla manuella dokumentprocesser till effektiva digitala processer. Nu kan teamet snabbt åtgärda dokument, arbetsflöden och uppgifter - på flera skärmar och enheter - var som helst, när som helst och i dina Microsoft- och företagsprogram.
+Med Adobe Document Cloud, som innehåller världsledande PDF- och signaturlösningar, kan du omvandla manuella dokumentprocesser till effektiva digitala processer. Nu kan ditt team snabbt utföra åtgärder på dokument, arbetsflöden och uppgifter - på flera skärmar och enheter - var som helst, när som helst och i dina Microsoft- och företagsprogram.
 
 ## Bläddra i Tutorials
 
@@ -38,7 +39,7 @@ Med Adobe Document Cloud - som innehåller världsledande PDF- och signaturlösn
     <div>
     <a href="acrobat-sign.md#tutorial2"><strong>Skapa Forms med Adobe Sign online</strong></a>
     </div>
-    <em>Förvandla snabbt dokument till onlineformulär och publicera dem online där alla som behöver dem kan fylla i och signera dem</em>
+    <em>Gör snabbt om dokument till onlineformulär och publicera dem online, där alla som behöver dem kan fylla i och signera dem</em>
     <br>
   </td>
   <td>
@@ -60,7 +61,7 @@ Med Adobe Document Cloud - som innehåller världsledande PDF- och signaturlösn
     <div>
    <a href="acrobat-sign.md#tutorial4"><strong>Visa menyer på mobilen med Liquid Mode</strong></a>
     </div>
-    <em>Använd Liquid Mode för att förbättra läsarupplevelsen av PDF på mobila enheter</em>
+    <em>Använd Liquid Mode för att förbättra läsupplevelsen av PDF på mobila enheter</em>
     <br>
   </td>
   <td>
@@ -70,11 +71,11 @@ Med Adobe Document Cloud - som innehåller världsledande PDF- och signaturlösn
     <div>
     <a href="acrobat-sign.md#tutorial5"><strong>Skanna dokument till PDF från din mobiltelefon</strong></a>
     </div>
-    <em>Med Adobe Scan kan du enkelt hämta in och konvertera dokument, formulär, visitkort och whiteboardtavlor till högkvalitativa Adobe PDF</em>
+    <em>Med Adobe Scan kan du enkelt samla in och konvertera dokument, formulär, visitkort och whiteboards till högkvalitativa Adobe PDF</em>
     <br>
   </td>
   <td>
-    <img alt="Mellanrum" src="../assets/Gray_thumbnail.png" />
+    <img alt="Avgränsare" src="../assets/Gray_thumbnail.png" />
     <div>
     <br>
   </td>
@@ -88,9 +89,9 @@ Med Adobe Document Cloud - som innehåller världsledande PDF- och signaturlösn
 **Beskrivning**
 Bjud in granskare att lägga till sina kommentarer i ett PDF-dokument.
 
-I den här självstudiekursen får du lära dig hur du:
+I den här självstudiekursen får du lära dig mer om att:
 * Värd PDF kommenterar i Document Cloud
-* Samla kommentarer på ett och samma ställe
+* Samla kommentarer på ett ställe
 * Samtidiga kommentarer uppmuntrar till samarbete
 
 **Adobe Review and Comment Options Comparison PDF**
@@ -100,17 +101,17 @@ I den här självstudiekursen får du lära dig hur du:
 **Presenteras av:**
 Dan Armstrong, lösningskonsult (digitala medier) Rick Borstein, Senior Manager Solution Consulting (Digital Media)
 
-## Skapa Forms med Adobe Sign (5:19) online {#tutorial2}
+## Skapa Forms med Adobe Sign online (5:19) {#tutorial2}
 
 >[!VIDEO](https://video.tv.adobe.com/v/326776?hidetitle=true)
 
 **Beskrivning**
-Förvandla snabbt dokument till onlineformulär och publicera dem online där alla som behöver dem kan fylla i och signera dem.
+Gör snabbt om dokument till onlineformulär och publicera dem online, där alla som behöver dem kan fylla i och signera dem.
 
-I den här självstudiekursen får du lära dig hur du:
-* Digitalisera pappersblanketter genom att omvandla dem till digitala dokument
-* Skicka digitala formulär till webbplatsen där kunderna kan komma åt dem från sin egen enhet
-* Ifyllda blanketter arkiveras automatiskt
+I den här självstudiekursen får du lära dig mer om att:
+* Bli digital genom att omvandla pappersformulär till digitala dokument
+* Lägg upp digitala formulär på din webbplats så att kunderna kan komma åt dem från sin egen enhet
+* Slutförda formulär arkiveras automatiskt för information
 
 **Presenteras av:**
 Taylor Kobey, lösningskonsult (digitala medier) Emily Palmer, lösningskonsult (digitala medier)
@@ -122,23 +123,23 @@ Taylor Kobey, lösningskonsult (digitala medier) Emily Palmer, lösningskonsult 
 **Beskrivning**
 Gå från Word till PDF och skicka för signering med Adobe Sign.
 
-I den här självstudiekursen får du lära dig hur du:
-* Utnyttja de verktyg du använder varje dag för att skicka digitala dokument för signering
+I den här självstudiekursen får du lära dig mer om att:
+* Utnyttja verktygen du använder varje dag för att skicka digitala dokument för signering
 
 **Presenteras av:**
 Rick Borstein, Senior Manager Solution Consulting (Digital Media)
 
-## Visa menyer på mobila enheter med Liquid Mode (2:57) {#tutorial4}
+## Visa menyer på mobiler med Liquid Mode (2:57) {#tutorial4}
 
 >[!VIDEO](https://video.tv.adobe.com/v/327093?hidetitle=true)
 
 **Beskrivning**
-Använd Liquid Mode för att förbättra läsarupplevelsen av PDF på mobila enheter.
+Använd Liquid Mode för att förbättra läsarupplevelsen i PDF på mobila enheter.
 
-I den här självstudiekursen får du lära dig hur du:
+I den här självstudiekursen får du lära dig mer om att:
 * Gör PDF-filer responsiva för mobila enheter
 * Förbättra PDF-layouten
-* Lägg till funktioner i farten så att du enkelt kan läsa dokument på telefonen eller surfplattan
+* Lägg till funktioner direkt så att du enkelt kan läsa dokument på telefonen och surfplattan
 
 **Presenteras av:**
 Emilie Enke, Associate Solutions Consultant (Digital Media)
@@ -148,12 +149,12 @@ Emilie Enke, Associate Solutions Consultant (Digital Media)
 >[!VIDEO](https://video.tv.adobe.com/v/327094?hidetitle=true)
 
 **Beskrivning**
-Med Adobe Scan kan du enkelt hämta in och konvertera dokument, formulär, visitkort och whiteboardtavlor till högkvalitativa Adobe PDF.
+Med Adobe Scan kan du enkelt samla in och konvertera dokument, formulär, visitkort och whiteboards till högkvalitativa Adobe PDF.
 
-I den här självstudiekursen får du lära dig hur du:
-* Använd mobiltelefonen för att hämta in och konvertera dokument, formulär, visitkort och whiteboardtavlor till högkvalitativa Adobe PDF
-* Identifiera och öka skärpan i handskriven eller utskriven text automatiskt, samtidigt som du tar bort element som du inte vill ha, som bländning och skugga
-* Öppna det skannade PDF i Acrobat Reader för att göra anteckningar och kommentarer och granska med ditt team
+I den här självstudiekursen får du lära dig mer om att:
+* Använd din mobiltelefon för att spela in och konvertera dokument, formulär, visitkort och whiteboards till högkvalitativa Adobe PDF
+* Identifiera och skärp till handskriven eller utskriven text automatiskt, samtidigt som du tar bort element du inte vill ha kvar, som bländning och skugga
+* Öppna den skannade PDF i Acrobat Reader för att göra anteckningar och kommentarer och granska med ditt team
 
 **Presenteras av:**
 Emilie Enke, Associate Solutions Consultant (Digital Media)
@@ -162,8 +163,8 @@ Emilie Enke, Associate Solutions Consultant (Digital Media)
 
 **Resurser för Acrobat och Adobe Sign**
 
-[Utbildning och support](https://helpx.adobe.com/support/document-cloud.html) är ditt nav för ytterligare självstudiekurser, [Nyheter](https://helpx.adobe.com/acrobat/using/whats-new.html)och länkar till användarforum.
+[Lär dig mer och support](https://helpx.adobe.com/support/document-cloud.html) är ditt nav för ytterligare självstudiekurser, [Nyheter](https://helpx.adobe.com/acrobat/using/whats-new.html)och länkar till användarforum.
 
-**Oktober 2020-utgåvan**
+**Versionen från oktober 2020**
 
 Börja använda dessa funktioner (och mycket mer!) genom att hämta den senaste uppdateringen från Creative Cloud-datorprogrammet.

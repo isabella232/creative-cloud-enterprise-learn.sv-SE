@@ -1,22 +1,23 @@
 ---
 title: Adobe [!DNL Firefly] Översikt
-description: Kom igång snabbt med Adobe [!DNL Firefly]
+description: Kom igång snabbt på Adobe [!DNL Firefly]
+feature: Image Editing, Gen AI
 role: User
 level: Beginner
 jira: KT-13379
 exl-id: 6ba5adc4-b67b-45dd-95e6-13d642b991b8
-source-git-commit: 756fe272cdf135c4b7c11125b65311cf1eaca7cd
+source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
 workflow-type: tm+mt
 source-wordcount: '103'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
 # Adobe [!DNL Firefly] översikt
 
-![Firefly Hero Image](../assets/firefly.png)
+![Bild för Firefly](../assets/firefly.png)
 
-Firefly är den nya familjen av kreativa generativa AI-modeller som kommer till Adobe och som i första hand fokuserar på att skapa bild- och texteffekter. Firefly erbjuder nya sätt att tänka, skapa och kommunicera samtidigt som de kreativa arbetsflödena förbättras avsevärt.
+Firefly är den nya familjen av generativa AI-modeller för kreatörer som kommer till Adobe-produkter. De fokuserar i första hand på bild- och texteffektgenerering. I Firefly finns nya sätt att tänka, skapa och kommunicera, samtidigt som det ger en avsevärd förbättring av arbetsflödet.
 
 <br> 
 
@@ -32,7 +33,7 @@ Firefly är den nya familjen av kreativa generativa AI-modeller som kommer till 
 <tr>
    <td>
       <a href="https://firefly.adobe.com/" target="_blank">
-         <img alt="Adobe Firefly (beta)" src="assets/firefly-beta.png" />
+         <img alt="Adobe Firefly (Beta)" src="assets/firefly-beta.png" />
       </a>
   </td>
   <td>
@@ -46,14 +47,14 @@ Firefly är den nya familjen av kreativa generativa AI-modeller som kommer till 
       </a>
   </td>
   <td>
-    <img alt="Mellanrum" src="../assets/Whitespacer.png" />
+    <img alt="Avgränsare" src="../assets/Whitespacer.png" />
     <div>
     <br>
   </td>
 </tr>
 </table>
 
-## Självstudiekurser för Firefly
+## Självstudiekurser om Firefly
 
 <table style="table-layout:fixed">
 <tr>
@@ -69,7 +70,7 @@ Firefly är den nya familjen av kreativa generativa AI-modeller som kommer till 
    </td>
    <td>
       <a href="web-banner-ad.md">
-         <img alt="Banderollannonser i Photoshop" src="assets/banner-ad-variations.png" />
+         <img alt="Banderollannons i Photoshop" src="assets/banner-ad-variations.png" />
       </a>
   </td>
   <td>
@@ -85,17 +86,17 @@ Firefly är den nya familjen av kreativa generativa AI-modeller som kommer till 
       </a>
   </td>
 <td>
-    <img alt="Mellanrum" src="../assets/Gray_thumbnail.png" />
+    <img alt="Avgränsare" src="../assets/Gray_thumbnail.png" />
     <div>
     <br>
   </td>
   <td>
-    <img alt="Mellanrum" src="../assets/Gray_thumbnail.png" />
+    <img alt="Avgränsare" src="../assets/Gray_thumbnail.png" />
     <div>
     <br>
   </td>
   <td>
-    <img alt="Mellanrum" src="../assets/Gray_thumbnail.png" />
+    <img alt="Avgränsare" src="../assets/Gray_thumbnail.png" />
     <div>
     <br>
   </td>

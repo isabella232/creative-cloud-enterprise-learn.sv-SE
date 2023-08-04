@@ -1,9 +1,11 @@
 ---
 title: Kom igång med Adobe Express
 description: Lär dig grunderna i Adobe Express
+feature: Graphic Design
 role: User
 level: Beginner
-source-git-commit: e45ff88014e4bceea43ab7c45069d73f29987459
+exl-id: 8d532b2e-4eab-4c73-9ad6-30776904d59b
+source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
 workflow-type: tm+mt
 source-wordcount: '22'
 ht-degree: 0%

@@ -1,10 +1,11 @@
 ---
 title: Photoshop på iPad.
-description: Skapa allt du kan tänka dig, var inspirationen än slår till med Photoshop på iPad
+description: Skapa allt du kan föreställa dig, var inspirationen än slår till med Photoshop på iPad
+feature: Image Editing
 role: User
 level: Beginner, Intermediate
 exl-id: 5be50d97-3ff5-4b10-b186-109473c3bd32
-source-git-commit: 7b202fd4de29e83dd28c40dc6115a1be51c1f384
+source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
 workflow-type: tm+mt
 source-wordcount: '207'
 ht-degree: 2%
@@ -13,9 +14,9 @@ ht-degree: 2%
 
 # Photoshop på iPad.
 
-![Tutorial Hero Image](../assets/PSoniPad.jpg)
+![Bild för självstudiekurs](../assets/PSoniPad.jpg)
 
-Photoshop är världens bästa program för bildbehandling och grafisk design, vilket ger obegränsat med kreativitet för proffs på olika enheter. Nu kan vem som helst skapa vad som helst, var som helst. Om du kan tro det, kan du göra det med Photoshop.
+Photoshop är världens bästa bildbehandlings- och grafikdesignprogram. Det ger proffsen obegränsad kreativitet på alla enheter. Nu kan vem som helst skapa vad som helst som de föreställer sig, var som helst och när som helst. Om du kan tro det, kan du göra det med Photoshop.
 
 ## Bläddra i Tutorials
 
@@ -28,16 +29,16 @@ Photoshop är världens bästa program för bildbehandling och grafisk design, v
     <div>
    <a href="photoshopipad.md#tutorial1"><strong>Introduktion till Photoshop på iPad</strong></a>
     </div>
-    <em>Se en gränssnittsdemo och lär dig några av funktionerna i Photoshop som har förnyats för användning i Apple iPad</em>
+    <em>Ta en rundtur i gränssnittet och lär dig några funktioner i Photoshop som har gjorts om för användning på Apple iPad</em>
     <br>
   </td>
   <td>
-    <img alt="Mellanrum" src="../assets/Whitespacer.png" />
+    <img alt="Avgränsare" src="../assets/Whitespacer.png" />
     <div>
     <br>
   </td>
   <td>
-    <img alt="Mellanrum" src="../assets/Whitespacer.png" />
+    <img alt="Avgränsare" src="../assets/Whitespacer.png" />
     <div>
     <br>
   </td>
@@ -49,23 +50,23 @@ Photoshop är världens bästa program för bildbehandling och grafisk design, v
 >[!VIDEO](https://video.tv.adobe.com/v/326899?hidetitle=true)
 
 **Beskrivning**
-Ta en rundtur i gränssnittet och lär dig några nya funktioner i Photoshop som har förnyats för användning i Apple iPad.
+Ta en rundtur i gränssnittet och lär dig några funktioner i Photoshop som har gjorts om för användning på Apple iPad.
 
-I den här självstudiekursen får du lära dig hur du:
-* Kom åt dina favoritverktyg från Photoshop på
+I den här självstudiekursen får du lära dig mer om att:
+* Få tillgång till dina Photoshop-favoritverktyg på
 * Exakt redigering på mobilen utan att kompromissa med kvaliteten
-* Mer engagerande och naturlig upplevelse
+* Mer uppslukande och naturlig upplevelse
 * Smidigt arbetsflöde med molndokument
 
 **Presenteras av:**
-Dan Armstrong, lösningskonsult (Digital Media)
+Dan Armstrong, lösningskonsult (digitala medier)
 
 ![Photoshop på iPad-logotypen](../assets/ps_appicon_96.png)
 
-**Photoshop på iPad Resources**
+**Resurser för Photoshop på iPad**
 
-[Utbildning och support](https://helpx.adobe.com/support/photoshop.html) är navet för ytterligare självstudiekurser och länkar till användarforum.
+[Lär dig mer och support](https://helpx.adobe.com/support/photoshop.html) är navet för ytterligare självstudiekurser och länkar till användarforum.
 
-**Oktober 2020-utgåvan**
+**Versionen från oktober 2020**
 
 Börja använda dessa funktioner (och mycket mer!) genom att hämta den senaste uppdateringen från Creative Cloud-datorprogrammet.

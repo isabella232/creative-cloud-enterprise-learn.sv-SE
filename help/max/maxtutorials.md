@@ -1,10 +1,11 @@
 ---
 title: MAX 2020 Tutorials
-description: Dessa självstudiekurser hjälper dig att lära dig nya funktioner i 2021-versionen av Creative Cloud - ur ett företagsperspektiv
+description: De här självstudiekurserna hjälper dig att lära dig nya funktioner i 2021-versionen av Creative Cloud - ur ett företagsperspektiv
+feature: 3D, Graphic Design, Image Editing, Workspace, Collaboration, Integrations
 role: User
 level: Beginner, Intermediate
 exl-id: e27874b7-ba02-46b7-a5e4-fe2485d9c148
-source-git-commit: 7b202fd4de29e83dd28c40dc6115a1be51c1f384
+source-git-commit: 4c30508fb4bc09bd36bcbda1d77c335c5b928614
 workflow-type: tm+mt
 source-wordcount: '322'
 ht-degree: 23%
@@ -13,11 +14,11 @@ ht-degree: 23%
 
 # Självstudiekurser
 
-![MAX 2020 HERO IMAGE](../assets/MAX.jpg)
+![Bild för MAX 2020 Hero](../assets/MAX.jpg)
 
-Som kreatör i ett företag måste du samarbeta med distribuerade team, upprätta skalbara processer och följa företagets system och riktlinjer. Dessa självstudiekurser hjälper dig att lära dig nya funktioner i 2021-versionen av Creative Cloud - ur ett företagsperspektiv.
+För kreativa företag måste du samarbeta med distribuerade team, upprätta skalbara processer och följa företagets system och riktlinjer. De här självstudiekurserna hjälper dig att lära dig nya funktioner i 2021-versionen av Creative Cloud - ur ett företagsperspektiv.
 
-## Tutorials by Desktop Products
+## Tutorials från Desktop Products
 
 <table style="table-layout:fixed">
 <tr>
@@ -38,7 +39,7 @@ Som kreatör i ett företag måste du samarbeta med distribuerade team, upprätt
     <div>
     <a href="dimension.md"><strong>Dimension</strong></a>
     </div>
-    <em>Skapa fotorealistiska 3D-bilder för varumärken, produktbilder och förpackningsdesign</em>
+    <em>Skapa fotorealistiska 3D-bilder för branding, produktbilder och förpackningsdesign</em>
     <br>
   </td>
   <td>
@@ -60,7 +61,7 @@ Som kreatör i ett företag måste du samarbeta med distribuerade team, upprätt
     <div>
     <a href="indesign.md"><strong>InDesign</strong></a>
     </div>
-    <em>Siddesign och layout för tryck och digital publicering</em>
+    <em>Skapa layouter för tryck och digital publicering</em>
     <br>
   </td>
   <td>
@@ -70,7 +71,7 @@ Som kreatör i ett företag måste du samarbeta med distribuerade team, upprätt
     <div>
     <a href="photoshop.md"><strong>Photoshop</strong></a>
     </div>
-    <em>Redigera, gör montage och skapa vackra bilder, grafik och grafik på datorn</em>
+    <em>Redigera, gör montage och skapa vackra bilder, grafik och digital konst på datorn</em>
     <br>
   </td>
   <td>
@@ -96,19 +97,19 @@ Som kreatör i ett företag måste du samarbeta med distribuerade team, upprätt
     <br>
   </td>
   <td>
-    <img alt="Mellanrum" src="../assets/WhiteBanner_Spacer.png" />
+    <img alt="Avgränsare" src="../assets/WhiteBanner_Spacer.png" />
     <div>
     <br>
   </td>
   <td>
-    <img alt="Mellanrum" src="../assets/WhiteBanner_Spacer.png" />
+    <img alt="Avgränsare" src="../assets/WhiteBanner_Spacer.png" />
     <div>
     <br>
   </td>
 </tr>
 </table>
 
-### Tutorials by Mobile App
+### Tutorials av mobilapp
 
 <table style="table-layout:fixed">
 <tr>
@@ -155,19 +156,19 @@ Som kreatör i ett företag måste du samarbeta med distribuerade team, upprätt
     <br>
   </td>
   <td>
-    <img alt="Mellanrum" src="../assets/GrayBanner_Spacer.png" />
+    <img alt="Avgränsare" src="../assets/GrayBanner_Spacer.png" />
     <div>
     <br>
   </td>
   <td>
-    <img alt="Mellanrum" src="../assets/GrayBanner_Spacer.png" />
+    <img alt="Avgränsare" src="../assets/GrayBanner_Spacer.png" />
     <div>
     <br>
   </td>
 </tr>
 </table>
 
-### Tutorials genom integrering
+### Tutorials genom integration
 
 <table style="table-layout:fixed">
 <tr>
@@ -178,7 +179,7 @@ Som kreatör i ett företag måste du samarbeta med distribuerade team, upprätt
     <div>
     <a href="aem.md"><strong>AEM Assets och Asset Link</strong></a>
     </div>
-    <em>Nästa generations hantering av digitala resurser</em>
+    <em>Nästa generations hantering av digitala tillgångar</em>
     <br>
   </td>
   <td>
@@ -188,7 +189,7 @@ Som kreatör i ett företag måste du samarbeta med distribuerade team, upprätt
     <div>
     <a href="creativeclouddesktopapp.md"><strong>Creative Cloud-datorprogrammet</strong></a>
     </div>
-    <em>Creative Cloud-datorprogrammet är navet för att hantera CC-program, CC-tjänster och CC-samarbete - och mycket mer!</em>
+    <em>Datorprogrammet Creative Cloud är navet där du hanterar CC-program, tjänster och samarbeten - och mycket mer!</em>
     <br>
   </td>
   <td>
@@ -198,7 +199,7 @@ Som kreatör i ett företag måste du samarbeta med distribuerade team, upprätt
     <div>
     <a href="cclibraries.md"><strong>CC Libraries</strong></a>
     </div>
-    <em>Ha dina resurser till hands och dina projekt på plats</em>
+    <em>Ha dina mediefiler till hands och dina projekt till hands på ett varumärke</em>
     <br>
   </td>
 </tr>
@@ -220,38 +221,38 @@ Som kreatör i ett företag måste du samarbeta med distribuerade team, upprätt
     <div>
     <a href="stock.md"><strong>Adobe [!DNL Stock]</strong></a>
     </div>
-    <em>Högklassiga digitala bilder, illustrationer, videor, ljud, mallar med mera</em>
+    <em>Digitala bilder, illustrationer, videor, ljud, mallar och annat av hög kvalitet</em>
     <br>
   </td>
   <td>
-    <img alt="Mellanrum" src="../assets/GrayBanner_Spacer.png" />
+    <img alt="Avgränsare" src="../assets/GrayBanner_Spacer.png" />
     <div>
     <br>
   </td>
 </tr>
 </table>
 
-### Praktiskt projekt: Skapa din egen ansiktsmask
+### Praktiskt projekt: Skapa en egen ansiktsmask
 
 <table style="table-layout:fixed">
 <tr>
  <td>
     <a href="handsonproject.md">
-      <img alt="Skapa din egen ansiktsmask" src="../assets/faceMaskSplash.jpg" />
+      <img alt="Skapa en egen ansiktsmask" src="../assets/faceMaskSplash.jpg" />
     </a>
     <div>
-    <a href="handsonproject.md"><strong>Skapa din egen ansiktsmask</strong></a>
+    <a href="handsonproject.md"><strong>Skapa en egen ansiktsmask</strong></a>
     </div>
-    <em>Med plugin-programmet Adobe Design to Print kan du visualisera dina bilder på hundratals Zazzle-produkter och publicera direkt på deras onlinemarknad</em>
+    <em>Med plugin-programmet Adobe Design to Print kan du visualisera dina mönster på hundratals Zazzle-produkter och publicera direkt på deras onlinemarknad</em>
     <br>
   </td>
   <td>
-    <img alt="Mellanrum" src="../assets/Whitespacer.png" />
+    <img alt="Avgränsare" src="../assets/Whitespacer.png" />
     <div>
     <br>
   </td>
   <td>
-    <img alt="Mellanrum" src="../assets/Whitespacer.png" />
+    <img alt="Avgränsare" src="../assets/Whitespacer.png" />
     <div>
     <br>
   </td>

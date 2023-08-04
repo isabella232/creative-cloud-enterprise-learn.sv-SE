@@ -1,10 +1,11 @@
 ---
 title: Creative Cloud för företag Tutorials
 description: Välkommen till utbildningsnavet Creative Cloud för företag
+feature: Graphic Design, Image Editing, Vector Editing, UI Design, Licensable Assets, Gen AI, Video Editing, 3D
 role: User
 level: Beginner, Intermediate, Experienced
 exl-id: d0223157-24aa-486b-806a-fc6f6a36d7cf
-source-git-commit: bb4661c032e0c39218f075502bb6224dc41574b5
+source-git-commit: 4c30508fb4bc09bd36bcbda1d77c335c5b928614
 workflow-type: tm+mt
 source-wordcount: '92'
 ht-degree: 10%

@@ -1,11 +1,12 @@
 ---
 title: Adobe [!DNL Express] Översikt
 description: Kom igång snabbt på Adobe [!DNL Express]
+feature: Graphic Design, Image Editing, Integrations
 role: User
 level: Beginner
 jira: KT-13380
 exl-id: 0feb9a09-008e-4d38-a5c2-23f8d001eeb4
-source-git-commit: f6b51be9a78af74e0ff166f36e610ce0d4a5f847
+source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
 workflow-type: tm+mt
 source-wordcount: '119'
 ht-degree: 0%

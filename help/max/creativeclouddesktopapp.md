@@ -1,10 +1,11 @@
 ---
 title: Creative Cloud-datorprogram
-description: Creative Cloud-datorprogrammet är navet för att hantera CC-program, CC-tjänster och CC-samarbete - och mycket mer!
+description: Datorprogrammet Creative Cloud är navet där du hanterar CC-program, tjänster och samarbeten - och mycket mer!
+feature: Workspace, Collaboration
 role: User
 level: Beginner, Intermediate
 exl-id: 5a45d334-3581-4b85-acb6-57764efa6f0a
-source-git-commit: 7b202fd4de29e83dd28c40dc6115a1be51c1f384
+source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
 workflow-type: tm+mt
 source-wordcount: '153'
 ht-degree: 8%
@@ -13,9 +14,9 @@ ht-degree: 8%
 
 # Creative Cloud-datorprogram
 
-![Tutorial Hero Image](../assets/CCDA.jpg)
+![Bild för självstudiekurs](../assets/CCDA.jpg)
 
-Creative Cloud-datorprogrammet är navet för att hantera CC-program, CC-tjänster och CC-samarbete - och mycket mer!
+Datorprogrammet Creative Cloud är navet där du hanterar CC-program, tjänster och samarbeten - och mycket mer!
 
 ## Bläddra i Tutorials
 
@@ -23,41 +24,41 @@ Creative Cloud-datorprogrammet är navet för att hantera CC-program, CC-tjänst
 <tr>
  <td>
    <a href="creativeclouddesktopapp.md#tutorial1">
-      <img alt="Utforska CC-datorprogrammet: Ditt nav för Creative Cloud" src="../assets/ccda_overview_sokol_thumbnail.jpg" />
+      <img alt="Utforska CC-datorprogrammet: ditt nav för Creative Cloud" src="../assets/ccda_overview_sokol_thumbnail.jpg" />
    </a>
     <div>
-   <a href="creativeclouddesktopapp.md#tutorial1"><strong>Utforska CC-datorprogrammet: Ditt nav för Creative Cloud</strong></a>
+   <a href="creativeclouddesktopapp.md#tutorial1"><strong>Utforska CC-datorprogrammet: ditt nav för Creative Cloud</strong></a>
     </div>
-    <em>Creative Cloud-datorprogrammet är navet för att hantera CC-program, CC-tjänster och CC-samarbete - och mycket mer!</em>
+    <em>Datorprogrammet Creative Cloud är navet där du hanterar CC-program, tjänster och samarbeten - och mycket mer!</em>
     <br>
   </td>
   <td>
-    <img alt="Mellanrum" src="../assets/Whitespacer.png" />
+    <img alt="Avgränsare" src="../assets/Whitespacer.png" />
     <div>
     <br>
   </td>
   <td>
-    <img alt="Mellanrum" src="../assets/Whitespacer.png" />
+    <img alt="Avgränsare" src="../assets/Whitespacer.png" />
     <div>
     <br>
   </td>
 </tr>
 </table>
 
-## Utforska CC-datorprogrammet: Ditt nav för Creative Cloud (2:50) {#tutorial1}
+## Utforska CC-datorprogrammet: ditt nav för Creative Cloud (2:50) {#tutorial1}
 
 >[!VIDEO](https://video.tv.adobe.com/v/327095?hidetitle=true)
 
 **Beskrivning**
-Creative Cloud-datorprogrammet är navet för att hantera CC-program, CC-tjänster och CC-samarbete - och mycket mer!
+Datorprogrammet Creative Cloud är navet där du hanterar CC-program, tjänster och samarbeten - och mycket mer!
 
-I den här självstudiekursen får du lära dig hur du:
-* Starta och uppdatera datorprogram
+I den här självstudiekursen får du lära dig mer om att:
+* Starta och uppdatera dina datorprogram
 * Hitta mobil- och webbappar
 * Hantera och dela resurser
-* Åtkomst till Adobe Fonts
+* Få tillgång till Adobe Fonts
 * Upptäck självstudiekurser
 * Dela ditt arbete på Behance
 
 **Presenteras av:**
-Patti Sokol, Principal Solutions Consultant (Digital Media)
+Patti Sokol, huvudsaklig lösningskonsult (digitala medier)

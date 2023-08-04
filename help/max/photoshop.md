@@ -1,10 +1,11 @@
 ---
 title: Photoshop
 description: En lista med självstudiekurser för Photoshop
+feature: Image Editing
 role: User
 level: Beginner, Intermediate
 exl-id: f42f9f4c-072d-496a-842a-3da503bdaca1
-source-git-commit: 7b202fd4de29e83dd28c40dc6115a1be51c1f384
+source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
 workflow-type: tm+mt
 source-wordcount: '340'
 ht-degree: 0%
@@ -13,9 +14,9 @@ ht-degree: 0%
 
 # Photoshop
 
-![Tutorial Hero Image](../assets/Photoshop.jpg)
+![Bild för självstudiekurs](../assets/Photoshop.jpg)
 
-Photoshop är världens bästa program för bildbehandling och grafisk design, vilket ger obegränsat med kreativitet för proffs på olika enheter. Nu kan vem som helst skapa vad som helst, var som helst. Om du kan tro det, kan du göra det med Photoshop.
+Photoshop är världens bästa bildbehandlings- och grafikdesignprogram. Det ger proffsen obegränsad kreativitet på alla enheter. Nu kan vem som helst skapa vad som helst som de föreställer sig, var som helst och när som helst. Om du kan tro det, kan du göra det med Photoshop.
 
 ## Bläddra i Tutorials
 
@@ -23,12 +24,12 @@ Photoshop är världens bästa program för bildbehandling och grafisk design, v
 <tr>
  <td>
    <a href="photoshop.md#tutorial1">
-      <img alt="Redigera bilder som matchar er kampanj" src="../assets/PS_ObjectSelect_ContentAware_wood.jpg" />
+      <img alt="Redigera bilder så att de matchar din kampanj" src="../assets/PS_ObjectSelect_ContentAware_wood.jpg" />
    </a>
     <div>
-   <a href="photoshop.md#tutorial1"><strong>Redigera bilder som matchar er kampanj</strong></a>
+   <a href="photoshop.md#tutorial1"><strong>Redigera bilder så att de matchar din kampanj</strong></a>
     </div>
-    <em>Använd de kraftfulla markerings- och färgredigeringsverktygen i Adobe Photoshop för att dramatiskt ändra en bild efter företagets grafiska profil</em>
+    <em>Använd de kraftfulla markerings- och färgredigeringsverktygen i Adobe Photoshop för att dramatiskt ändra en bild så att den passar ditt företags varumärkesbehov</em>
     <br>
   </td>
   <td>
@@ -38,43 +39,43 @@ Photoshop är världens bästa program för bildbehandling och grafisk design, v
     <div>
     <a href="photoshop.md#tutorial2"><strong>Markera och ersätta himlen</strong></a>
     </div>
-    <em>Markera automatiskt himlen i en bild och ersätt den med en valfri himmel. Justera automatiskt färgerna i bilden så att de matchar markeringen</em>
+    <em>Markera automatiskt himlen i en bild och ersätt den med en valfri himmel. Ändra automatiskt färgerna i bilden så att de matchar markeringen</em>
     <br>
   </td>
   <td>
-    <img alt="Mellanrum" src="../assets/Whitespacer.png" />
+    <img alt="Avgränsare" src="../assets/Whitespacer.png" />
     <div>
     <br>
   </td>
 </tr>
 </table>
 
-## Redigera bilder så att de matchar kampanjen (5:45) {#tutorial1}
+## Redigera bilder så att de matchar din kampanj (5:45) {#tutorial1}
 
 >[!VIDEO](https://video.tv.adobe.com/v/326950?hidetitle=true)
 
 **Beskrivning**
-Använd de kraftfulla markerings- och färgredigeringsverktygen i Adobe Photoshop för att dramatiskt ändra en bild efter företagets grafiska profil.
+Använd de kraftfulla markerings- och färgredigeringsverktygen i Adobe Photoshop för att dramatiskt ändra en bild så att den passar ditt företags varumärkesbehov.
 
-I den här självstudiekursen får du lära dig hur du:
-* Med verktyget Objektmarkering kan du markera objekt snabbare och enklare
-* Innehållsanpassad fyllning ger bättre kontroll över provområden i en källbild för bättre kloning och lagning av målområden
+I den här självstudiekursen får du lära dig mer om att:
+* Med objektmarkeringsverktyget kan du markera objekt både snabbare och enklare
+* Innehållsanpassad fyllning ger mer kontroll över provområdena i en källbild, vilket ger bättre kloning och lagning av målområden
 * Penslar kan ha olika former för bättre resultat
-* Adobe Sensei utnyttjar artificiell intelligens för vardagliga uppgifter
+* Adobe Sensei hjälper till att utnyttja artificiell intelligens för vardagliga uppgifter
 
 **Presenteras av:**
 A.J Wood, Senior Solutions Consultant (Digital Media)
 
-## Markera och ersätta himlen (2:16) {#tutorial2}
+## Markera och ersätt himlen (2:16) {#tutorial2}
 
 >[!VIDEO](https://video.tv.adobe.com/v/326953?hidetitle=true)
 
 **Beskrivning**
-Markera automatiskt himlen i en bild och ersätt den med en valfri himmel. Justera automatiskt färgerna i bilden så att de matchar markeringen.
+Markera himlen i en bild automatiskt och ersätt den med en valfri himmel. Ändra bildens färger automatiskt så att de matchar ditt val.
 
-I den här självstudiekursen får du lära dig hur du:
-* Med Ersätt himmel får du en lösning med ett klick för att snabbt byta himmel i dina bilder
-* Ersätt himmel sparar utdata som en lagergrupp med varje mask, justering och bild för ytterligare finjustering
+I den här självstudiekursen får du lära dig mer om att:
+* Ersätt himmel är en enklickslösning för att omedelbart byta himmel i dina bilder
+* Ersätt himmel sparar utdata som en lagergrupp med varje mask, justering och bild för ytterligare förfining
 
 
 **Presenteras av:**
@@ -82,10 +83,10 @@ A.J Wood, Senior Solutions Consultant (Digital Media)
 
 ![Photoshop-logotyp](../assets/ps_appicon_96.png)
 
-**Photoshop-resurser**
+**Resurser för Photoshop**
 
-[Utbildning och support](https://helpx.adobe.com/support/photoshop.html) är ditt nav för ytterligare självstudiekurser, [Nyheter](https://helpx.adobe.com/photoshop/using/whats-new.html)och länkar till användarforum.
+[Lär dig mer och support](https://helpx.adobe.com/support/photoshop.html) är ditt nav för ytterligare självstudiekurser, [Nyheter](https://helpx.adobe.com/photoshop/using/whats-new.html)och länkar till användarforum.
 
-**Oktober 2020-utgåvan**
+**Versionen från oktober 2020**
 
 Börja använda dessa funktioner (och mycket mer!) genom att hämta den senaste uppdateringen från Creative Cloud-datorprogrammet.
