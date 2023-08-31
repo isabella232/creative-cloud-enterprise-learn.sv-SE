@@ -1,11 +1,12 @@
 ---
 title: Självstudiekurser om Adobe 3D och VR
 description: Tutorials för att hjälpa dig att komma igång med Adobe 3D och VR
+feature: 3D
 role: User
 level: Beginner, Intermediate
 jira: KT-6945
 exl-id: f9d03c3d-0767-476f-a7e1-0b283cf16cd3
-source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
+source-git-commit: 245f753d62fe83e76fad6e1d7c3d820a5550464a
 workflow-type: tm+mt
 source-wordcount: '305'
 ht-degree: 0%

@@ -1,11 +1,12 @@
 ---
 title: Adobe [!DNL Stock] självstudiekurser
 description: Tutorials för att hjälpa dig att komma igång på Adobe [!DNL Stock]
+feature: Licensable Assets, Vector Editing, Image Editing, Video Editing
 role: User
 level: Beginner, Intermediate
 jira: KT-6943
 exl-id: 83e1af30-489f-474c-874a-8cd8b36d4a38
-source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
+source-git-commit: 245f753d62fe83e76fad6e1d7c3d820a5550464a
 workflow-type: tm+mt
 source-wordcount: '1242'
 ht-degree: 0%
