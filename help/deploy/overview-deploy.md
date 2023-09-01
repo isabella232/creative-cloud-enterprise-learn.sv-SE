@@ -3,8 +3,9 @@ title: Videor om driftsättning med Creative Cloud for enterprise
 description: Kom igång snabbt med att driftsätta och hantera Creative Cloud for enterprise-program
 role: Admin
 level: Beginner, Intermediate
+feature: Deploy
 exl-id: 9533fb1f-a2cc-4c06-b701-67c75a60dbaf
-source-git-commit: 245f753d62fe83e76fad6e1d7c3d820a5550464a
+source-git-commit: f17ea20ac8623dae0c681753b4bde250a1c9b06e
 workflow-type: tm+mt
 source-wordcount: '130'
 ht-degree: 14%

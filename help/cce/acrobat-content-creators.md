@@ -1,12 +1,12 @@
 ---
 title: Acrobat för innehållsskapare
 description: Läs om de viktigaste verktygen i Adobe Acrobat som hjälper dig att effektivisera dina kreativa arbetsflöden
-feature: Share
+feature: Share, Workflow
 role: User
 level: Beginner, Intermediate
 thumb: KT-10962.jpg
 exl-id: 5c935d0b-0ed6-4e87-ab24-1ded0326aa96
-source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
+source-git-commit: f17ea20ac8623dae0c681753b4bde250a1c9b06e
 workflow-type: tm+mt
 source-wordcount: '66'
 ht-degree: 0%

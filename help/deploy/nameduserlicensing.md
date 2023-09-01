@@ -3,8 +3,9 @@ title: Löper serienummer ut? Varför det är dags för namngiven användare-lic
 description: Genom att licensiera Adobe-produkter via namngiven användare-licensiering (NUL) kan IT-administratörer enkelt driftsätta och hantera Adobe-verktyg via Admin Console och slutanvändarna får tillgång till högklassiga program för kreativitet och produktivitet samt Adobe Cloud-tjänster, även om hela personalen finns på distans
 role: Admin
 level: Beginner, Intermediate
+feature: Deploy
 exl-id: 9dbdb057-6684-4750-bf9d-8af7a32bfe14
-source-git-commit: 245f753d62fe83e76fad6e1d7c3d820a5550464a
+source-git-commit: f17ea20ac8623dae0c681753b4bde250a1c9b06e
 workflow-type: tm+mt
 source-wordcount: '633'
 ht-degree: 2%

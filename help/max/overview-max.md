@@ -1,11 +1,11 @@
 ---
 title: MAX 2020 - Enterprise-sessionerna
 description: Om demomediefilerna
-feature: Integrations
+feature: Integrations, Workflow
 role: User
 level: Beginner, Intermediate
 exl-id: 68b2cb27-22b4-4be0-a4b1-210c208778ec
-source-git-commit: 4c30508fb4bc09bd36bcbda1d77c335c5b928614
+source-git-commit: f17ea20ac8623dae0c681753b4bde250a1c9b06e
 workflow-type: tm+mt
 source-wordcount: '503'
 ht-degree: 1%
