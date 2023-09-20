@@ -7,9 +7,9 @@ feature-set: Creative Cloud
 feature: Graphic Design, Image Editing, Vector Editing, UI Design, Licensable Assets, Gen AI, Video Editing, 3D
 role: User
 type: Tutorial
-source-git-commit: c57212d39b2e613964bc15d2967a1958dc0c8c8e
+source-git-commit: ef203983789b9b18796dc210308047c7c604d249
 workflow-type: tm+mt
-source-wordcount: '534'
+source-wordcount: '540'
 ht-degree: 9%
 
 ---
@@ -36,32 +36,34 @@ ht-degree: 9%
       + [CCE stödlinjer](quick-reference/overview-ref.md)
 + [!DNL Adobe Express] {#expressoverview}
    + [Översikt](express/overview-express.md)
-   + Självstudiekurser {#expresstutorials}
-      + [Kom igång med Adobe Express](express/get-started.md)
-      + [Kickstarta kreativiteten](express/jumpstart-ideation.md)
-      + [Adobe Express för nybörjare](express/adobe-express-beginners.md)
-      + [Skapa reklambladsinnehåll för en marknadsföringskampanj med Firefly](express/create-local-marketing.md)
-      + [Skapa innehåll för rekrytering och introduktion med Firefly](express/create-on-boarding.md)
-      + [Skapa affischer för sociala medier med Firefly](express/create-social-posters.md)
-      + [Skapa bildinnehåll för bloggar med Firefly](express/create-blog-graphics.md)
-      + [Skapa affischer till webbseminarier med Firefly](express/create-webinar-poster.md)
-      + [Schemalägg sociala inlägg](express/schedule.md)
-      + [Bjud in projektmedarbetare](express/collaborate.md)
-      + [Få snabb inspiration](express/get-inspiration.md)
-      + [Skapa mallar](express/create-templates.md)
-      + [Lägg till mediefiler för design](express/add-design-assets.md)
-      + [Gruppera objekt](express/group-objects.md)
-      + [Markera och flytta lager](express/layers.md)
-      + [Skapa flera sidor](express/multiple-pages.md)
-      + [Ångra och göra om](express/undo-redo.md)
-      + [Använda CC Libraries](express/cc-libraries.md)
-      + [Använd ditt varumärke](express/brand.md)
-      + [Integrering med Google Drive](express/google-drive.md)
-      + [Ta bort bakgrund](express/remove-background.md)
-      + [Finjustera en utstansning](express/refine-cutout.md)
-      + [Använda texteffekter](express/text-effects.md)
-      + [Använd bildeffekter](express/image-effects.md)
-      + [Skapa krökt text](express/create-curved-text.md)
+   + Självstudiekurser {#expresshowto}
+      + [Översikt](express/overview-express-how-to.md)
+         + [Kom igång med Adobe Express](express/get-started.md)
+         + [Schemalägg sociala inlägg](express/schedule.md)
+         + [Bjud in projektmedarbetare](express/collaborate.md)
+         + [Få snabb inspiration](express/get-inspiration.md)
+         + [Skapa mallar](express/create-templates.md)
+         + [Lägg till mediefiler för design](express/add-design-assets.md)
+         + [Gruppera objekt](express/group-objects.md)
+         + [Markera och flytta lager](express/layers.md)
+         + [Skapa flera sidor](express/multiple-pages.md)
+         + [Ångra och göra om](express/undo-redo.md)
+         + [Använda CC Libraries](express/cc-libraries.md)
+         + [Använd ditt varumärke](express/brand.md)
+         + [Integrering med Google Drive](express/google-drive.md)
+         + [Ta bort bakgrund](express/remove-background.md)
+         + [Finjustera en utstansning](express/refine-cutout.md)
+         + [Använda texteffekter](express/text-effects.md)
+         + [Använd bildeffekter](express/image-effects.md)
+         + [Skapa krökt text](express/create-curved-text.md)
+      + Självstudiekurser om användningsfall {expressusecase}
+         + [Kickstarta kreativiteten](express/jumpstart-ideation.md)
+         + [Adobe Express för nybörjare](express/adobe-express-beginners.md)
+         + [Skapa reklambladsinnehåll för en marknadsföringskampanj med Firefly](express/create-local-marketing.md)
+         + [Skapa innehåll för rekrytering och introduktion med Firefly](express/create-on-boarding.md)
+         + [Skapa affischer för sociala medier med Firefly](express/create-social-posters.md)
+         + [Skapa bildinnehåll för bloggar med Firefly](express/create-blog-graphics.md)
+         + [Skapa affischer till webbseminarier med Firefly](express/create-webinar-poster.md)
 + [!DNL Adobe Firefly] {#fireflyoverview}
    + [Översikt](firefly/overview-firefly.md)
    + Självstudiekurser {#firefly-tutorials}
