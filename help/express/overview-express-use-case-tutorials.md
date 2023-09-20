@@ -5,7 +5,7 @@ feature: Graphic Design, Image Editing, Integrations, Gen AI
 role: User
 level: Beginner
 jira: KT-13995
-source-git-commit: ef203983789b9b18796dc210308047c7c604d249
+source-git-commit: 6f60c1d99b3143341a43ab0aa44bad469d564fc6
 workflow-type: tm+mt
 source-wordcount: '76'
 ht-degree: 0%
@@ -24,7 +24,7 @@ Upptäck hur olika team i organisationen kan dra nytta av Adobe Expressen.
 <tr>
    <td>
       <a href="localized-marketing-content.md">
-         <img alt="Ge distribuerade team möjlighet att lokalisera innehåll" src="assets/marketing-region-content.png" />
+         <img alt="Ge distribuerade team möjlighet att lokalisera innehåll" src="assets/marketing-regional-content.png" />
       </a>
   </td>
   <td>
