@@ -3,9 +3,9 @@ title: Skapa grafiskt innehåll för bloggar med Firefly
 description: Lär dig hur du använder Adobe Firefly-baserad text till Adobe Express för att skapa unikt bildinnehåll för en blogg
 feature: Image Editing, Gen AI
 role: User
-level: Beginner
+level: Intermediate
 jira: KT-13744
-source-git-commit: c57212d39b2e613964bc15d2967a1958dc0c8c8e
+source-git-commit: 58b151de4487c2636fe28dce610f84d27a99a7ca
 workflow-type: tm+mt
 source-wordcount: '70'
 ht-degree: 4%

@@ -3,11 +3,11 @@ title: Adobe [!DNL Express] Användningsfall Tutorials
 description: Kom igång snabbt på Adobe [!DNL Express] användningsfall
 feature: Graphic Design, Image Editing, Integrations, Gen AI
 role: User
-level: Beginner
+level: Intermediate
 jira: KT-13995
-source-git-commit: 6f60c1d99b3143341a43ab0aa44bad469d564fc6
+source-git-commit: 58b151de4487c2636fe28dce610f84d27a99a7ca
 workflow-type: tm+mt
-source-wordcount: '76'
+source-wordcount: '82'
 ht-degree: 0%
 
 ---
@@ -23,6 +23,10 @@ Upptäck hur olika team i organisationen kan dra nytta av Adobe Expressen.
 <table style="table-layout:fixed">
 <tr>
    <td>
+      <a href="multi-channel-marketing-content.md">
+         <img alt="Ge marknadsföringsteam möjlighet att skapa innehåll för flera kanaler" src="assets/multi-channel.png" />
+      </a>
+  <td>
       <a href="localized-marketing-content.md">
          <img alt="Ge distribuerade team möjlighet att lokalisera innehåll" src="assets/marketing-regional-content.png" />
       </a>
@@ -37,13 +41,13 @@ Upptäck hur olika team i organisationen kan dra nytta av Adobe Expressen.
          <img alt="Skapa reklambladsinnehåll för en marknadsföringskampanj med Firefly" src="assets/local-marketing.png" />
       </a>
    </td>
-    <td>
+</tr>
+<tr>
+   <td>
       <a href="create-on-boarding.md">
          <img alt="Skapa innehåll för rekrytering och introduktion med Firefly" src="assets/on-boarding.png" />
       </a>
    </td>
-</tr>
-<tr>
    <td>
       <a href="create-social-posters.md">
          <img alt="Skapa affischer för sociala medier med Firefly" src="assets/social-firefly.png" />
@@ -59,10 +63,5 @@ Upptäck hur olika team i organisationen kan dra nytta av Adobe Expressen.
          <img alt="Skapa affischer till webbseminarier med Firefly" src="assets/webinar-poster.png" />
       </a>
    </td>
-   <td>
-    <img alt="Avgränsare" src="../assets/GrayBanner_Spacer.png" />
-    <div>
-    <br>
-  </td>
 </tr>
 </table>

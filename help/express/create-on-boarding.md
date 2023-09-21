@@ -3,8 +3,9 @@ title: Skapa innehåll för rekrytering och introduktion med Firefly
 description: Lär dig hur du använder text till bild med hjälp av teknik från Adobe Firefly i Adobe Express för att skapa unik grafik för medarbetarrekrytering och introduktionsinnehåll
 feature: Image Editing, Gen AI
 role: User
-level: Beginner
-source-git-commit: c57212d39b2e613964bc15d2967a1958dc0c8c8e
+level: Intermediate
+jira: KT-13755
+source-git-commit: 58b151de4487c2636fe28dce610f84d27a99a7ca
 workflow-type: tm+mt
 source-wordcount: '89'
 ht-degree: 3%
