@@ -7,7 +7,8 @@ feature-set: Creative Cloud
 feature: Graphic Design, Image Editing, Vector Editing, UI Design, Licensable Assets, Gen AI, Video Editing, 3D
 role: User
 type: Tutorial
-source-git-commit: 358e7cb886829fbd3e25cd6d33f220f038fede0a
+auto-video-transcripts: true
+source-git-commit: b051de1752fa7b92c1c3c312e17512b84b53fda9
 workflow-type: tm+mt
 source-wordcount: '557'
 ht-degree: 8%
