@@ -8,9 +8,9 @@ feature: Graphic Design, Image Editing, Vector Editing, UI Design, Licensable As
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: b051de1752fa7b92c1c3c312e17512b84b53fda9
+source-git-commit: dc08bb9cea129fcfee25c888e9eb7021f15ee6c1
 workflow-type: tm+mt
-source-wordcount: '557'
+source-wordcount: '572'
 ht-degree: 8%
 
 ---
@@ -52,10 +52,10 @@ ht-degree: 8%
       + [Använda CC Libraries](express/cc-libraries.md)
       + [Använd ditt varumärke](express/brand.md)
       + [Integrering med Google Drive](express/google-drive.md)
-      + [Ta bort bakgrund](express/remove-background.md)
+      + [Ta bort en bakgrund från ett foto med ett klick](express/remove-background.md)
       + [Finjustera en utstansning](express/refine-cutout.md)
       + [Använda texteffekter](express/text-effects.md)
-      + [Använd bildeffekter](express/image-effects.md)
+      + [Lägga till effekter och justeringar i ett foto](express/image-effects.md)
       + [Skapa krökt text](express/create-curved-text.md)
    + Självstudiekurser om användningsfall {#expressusecase}
       + [Översikt](express/overview-express-use-case-tutorials.md)
