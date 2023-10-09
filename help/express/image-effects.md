@@ -1,19 +1,19 @@
 ---
-title: Använd bildeffekter
-description: Lär dig att göra bilder ljusare och mörkare
+title: Lägga till effekter och justeringar i ett foto
+description: Upptäck de oändliga möjligheterna genom att lägga till fotoeffekter och justeringar
 feature: Image Editing
 role: User
 level: Beginner
-exl-id: 6203686b-bc7c-4140-8107-26843753245e
-source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
+exl-id: d048d1ce-9f87-4257-a3a2-eeb56232c8f8
+source-git-commit: c5da6a77534492307cd58cf44cac651e98018b81
 workflow-type: tm+mt
-source-wordcount: '20'
+source-wordcount: '38'
 ht-degree: 0%
 
 ---
 
-# Använd bildeffekter
+# Lägga till effekter och justeringar i ett foto
 
-Lär dig att göra bilder ljusare och mörkare.
+Lär dig hur du lägger till effekter och justeringar i ett foto.
 
->[!VIDEO](https://video.tv.adobe.com/v/3420223?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3423770?quality=12&learn=on&hidetitle=true)
