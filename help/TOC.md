@@ -8,7 +8,7 @@ feature: Graphic Design, Image Editing, Vector Editing, UI Design, Licensable As
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: dc08bb9cea129fcfee25c888e9eb7021f15ee6c1
+source-git-commit: 2c53f3fceed8a46bc9d1330ac95bc17f6ecd19de
 workflow-type: tm+mt
 source-wordcount: '572'
 ht-degree: 8%
@@ -67,12 +67,13 @@ ht-degree: 8%
       + [Skapa reklambladsinnehåll för en marknadsföringskampanj med Firefly](express/create-local-marketing.md)
       + [Skapa innehåll för rekrytering och introduktion med Firefly](express/create-on-boarding.md)
       + [Skapa affischer för sociala medier med Firefly](express/create-social-posters.md)
-      + [Skapa bildinnehåll för bloggar med Firefly](express/create-blog-graphics.md)
+      + [Kör kampanjer på sociala medier på ett enkelt sätt](express/create-blog-graphics.md)
       + [Skapa affischer till webbseminarier med Firefly](express/create-webinar-poster.md)
 + [!DNL Adobe Firefly] {#fireflyoverview}
    + [Översikt](firefly/overview-firefly.md)
    + Självstudiekurser {#firefly-tutorials}
       + [Översikt över Adobe Firefly](firefly/overview-of-firefly.md)
+      + [Aktivera kreativ effektivitet](firefly/enable-creative-efficiency.md)
       + [Banderollannons variationer i [!DNL Photoshop]](firefly/web-banner-ad.md)
       + [Generativ ifyllning [!DNL Photoshop]](firefly/generative-fill.md)
       + [Texteffekter](firefly/text-effects.md)
