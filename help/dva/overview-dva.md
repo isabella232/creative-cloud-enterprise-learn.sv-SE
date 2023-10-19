@@ -6,16 +6,14 @@ role: User
 level: Beginner, Intermediate
 jira: KT-6946
 exl-id: 4a0c57f5-053f-4e47-a42e-05f2d2a1bd15
-source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
+source-git-commit: c54f203aa1e3dddbfd973b1cc668b56b7f54d9b1
 workflow-type: tm+mt
-source-wordcount: '120'
+source-wordcount: '116'
 ht-degree: 0%
 
 ---
 
 # Videosjälvstudiekurser om Adobe
-
-![Bild för Creative Cloud](../assets/CCEbanner-DVA.png)
 
 Förverkliga dina idéer med Adobe-program för videoredigering, rörlig grafik, visuella effekter, animering och annat. Välj en bild för att se en självstudiekurs.
 

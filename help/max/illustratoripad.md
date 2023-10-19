@@ -5,16 +5,14 @@ feature: Vector Editing
 role: User
 level: Beginner, Intermediate
 exl-id: 268b9891-77f6-4606-964c-343c443eafcb
-source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
+source-git-commit: 58444368f757ddf9edc292d921bb6f2ae335efa3
 workflow-type: tm+mt
-source-wordcount: '232'
+source-wordcount: '229'
 ht-degree: 0%
 
 ---
 
 # Illustrator på iPad
-
-![Bild för självstudiekurs](../assets/AIoniPad.jpg)
 
 Adobe Illustrator på iPad är en ny vektordesignupplevelse för pekskärmar, Apple Pencil och iPad.
 

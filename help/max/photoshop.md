@@ -5,16 +5,14 @@ feature: Image Editing
 role: User
 level: Beginner, Intermediate
 exl-id: f42f9f4c-072d-496a-842a-3da503bdaca1
-source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
+source-git-commit: 58444368f757ddf9edc292d921bb6f2ae335efa3
 workflow-type: tm+mt
-source-wordcount: '340'
+source-wordcount: '337'
 ht-degree: 0%
 
 ---
 
 # Photoshop
-
-![Bild för självstudiekurs](../assets/Photoshop.jpg)
 
 Photoshop är världens bästa bildbehandlings- och grafikdesignprogram. Det ger proffsen obegränsad kreativitet på alla enheter. Nu kan vem som helst skapa vad som helst som de föreställer sig, var som helst och när som helst. Om du kan tro det, kan du göra det med Photoshop.
 

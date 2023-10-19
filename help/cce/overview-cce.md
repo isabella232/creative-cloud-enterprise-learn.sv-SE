@@ -6,16 +6,14 @@ role: User
 level: Beginner, Intermediate
 jira: KT-6942
 exl-id: eea91ea5-9adc-4a7f-93c0-6cdfe650cfb7
-source-git-commit: 4c30508fb4bc09bd36bcbda1d77c335c5b928614
+source-git-commit: c54f203aa1e3dddbfd973b1cc668b56b7f54d9b1
 workflow-type: tm+mt
-source-wordcount: '1529'
+source-wordcount: '1525'
 ht-degree: 1%
 
 ---
 
 # Självstudiekurser om Creative Cloud for enterprise
-
-![Bild för Creative Cloud](../assets/CCEbanner.png)
 
 För att vara kreativa på ett företag måste du samarbeta med distribuerade team, upprätta skalbara processer och följa företagets system och riktlinjer. De här självstudiekurserna hjälper dig att lära dig nya funktioner i Creative Cloud - från ett företagsperspektiv.
 
@@ -252,10 +250,10 @@ För att vara kreativa på ett företag måste du samarbeta med distribuerade te
   </td>
   <td>
    <a href="assets/FromLightroomWebtoInDesignviaCreativeCloud.pdf">
-      <img alt="Från Lightroom på webben till InDesign via Creative Cloud" src="assets/FromLightroomWebtoInDesignviaCreativeCloud.jpg" />
+      <img alt="Från Lightroom på webben till InDesignen via Creative Cloud" src="assets/FromLightroomWebtoInDesignviaCreativeCloud.jpg" />
    </a>
     <div>
-   <a href="assets/FromLightroomWebtoInDesignviaCreativeCloud.pdf"><strong>Från Lightroom på webben till InDesign via Creative Cloud (PDF)</strong></a>
+   <a href="assets/FromLightroomWebtoInDesignviaCreativeCloud.pdf"><strong>Från Lightroom på webben till InDesignen via Creative Cloud (PDF)</strong></a>
     </div>
     <em>Var kreativ med allt från kameran till den färdiga designen med filer och bibliotek från Creative Cloud</em>
     <br>
@@ -426,7 +424,7 @@ För att vara kreativa på ett företag måste du samarbeta med distribuerade te
     <div>
    <a href="assets/CreatingInteractivePDFsfromInDesign.pdf"><strong>Skapa interaktiv PDF från InDesign (PDF)</strong></a>
     </div>
-    <em>InDesign har många funktioner som hjälper dig att formatera, formatera, hantera och spåra innehåll i dina dokument</em>
+    <em>InDesignen innehåller många funktioner som hjälper dig att formatera, formatera, hantera och spåra innehåll i dina dokument</em>
     <br>
   </td>
    <td>
@@ -446,15 +444,15 @@ För att vara kreativa på ett företag måste du samarbeta med distribuerade te
     <div>
    <a href="assets/StyleWebContentwithInDesign.pdf"><strong>Formatera webbinnehåll med Adobe InDesign CC (PDF)</strong></a>
     </div>
-    <em>Visste du att du kan utnyttja kraften i InDesign för att producera HTML och webbgrafik?</em>
+    <em>Visste du att du kan utnyttja kraften i InDesignen för att producera HTML och webbgrafik?</em>
     <br>
   </td>
   <td>
    <a href="assets/InteractivePDFBookmarksandLinkedTOCsfromInDesign.pdf">
-      <img alt="Interaktiv PDF: Bokmärken och länkade innehållsförteckningar från InDesign" src="assets/InteractivePDFBookmarksandLinkedTOCsfromInDesign.jpg" />
+      <img alt="Interaktiv PDF: Bokmärken och länkade innehållsförteckningar från InDesignen" src="assets/InteractivePDFBookmarksandLinkedTOCsfromInDesign.jpg" />
    </a>
     <div>
-   <a href="assets/InteractivePDFBookmarksandLinkedTOCsfromInDesign.pdf"><strong>Interaktiv PDF: Bokmärken och länkade innehållsförteckningar från InDesign (PDF)</strong></a>
+   <a href="assets/InteractivePDFBookmarksandLinkedTOCsfromInDesign.pdf"><strong>Interaktiv PDF: Bokmärken och länkade innehållsförteckningar från InDesignen (PDF)</strong></a>
     </div>
     <em>Läs om hur du använder funktionen Innehållsförteckning i InDesign till att generera både bokmärken och hyperlänkar som gör det lättare för läsarna att snabbt hitta information i PDF-filerna</em>
     <br>

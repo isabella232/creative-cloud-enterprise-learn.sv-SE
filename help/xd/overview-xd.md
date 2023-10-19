@@ -6,16 +6,14 @@ role: User
 level: Beginner, Intermediate
 jira: KT-6944
 exl-id: 411ef3da-42c1-4c98-a75d-dca990546eb4
-source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
+source-git-commit: c54f203aa1e3dddbfd973b1cc668b56b7f54d9b1
 workflow-type: tm+mt
-source-wordcount: '459'
+source-wordcount: '455'
 ht-degree: 0%
 
 ---
 
 # Självstudiekurser om Adobe XD
-
-![Bild för Creative Cloud](../assets/XD.jpg)
 
 Adobe XD är ett verktyg för att designa och ta fram prototyper av webbplatser, appar, röstgränssnitt, spel och andra typer av digitala upplevelser för användarna. Välj en bild för att se en självstudiekurs.
 

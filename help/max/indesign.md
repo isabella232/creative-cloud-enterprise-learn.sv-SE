@@ -5,16 +5,14 @@ feature: Graphic Design
 role: User
 level: Beginner, Intermediate
 exl-id: eae51aea-4c17-4356-bfb0-720f87597ef7
-source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
+source-git-commit: 58444368f757ddf9edc292d921bb6f2ae335efa3
 workflow-type: tm+mt
-source-wordcount: '428'
+source-wordcount: '425'
 ht-degree: 0%
 
 ---
 
 # InDesign
-
-![Bild för självstudiekurs](../assets/InDesign.jpg)
 
 Det branschledande programmet för att skapa snygga dokument för tryckt och digitalt material. Skapa innehållsrika digitala upplevelser och utskriftsupplevelser, från e-böcker och elektroniska tidskrifter till böcker, rapporter och informationsdokument.
 
@@ -49,7 +47,7 @@ Det branschledande programmet för att skapa snygga dokument för tryckt och dig
     <div>
     <a href="indesign.md#tutorial3"><strong>Importera PDF-kommentarer från en Document Cloud-granskning</strong></a>
     </div>
-    <em>Importera kommentarer från en PDF direkt till InDesign och tillämpa begärda ändringar snabbt</em>
+    <em>Importera kommentarer från en PDF direkt till InDesignen och tillämpa begärda ändringar snabbt</em>
     <br>
   </td>
 </tr>
@@ -61,7 +59,7 @@ Det branschledande programmet för att skapa snygga dokument för tryckt och dig
     <div>
    <a href="indesign.md#tutorial4"><strong>Lägga till videofil i InDesign-dokument</strong></a>
     </div>
-    <em>Lägg till videoklipp i InDesign. Skicka utdata till PDF och publicera online</em>
+    <em>Lägg till videoklipp i InDesignen. Skicka utdata till PDF och publicera online</em>
     <br>
   </td>
  <td>
@@ -97,10 +95,10 @@ Patti Sokol, huvudsaklig lösningskonsult (digitala medier)
 >[!VIDEO](https://video.tv.adobe.com/v/326824?hidetitle=true)
 
 **Beskrivning**
-InDesign Share for Review är en ännu smidigare granskning för designers och deras teammedlemmar.
+Dela för granskning är en ännu smidigare InDesign för designers och deras teammedlemmar.
 
 I den här självstudiekursen får du lära dig mer om att:
-* Påbörja en granskning direkt från InDesign utan att behöva skapa ett PDF
+* Starta en granskning direkt från InDesignen utan att behöva skapa ett PDF
 * Granska och kommentera från en webbläsare
 * Samla feedback från flera intressenter på ett och samma ställe
 * Hantera feedback i appen där ändringar kan göras omedelbart.
@@ -117,7 +115,7 @@ Emily Palmer, lösningskonsult (digitala medier)
 >[!VIDEO](https://video.tv.adobe.com/v/326959?hidetitle=true)
 
 **Beskrivning**
-Importera kommentarer från en PDF direkt till InDesign och tillämpa snabbt begärda ändringar.
+Importera kommentarer från en PDF direkt till InDesignen och använd snabbt begärda ändringar.
 
 I den här självstudiekursen får du lära dig mer om att:
 * Stöder befintliga arbetsflöden för kommentering på PDF
@@ -130,15 +128,15 @@ I den här självstudiekursen får du lära dig mer om att:
 **Presenteras av:**
 Michael Murphy, Senior Solutions Consultant (Digital Media)
 
-## Lägga till videofil i InDesign-dokument (5:58) {#tutorial4}
+## Lägg till videofil i InDesign-dokument (5:58) {#tutorial4}
 
 >[!VIDEO](https://video.tv.adobe.com/v/326757?hidetitle=true)
 
 **Beskrivning**
-Lägg till videoklipp i InDesign. Skicka utdata till PDF och publicera online.
+Lägg till videoklipp i InDesignen. Skicka utdata till PDF och publicera online.
 
 I den här självstudiekursen får du lära dig mer om att:
-* Lägga till videoklipp i InDesign
+* Lägga till videoklipp i InDesignen
 * Skicka utdata till PDF och publicera online
 
 **Presenteras av:**
@@ -146,7 +144,7 @@ Patti Sokol, huvudsaklig lösningskonsult (digitala medier)
 
 ![InDesignLogo](../assets/id_appicon_96.png)
 
-**Resurser för InDesign**
+**InDesign**
 
 [Lär dig mer och support](https://helpx.adobe.com/support/indesign.html) är ditt nav för ytterligare självstudiekurser, [Nyheter](https://helpx.adobe.com/indesign/user-guide.html/indesign/using/whats-new.ug.html)och länkar till användarforum.
 

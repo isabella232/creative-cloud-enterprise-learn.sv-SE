@@ -5,17 +5,15 @@ feature: Graphic Design, Image Editing, Integrations
 role: User
 level: Beginner
 jira: KT-13380
-exl-id: 0feb9a09-008e-4d38-a5c2-23f8d001eeb4
-source-git-commit: ef203983789b9b18796dc210308047c7c604d249
+exl-id: 3c144e1a-f823-4551-b705-aa9dbca548f2
+source-git-commit: c54f203aa1e3dddbfd973b1cc668b56b7f54d9b1
 workflow-type: tm+mt
-source-wordcount: '40'
+source-wordcount: '37'
 ht-degree: 0%
 
 ---
 
 # Adobe [!DNL Express] översikt
-
-![Express Hero-bild](../assets/Express.png)
 
 Adobe Express är ett lättanvänt verktyg utan behov av erfarenhet.
 

@@ -5,16 +5,14 @@ feature: Licensable Assets
 role: User
 level: Beginner, Intermediate
 exl-id: 0a0f5cf8-0326-48fc-a833-0f531617cc41
-source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
+source-git-commit: 58444368f757ddf9edc292d921bb6f2ae335efa3
 workflow-type: tm+mt
-source-wordcount: '334'
+source-wordcount: '331'
 ht-degree: 0%
 
 ---
 
 # [!DNL Stock]
-
-![Bild för självstudiekurs](../assets/Stock.jpg)
 
 Kreatörer pressas att snabbt leverera nytt, visuellt övertygande innehåll som fångar och fångar uppmärksamheten. Adobe [!DNL Stock] for enterprise ger kreatörer tillgång till fler än 200 miljoner bilder, videor, mallar, illustrationer, ljudfiler och 3D-mediefiler - allt från de kreativa program i Adobe som de använder varje dag.
 
@@ -29,7 +27,7 @@ Kreatörer pressas att snabbt leverera nytt, visuellt övertygande innehåll som
     <div>
    <a href="stock.md#tutorial1"><strong>Hitta de bästa resurserna snabbare med Adobe [!DNL Stock]</strong></a>
     </div>
-    <em>Hitta den perfekta royaltyfria stockbilden som piffar upp ditt projekt med bättre och snabbare sökresultat från Adobe Sensei, vår artificiella intelligens-motor</em>
+    <em>Hitta den perfekta royaltyfria stockbilden som piffar upp ditt kreativa projekt med bättre och snabbare sökresultat från Adobe Sensei, vår artificiella intelligens-motor</em>
     <br>
   </td>
   <td>

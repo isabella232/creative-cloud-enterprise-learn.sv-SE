@@ -5,16 +5,14 @@ feature: Graphic Design
 role: User
 level: Beginner, Intermediate
 exl-id: dcd379c5-3f60-4056-9d60-589890d4de66
-source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
+source-git-commit: 58444368f757ddf9edc292d921bb6f2ae335efa3
 workflow-type: tm+mt
-source-wordcount: '199'
+source-wordcount: '196'
 ht-degree: 1%
 
 ---
 
 # [!DNL Capture]
-
-![Bild för självstudiekurs](../assets/Capture.jpg)
 
 Adobe [!DNL Capture] gör om mobiltelefoner och surfplattor till ett verktyg för designinsamling. Användarna kan skapa många olika typer av resurser (enskilda digitala element för verk).   Dessa resurser synkroniseras automatiskt med andra datorprogram och mobila Adobe-program. Användarna kan föra in dem i sina kreativa projekt eller enkelt dela dem med medarbetare.
 

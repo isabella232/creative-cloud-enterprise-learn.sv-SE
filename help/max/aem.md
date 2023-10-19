@@ -5,16 +5,14 @@ feature: Integrations
 role: User
 level: Beginner, Intermediate
 exl-id: 1c14d3e8-2d4b-45a2-9a4a-efc044f2af1e
-source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
+source-git-commit: 58444368f757ddf9edc292d921bb6f2ae335efa3
 workflow-type: tm+mt
-source-wordcount: '386'
+source-wordcount: '383'
 ht-degree: 1%
 
 ---
 
 # AEM Assets och Asset Link
-
-![Bild för självstudiekurs](../assets/AEM.jpg)
 
 Adobe Experience Manager är branschledande inom hantering av digitala upplevelser för företag och medelstora organisationer. Det ger en modern, skalbar grund för att leverera övertygande upplevelser som främjar varumärkesengagemang, driver efterfrågan och ökar kundlojaliteten. I Experience Manager ingår en komplett uppsättning verktyg för att skapa, hantera och leverera digitala upplevelser i alla kanaler.
 
@@ -34,12 +32,12 @@ Adobe Experience Manager är branschledande inom hantering av digitala upplevels
   </td>
    <td>
    <a href="aem.md#tutorial2">
-      <img alt="InDesign-filer som finns i AEM" src="../assets/InDesign-Files-Hosten-in-AEM.jpg" />
+      <img alt="InDesign filer som finns i AEM" src="../assets/InDesign-Files-Hosten-in-AEM.jpg" />
    </a>
     <div>
-   <a href="aem.md#tutorial2"><strong>InDesign-filer som finns i AEM</strong></a>
+   <a href="aem.md#tutorial2"><strong>InDesign filer som finns i AEM</strong></a>
     </div>
-    <em>Ha dina InDesign-dokument i AEM så att flera användare kan skapa innehållsvariationer - samtidigt</em>
+    <em>Ha dina InDesigner som värddokument i AEM så att flera användare kan skapa innehållsvariationer - samtidigt</em>
     <br>
   </td>
   <td>
@@ -65,15 +63,15 @@ I den här självstudiekursen får du lära dig mer om att:
 **Presenteras av:**
 ERIC ROWSE, KONSULT FÖR SENIORA LÖSNINGAR (DIGITALA MEDIA)
 
-## InDesign-filer i AEM (3:16) {#tutorial2}
+## InDesign-filer som finns i AEM (3:16) {#tutorial2}
 
 >[!VIDEO](https://video.tv.adobe.com/v/326829?hidetitle=true)
 
 **Beskrivning**
-Ha dina InDesign-dokument i AEM så att flera användare kan skapa innehållsvariationer - på samma gång.
+Ha dina InDesigner som värddokument i AEM så att flera användare kan skapa innehållsvariationer - på samma gång.
 
 I den här självstudiekursen får du lära dig mer om att:
-* Överför en InDesign-fil till AEM för vanlig lagringsåtkomst
+* InDesign Överför lagringsfilen till AEM för vanlig lagringsåtkomst
 * Skapa variationer säkert utan att oroa dig för att förstöra källfilen
 * Dokumentfält är förformaterade, vilket gör det möjligt att snabbt redigera eller ändra innehåll
 

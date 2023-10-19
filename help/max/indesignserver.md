@@ -1,20 +1,18 @@
 ---
 title: InDesign Server
-description: Serverprogramvaran Adobe Adobe&reg; InDesign InDesign&reg; har en robust och skalbar motor med funktioner för design, layout och typografi som gör att du kan skapa engagerande automatiserade dokument programmatiskt
+description: Adobe Adobe&reg; InDesign&reg; Server är en robust och skalbar motor som utnyttjar InDesignens funktioner för design, layout och typografi för att programmatiskt skapa engagerande automatiserade dokument
 feature: Graphic Design
 role: User
 level: Beginner, Intermediate
 exl-id: 534124fb-a903-430e-ad56-f124e4f024a0
-source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
+source-git-commit: 58444368f757ddf9edc292d921bb6f2ae335efa3
 workflow-type: tm+mt
-source-wordcount: '272'
+source-wordcount: '269'
 ht-degree: 1%
 
 ---
 
 # InDesign Server
-
-![Bild för självstudiekurs](../assets/InDesignServer.jpg)
 
 Adobe InDesignInDesign ® Server har en robust och skalanpassningsbar motor med funktioner för design, layout och typografi som gör det möjligt att programmatiskt skapa engagerande automatiserade dokument.
 
@@ -24,10 +22,10 @@ Adobe InDesignInDesign ® Server har en robust och skalanpassningsbar motor med 
 <tr>
  <td>
    <a href="indesignserver.md#tutorial1">
-      <img alt="Datadrivet InDesign Server-innehåll" src="../assets/dataDriven-InDesign-Server-Content.jpg" />
+      <img alt="Datadrivet innehåll i InDesigner Server" src="../assets/dataDriven-InDesign-Server-Content.jpg" />
    </a>
     <div>
-   <a href="indesignserver.md#tutorial1"><strong>Datadrivet InDesign Server-innehåll</strong></a>
+   <a href="indesignserver.md#tutorial1"><strong>Datadrivet innehåll i InDesigner Server</strong></a>
     </div>
     <em>Datadriven utformning kan uppnås programmässigt med InDesign Server</em>
     <br>
@@ -45,7 +43,7 @@ Adobe InDesignInDesign ® Server har en robust och skalanpassningsbar motor med 
 </tr>
 </table>
 
-## Datadrivet InDesign Server-innehåll (4:14) {#tutorial1}
+## Datadriven InDesign Server (4:14) {#tutorial1}
 
 >[!VIDEO](https://video.tv.adobe.com/v/326901?hidetitle=true)
 
@@ -53,14 +51,14 @@ Adobe InDesignInDesign ® Server har en robust och skalanpassningsbar motor med 
 Datadriven utformning kan uppnås programmässigt med InDesign Server.
 
 I den här självstudiekursen får du lära dig mer om att:
-* Skapa InDesign-mallar med förformaterade text- eller objektformat
+* Skapa textmallar med förformaterade InDesign- eller objektformat
 * Flöde i externt datadrivet innehåll för snabbare innehållsanpassning
 * Skapa spot-on-PDF eller koppla in dig i andra AEM-drivna utdataformat med din layout
 
 **Presenteras av:**
 ERIC ROWSE, KONSULT FÖR SENIORA LÖSNINGAR (DIGITALA MEDIA)
 
-## Ytterligare resurser från InDesign Server
+## Ytterligare resurser för InDesign Server
 
 <table>
 <tr>
@@ -94,7 +92,7 @@ ERIC ROWSE, KONSULT FÖR SENIORA LÖSNINGAR (DIGITALA MEDIA)
 
 ![InDesign Server-logotyp](../assets/id_server_appicon_96.png)
 
-**Resurser för InDesign Server**
+**InDesign Server**
 
 [Lär dig mer och support](https://www.adobe.com/products/indesignserver.html) är navet för ytterligare självstudiekurser, Nyheter och länkar till användarforum.
 

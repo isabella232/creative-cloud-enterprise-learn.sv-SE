@@ -5,16 +5,14 @@ feature: Collaboration, Share, Integrations
 role: User
 level: Beginner, Intermediate
 exl-id: 7b7defa1-d2fb-4908-a605-4696fceeb467
-source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
+source-git-commit: 58444368f757ddf9edc292d921bb6f2ae335efa3
 workflow-type: tm+mt
-source-wordcount: '614'
+source-wordcount: '611'
 ht-degree: 0%
 
 ---
 
 # Acrobat och Sign
-
-![Bild för självstudiekurs](../assets/DC.jpg)
 
 Med Adobe Document Cloud, som innehåller världsledande PDF- och signaturlösningar, kan du omvandla manuella dokumentprocesser till effektiva digitala processer. Nu kan ditt team snabbt utföra åtgärder på dokument, arbetsflöden och uppgifter - på flera skärmar och enheter - var som helst, när som helst och i dina Microsoft- och företagsprogram.
 

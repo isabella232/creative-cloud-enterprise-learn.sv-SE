@@ -5,16 +5,14 @@ feature: 3D
 role: User
 level: Beginner, Intermediate
 exl-id: 5e23b3f2-d246-4993-948c-5c687dabcd8b
-source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
+source-git-commit: 58444368f757ddf9edc292d921bb6f2ae335efa3
 workflow-type: tm+mt
-source-wordcount: '177'
+source-wordcount: '174'
 ht-degree: 0%
 
 ---
 
 # [!DNL Dimension]
-
-![Bild för självstudiekurs](../assets/Dimenio.jpg)
 
 Skapa engagerande innehåll i 3D snabbare med högkvalitativa modeller, material och belysning. [!DNL Dimension] gör det enkelt att skapa varumärkesvisualiseringar, illustrationer, produktmodeller, förpackningsdesign och annat kreativt arbete.
 

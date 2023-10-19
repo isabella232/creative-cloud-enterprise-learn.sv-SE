@@ -5,16 +5,14 @@ feature: Video Editing
 role: User
 level: Beginner, Intermediate
 exl-id: 513a5b86-fd31-42c5-aed3-82669889248f
-source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
+source-git-commit: 58444368f757ddf9edc292d921bb6f2ae335efa3
 workflow-type: tm+mt
-source-wordcount: '500'
+source-wordcount: '496'
 ht-degree: 1%
 
 ---
 
 # Snabbreferensstödlinjer för video
-
-![Bild för Creative Cloud](../assets/CCEbanner-DVA.png)
 
 Förverkliga dina idéer med Adobe-program för videoredigering, rörlig grafik, visuella effekter, animering och annat. Markera en bild som du vill hämta eller visa PDF i snabbguiden.
 
