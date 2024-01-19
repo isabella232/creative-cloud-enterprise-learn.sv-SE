@@ -8,10 +8,10 @@ feature: Graphic Design, Image Editing, Vector Editing, UI Design, Licensable As
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: c54f203aa1e3dddbfd973b1cc668b56b7f54d9b1
+source-git-commit: 640c9ff5155574286e24e57b7d7644a0a303c529
 workflow-type: tm+mt
-source-wordcount: '572'
-ht-degree: 8%
+source-wordcount: '579'
+ht-degree: 5%
 
 ---
 
@@ -19,9 +19,9 @@ ht-degree: 8%
 # Creative Cloud för företag Tutorials {#cce-learning-hub}
 
 + [Översikt](overview.md)
-+ Creative Cloud for enterprise {#cceoverview}
++ Creative Cloud för företag {#cceoverview}
    + [Översikt](cce/overview-cce.md)
-   + Självstudiekurser {#ccetutorials}
+   + Tutorials {#ccetutorials}
       + [Acrobat för innehållsskapare](cce/acrobat-content-creators.md)
       + [Förbättra arbetsflödena för CC med CC Libraries](cce/cc-workflows-cc-libraries.md)
       + [Tämja typångest](cce/taming-type-anxiety.md)
@@ -39,7 +39,9 @@ ht-degree: 8%
    + [Översikt](express/overview-express.md)
    + Självstudiekurser {#expresshowto}
       + [Översikt](express/overview-express-how-to.md)
-      + [Kom igång med Adobe Express](express/get-started.md)
+      + [Vad finns på startsidan](express/get-started.md)
+      + [Introduktion till snabbåtgärder](express/quick-actions.md)
+      + [Introduktion till mallar](express/introduction-templates.md)
       + [Schemalägg sociala inlägg](express/schedule.md)
       + [Bjud in projektmedarbetare](express/collaborate.md)
       + [Få snabb inspiration](express/get-inspiration.md)
@@ -71,18 +73,18 @@ ht-degree: 8%
       + [Skapa affischer till webbseminarier med Firefly](express/create-webinar-poster.md)
 + [!DNL Adobe Firefly] {#fireflyoverview}
    + [Översikt](firefly/overview-firefly.md)
-   + Självstudiekurser {#firefly-tutorials}
+   + Tutorials {#firefly-tutorials}
       + [Översikt över Adobe Firefly](firefly/overview-of-firefly.md)
       + [Aktivera kreativ effektivitet](firefly/enable-creative-efficiency.md)
       + [Banderollannons variationer i [!DNL Photoshop]](firefly/web-banner-ad.md)
       + [Generativ ifyllning [!DNL Photoshop]](firefly/generative-fill.md)
       + [Texteffekter](firefly/text-effects.md)
       + [Generativ omfärgning i [!DNL Illustrator]](firefly/generative-recolor.md)
-   + Webbseminarier {#firefly-webinars}
+   + Webbinarier {#firefly-webinars}
       + [Experimentera med Adobe Firefly](firefly/webinar-experimenting.md)
 + [!DNL Adobe Stock] {#stockoverview}
    + [Översikt](stock/overview-stock.md)
-   + Självstudiekurser {#stocktutorials}
+   + Tutorials {#stocktutorials}
       + [Fantastiska digitala resurser](stock/stunning-digital-assets.md)
       + [Sök i Adobe [!DNL Stock] licenshistorik](stock/searchstock.md)
       + [Lägg till en handritad estetik i Adobe [!DNL Stock] images](stock/handdrawn.md)
@@ -109,21 +111,21 @@ ht-degree: 8%
       + [Anpassa färgerna i en Adobe [!DNL Stock] vektorillustration](stock/customizecolors.md)
 + Adobe 3D och VR {#3doverview}
    + [Översikt](3di/overview-3di.md)
-   + Självstudiekurser {#3dtutorials}
+   + Tutorials {#3dtutorials}
       + [3D-design och rendering](3di/substance-3d-stager.md)
       + [Tips och tekniker för att bemästra 3D-ljus i CGI](3di/mastering3dlighting.md)
       + [Skapa fotorealistisk virtuell fotografering med 3D-rendering och komposition](3di/photorealistic.md)
       + [Anpassa och varumärkesanpassa en 3D-modell med [!DNL Dimension] och Adobe [!DNL Stock]](3di/3ddimensionstock.md)
 + Adobe-video {#videooverview}
    + [Översikt](dva/overview-dva.md)
-   + Självstudiekurser {#videotutorials}
+   + Tutorials {#videotutorials}
       + [Professionella mallar för rörlig grafik](dva/motion-graphics-templates.md)
       + [Videogranskning med Frame.io](dva/video-review-frame-io.md)
    + Snabbreferensstödlinjer {#videorefguides}
       + [Videostödlinjer](dva/overview-dva-ref.md)
 + Adobe XD {#xdoverview}
    + [Översikt](xd/overview-xd.md)
-   + Självstudiekurser {#xdtutorials}
+   + Tutorials {#xdtutorials}
    + [Bekanta dig med [!UICONTROL Komponenter] i ADOBE XD](xd/components.md)
 + Driftsätta och hantera {#deploy}
    + [Översikt](deploy/overview-deploy.md)
@@ -131,7 +133,7 @@ ht-degree: 8%
    + [Namngiven användarlicensiering](deploy/nameduserlicensing.md)
 + Adobe MAX {#max}
    + [Översikt](max/overview-max.md)
-   + Självstudiekurser {#tutorials}
+   + Tutorials {#tutorials}
       + [Översikt](max/maxtutorials.md)
       + Produkter för stationära datorer {#desktop-products}
          + [Acrobat och Sign](max/acrobat-sign.md)
