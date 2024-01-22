@@ -6,9 +6,9 @@ role: User
 level: Beginner
 jira: KT-13994
 exl-id: f2cc51b1-b0be-4ca7-9723-92d851250463
-source-git-commit: 640c9ff5155574286e24e57b7d7644a0a303c529
+source-git-commit: 6324cb0dce5ba7278f1e9a92090d87c2f75f4cf9
 workflow-type: tm+mt
-source-wordcount: '94'
+source-wordcount: '114'
 ht-degree: 0%
 
 ---
@@ -33,14 +33,46 @@ Kom igång med att skapa fantastiska verk som sticker ut med generativ AI från 
       <a href="introduction-templates.md">
          <img alt="Introduktion till snabbåtgärder" src="assets/introduction-templates.png" />
       </a>
- </td>
+ </td>     
  <td>
-      <a href="schedule.md">
-         <img alt="Schemalägg sociala inlägg" src="assets/schedule.png" />
+      <a href="brand.md">
+         <img alt="Konfigurera ett varumärkeskit" src="assets/brand.png" />
       </a>
   </td>
 </tr>
 <tr>
+   <td>
+      <a href="new-project.md">
+         <img alt="Starta ett projekt" src="assets/starting-a-project.png" />
+      </a>
+  </td>
+   <td>
+      <a href="workspace.md">
+         <img alt="Användarupplevelse för ett projekt" src="assets/workspace.png" />
+      </a>
+  </td>
+  <td>
+      <a href="text-effects.md">
+         <img alt="Lägga till text" src="assets/text-effects.png" />
+      </a>
+  </td>
+  <td>
+      <a href="image-effects.md">
+         <img alt="Lägga till en bild" src="assets/image-effects.png" />
+      </a>
+  </td>
+</tr>
+<tr>
+   <td>
+      <a href="add-gen-ai-image.md">
+         <img alt="Lägga till en Gen AI-bild" src="assets/gen-ai-image.png" />
+      </a>
+  </td>
+  <td>
+      <a href="schedule.md">
+         <img alt="Schemalägg sociala inlägg" src="assets/schedule.png" />
+      </a>
+  </td>
   <td>
    <a href="collaborate.md">
       <img alt="Bjud in projektmedarbetare" src="assets/collaborate.png" />
@@ -51,7 +83,9 @@ Kom igång med att skapa fantastiska verk som sticker ut med generativ AI från 
          <img alt="Få snabb inspiration" src="assets/inspiration.png" />
       </a>
   </td>
-  <td>
+</tr>
+<tr>
+   <td>
    <a href="create-templates.md">
       <img alt="Skapa mallar" src="assets/templates.png" />
    </a>
@@ -61,8 +95,6 @@ Kom igång med att skapa fantastiska verk som sticker ut med generativ AI från 
             <img alt="Lägg till mediefiler för design" src="assets/design-assets.png" />
          </a>
  </td>
-</tr>
-<tr>
   <td>
          <a href="group-objects.md">
             <img alt="Gruppera objekt" src="assets/group-objects.png" />
@@ -73,7 +105,9 @@ Kom igång med att skapa fantastiska verk som sticker ut med generativ AI från 
             <img alt="Markera och flytta lager" src="assets/layers.png" />
          </a>
    </td>
-  <td>
+</tr>
+<tr>
+   <td>
       <a href="multiple-pages.md">
          <img alt="Skapa flera sidor" src="assets/multiple-pages.png" />
       </a>
@@ -83,16 +117,9 @@ Kom igång med att skapa fantastiska verk som sticker ut med generativ AI från 
          <img alt="Ångra och göra om" src="assets/undo-redo.png" />
       </a>
    </td>
-</tr>
-<tr>
   <td>
       <a href="cc-libraries.md">
          <img alt="Använda CC Libraries" src="assets/cc-libraries.png" />
-      </a>
-  </td>
-   <td>
-      <a href="brand.md">
-         <img alt="Använd ditt varumärke" src="assets/brand.png" />
       </a>
   </td>
    <td>
@@ -100,29 +127,24 @@ Kom igång med att skapa fantastiska verk som sticker ut med generativ AI från 
          <img alt="Integrering med Google Drive" src="assets/google-drive.png" />
       </a>
   </td>
-  <td>
-      <a href="remove-background.md">
-         <img alt="Ta bort bakgrund" src="assets/background.png" />
-      </a>
-  </td>
-  </tr>
+</tr>
 <tr>
-  <td>
-      <a href="text-effects.md">
-         <img alt="Använda texteffekter" src="assets/text-effects.png" />
-      </a>
-  </td>
-  <td>
-      <a href="image-effects.md">
-         <img alt="Använd bildeffekter" src="assets/image-effects.png" />
-      </a>
-  </td>
+   <td>
+         <a href="remove-background.md">
+            <img alt="Ta bort bakgrund" src="assets/background.png" />
+         </a>
+   </td>
   <td>
          <a href="create-curved-text.md">
             <img alt="Skapa krökt text" src="assets/curved-text.png" />
          </a>
    </td>
   <td>
+      <img alt="Avgränsare" src="../assets/Whitespacer.png" />
+      <div>
+      <br>
+   </td>
+   <td>
       <img alt="Avgränsare" src="../assets/Whitespacer.png" />
       <div>
       <br>

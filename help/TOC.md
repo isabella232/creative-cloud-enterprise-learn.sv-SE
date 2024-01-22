@@ -8,9 +8,9 @@ feature: Graphic Design, Image Editing, Vector Editing, UI Design, Licensable As
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: 640c9ff5155574286e24e57b7d7644a0a303c529
+source-git-commit: 7c07e7b6ae9668e6bb86799f41e735414d4f4ca7
 workflow-type: tm+mt
-source-wordcount: '579'
+source-wordcount: '588'
 ht-degree: 5%
 
 ---
@@ -42,6 +42,12 @@ ht-degree: 5%
       + [Vad finns på startsidan](express/get-started.md)
       + [Introduktion till snabbåtgärder](express/quick-actions.md)
       + [Introduktion till mallar](express/introduction-templates.md)
+      + [Konfigurera ett varumärkeskit](express/brand.md)
+      + [Starta ett projekt](express/new-project.md)
+      + [Användarupplevelse för ett projekt](express/workspace.md)
+      + [Lägga till text](express/text-effects.md)
+      + [Lägga till en bild](express/image-effects.md)
+      + [Lägga till en Gen AI-bild](express/add-gen-ai-image.md)
       + [Schemalägg sociala inlägg](express/schedule.md)
       + [Bjud in projektmedarbetare](express/collaborate.md)
       + [Få snabb inspiration](express/get-inspiration.md)
@@ -52,12 +58,9 @@ ht-degree: 5%
       + [Skapa flera sidor](express/multiple-pages.md)
       + [Ångra och göra om](express/undo-redo.md)
       + [Använda CC Libraries](express/cc-libraries.md)
-      + [Använd ditt varumärke](express/brand.md)
       + [Integrering med Google Drive](express/google-drive.md)
       + [Ta bort en bakgrund från ett foto med ett klick](express/remove-background.md)
       + [Finjustera en utstansning](express/refine-cutout.md)
-      + [Använda texteffekter](express/text-effects.md)
-      + [Lägga till effekter och justeringar i ett foto](express/image-effects.md)
       + [Skapa krökt text](express/create-curved-text.md)
    + Självstudiekurser om användningsfall {#expressusecase}
       + [Översikt](express/overview-express-use-case-tutorials.md)
@@ -65,7 +68,6 @@ ht-degree: 5%
       + [Ge marknadsföringsteam möjlighet att skapa innehåll för flera kanaler](express/multi-channel-marketing-content.md)
       + [Ge distribuerade team möjlighet att lokalisera innehåll](express/localized-marketing-content.md)
       + [Kickstarta kreativiteten](express/jumpstart-ideation.md)
-      + [Adobe Express för nybörjare](express/adobe-express-beginners.md)
       + [Skapa reklambladsinnehåll för en marknadsföringskampanj med Firefly](express/create-local-marketing.md)
       + [Skapa innehåll för rekrytering och introduktion med Firefly](express/create-on-boarding.md)
       + [Skapa affischer för sociala medier med Firefly](express/create-social-posters.md)
