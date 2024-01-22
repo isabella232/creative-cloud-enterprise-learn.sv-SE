@@ -8,9 +8,9 @@ feature: Graphic Design, Image Editing, Vector Editing, UI Design, Licensable As
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: 7c07e7b6ae9668e6bb86799f41e735414d4f4ca7
+source-git-commit: 1e0bf73f3f6aa0ea96cb15d26fb31ec1a48f2d79
 workflow-type: tm+mt
-source-wordcount: '588'
+source-wordcount: '602'
 ht-degree: 5%
 
 ---
@@ -48,13 +48,16 @@ ht-degree: 5%
       + [Lägga till text](express/text-effects.md)
       + [Lägga till en bild](express/image-effects.md)
       + [Lägga till en Gen AI-bild](express/add-gen-ai-image.md)
+      + [Använda stödraster](express/grids.md)
+      + [Använda element](express/add-design-assets.md)
+      + [Arbeta med lager och ritytor](express/layers.md)
+      + [Så här samarbetar du](express/collaborate.md)
+      + [Dela och hämta](express/share.md)
+      + [Så här använder du versionshistoriken](express/version-history.md)
       + [Schemalägg sociala inlägg](express/schedule.md)
-      + [Bjud in projektmedarbetare](express/collaborate.md)
       + [Få snabb inspiration](express/get-inspiration.md)
       + [Skapa mallar](express/create-templates.md)
-      + [Lägg till mediefiler för design](express/add-design-assets.md)
       + [Gruppera objekt](express/group-objects.md)
-      + [Markera och flytta lager](express/layers.md)
       + [Skapa flera sidor](express/multiple-pages.md)
       + [Ångra och göra om](express/undo-redo.md)
       + [Använda CC Libraries](express/cc-libraries.md)

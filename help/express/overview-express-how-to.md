@@ -6,9 +6,9 @@ role: User
 level: Beginner
 jira: KT-13994
 exl-id: f2cc51b1-b0be-4ca7-9723-92d851250463
-source-git-commit: 6324cb0dce5ba7278f1e9a92090d87c2f75f4cf9
+source-git-commit: 1e0bf73f3f6aa0ea96cb15d26fb31ec1a48f2d79
 workflow-type: tm+mt
-source-wordcount: '114'
+source-wordcount: '129'
 ht-degree: 0%
 
 ---
@@ -68,50 +68,68 @@ Kom igång med att skapa fantastiska verk som sticker ut med generativ AI från 
          <img alt="Lägga till en Gen AI-bild" src="assets/gen-ai-image.png" />
       </a>
   </td>
+ <td>
+      <a href="grids.md">
+         <img alt="Använda stödraster" src="assets/grids.png" />
+      </a>
+  </td>
+   <td>
+         <a href="add-design-assets.md">
+            <img alt="Använda element" src="assets/design-assets.png" />
+         </a>
+   </td>
+   <td>
+         <a href="layers.md">
+            <img alt="Arbeta med lager och ritytor" src="assets/layers.png" />
+         </a>
+   </td>
+</tr>
+<tr>
+   <td>
+   <a href="collaborate.md">
+      <img alt="Så här samarbetar du" src="assets/collaborate.png" />
+   </a>
+  </td>
+  <td>
+   <a href="share.md">
+      <img alt="Dela och hämta" src="assets/share.png" />
+   </a>
+  </td>
+  <td>
+   <a href="version-history.md">
+      <img alt="Så här använder du versionshistoriken" src="assets/version-history.png" />
+   </a>
+  </td>
   <td>
       <a href="schedule.md">
          <img alt="Schemalägg sociala inlägg" src="assets/schedule.png" />
       </a>
   </td>
-  <td>
-   <a href="collaborate.md">
-      <img alt="Bjud in projektmedarbetare" src="assets/collaborate.png" />
-   </a>
-  </td>
+</tr>
+<tr>
   <td>
       <a href="get-inspiration.md">
          <img alt="Få snabb inspiration" src="assets/inspiration.png" />
       </a>
   </td>
-</tr>
-<tr>
    <td>
    <a href="create-templates.md">
       <img alt="Skapa mallar" src="assets/templates.png" />
    </a>
   </td>
- <td>
-         <a href="add-design-assets.md">
-            <img alt="Lägg till mediefiler för design" src="assets/design-assets.png" />
-         </a>
- </td>
-  <td>
+
+<td>
          <a href="group-objects.md">
             <img alt="Gruppera objekt" src="assets/group-objects.png" />
          </a>
    </td>
-  <td>
-         <a href="layers.md">
-            <img alt="Markera och flytta lager" src="assets/layers.png" />
-         </a>
-   </td>
-</tr>
-<tr>
    <td>
       <a href="multiple-pages.md">
          <img alt="Skapa flera sidor" src="assets/multiple-pages.png" />
       </a>
   </td>
+</tr>
+<tr>
   <td>
       <a href="undo-redo.md">
          <img alt="Ångra och göra om" src="assets/undo-redo.png" />
@@ -127,19 +145,24 @@ Kom igång med att skapa fantastiska verk som sticker ut med generativ AI från 
          <img alt="Integrering med Google Drive" src="assets/google-drive.png" />
       </a>
   </td>
-</tr>
-<tr>
    <td>
          <a href="remove-background.md">
             <img alt="Ta bort bakgrund" src="assets/background.png" />
          </a>
    </td>
+</tr>
+<tr>
   <td>
          <a href="create-curved-text.md">
             <img alt="Skapa krökt text" src="assets/curved-text.png" />
          </a>
    </td>
   <td>
+      <img alt="Avgränsare" src="../assets/Whitespacer.png" />
+      <div>
+      <br>
+   </td>
+   <td>
       <img alt="Avgränsare" src="../assets/Whitespacer.png" />
       <div>
       <br>
