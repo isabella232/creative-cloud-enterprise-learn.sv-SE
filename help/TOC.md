@@ -8,9 +8,9 @@ feature: Graphic Design, Image Editing, Vector Editing, UI Design, Licensable As
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: 1e0bf73f3f6aa0ea96cb15d26fb31ec1a48f2d79
+source-git-commit: 94cf805a26f6e5a127795fb9f145ddd6dc3e06aa
 workflow-type: tm+mt
-source-wordcount: '602'
+source-wordcount: '620'
 ht-degree: 5%
 
 ---
@@ -54,12 +54,16 @@ ht-degree: 5%
       + [Så här samarbetar du](express/collaborate.md)
       + [Dela och hämta](express/share.md)
       + [Så här använder du versionshistoriken](express/version-history.md)
-      + [Schemalägg sociala inlägg](express/schedule.md)
+      + [Ångra och göra om](express/undo-redo.md)
       + [Få snabb inspiration](express/get-inspiration.md)
+      + [Introduktion till animeringar](express/intro-animation.md)
+      + [Olika typer av animering](express/different-types-animation.md)
+      + [Justera inställningarna för animeringar](express/tweak-animation.md)
+      + [Vad är animeringstidslinjen?](express/animation-timeline.md)
+      + [Schemalägg sociala inlägg](express/schedule.md)
       + [Skapa mallar](express/create-templates.md)
       + [Gruppera objekt](express/group-objects.md)
       + [Skapa flera sidor](express/multiple-pages.md)
-      + [Ångra och göra om](express/undo-redo.md)
       + [Använda CC Libraries](express/cc-libraries.md)
       + [Integrering med Google Drive](express/google-drive.md)
       + [Ta bort en bakgrund från ett foto med ett klick](express/remove-background.md)
