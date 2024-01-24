@@ -5,14 +5,14 @@ feature: Graphic Design
 role: User
 level: Beginner
 jira: KT-14832
-source-git-commit: 94cf805a26f6e5a127795fb9f145ddd6dc3e06aa
+source-git-commit: fcf6d4b5c663d7f03bb53ffc910edf3ef62d68e2
 workflow-type: tm+mt
 source-wordcount: '38'
 ht-degree: 0%
 
 ---
 
-# Olika typer av animering
+# Olika typer av animeringar
 
 Läs mer om de tre olika typerna av animeringar som du kan lägga till i dina projekt för att göra dem mer engagerande.
 

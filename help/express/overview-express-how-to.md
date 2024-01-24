@@ -6,9 +6,9 @@ role: User
 level: Beginner
 jira: KT-13994
 exl-id: f2cc51b1-b0be-4ca7-9723-92d851250463
-source-git-commit: 9ac4e6bef84f5020e18188c2a9e5fccb6f73bbb4
+source-git-commit: 825bff22978949e0bb47c6194af4d68f8cb38aa9
 workflow-type: tm+mt
-source-wordcount: '153'
+source-wordcount: '179'
 ht-degree: 2%
 
 ---
@@ -148,7 +148,7 @@ Kom igång med att skapa fantastiska verk som sticker ut med generativ AI från 
    </td>
   <td>
          <a href="different-types-animation.md">
-            <img alt="Olika typer av animering" src="assets/different-animations.png" />
+            <img alt="Olika typer av animeringar" src="assets/different-animations.png" />
          </a>
    </td>
    <td>
@@ -160,6 +160,50 @@ Kom igång med att skapa fantastiska verk som sticker ut med generativ AI från 
          <a href="animation-timeline.md">
             <img alt="Vad är animeringstidslinjen?" src="assets/what-is-animation-timeline.png" />
          </a>
+   </td>
+</tr>
+<tr>
+   <td>
+         <a href="stagger-animations.md">
+            <img alt="Så här förstorar du animeringar" src="assets/stagger-animations.png" />
+         </a>
+   </td>
+   <td>
+         <a href="add-sections-animation.md">
+            <img alt="Lägga till avsnitt i en animering" src="assets/add-sections.png" />
+         </a>
+   </td>
+   <td>
+         <a href="audio-animation.md">
+            <img alt="Lägga till ljud i animeringar" src="assets/add-audio.png" />
+         </a>
+   </td>
+   <td>
+         <a href="resize-animations.md">
+            <img alt="Ändra storlek på animeringar" src="assets/resize-animations.png" />
+         </a>
+   </td>
+</tr>
+<tr>
+   <td>
+         <a href="export-animations.md">
+            <img alt="Exportera animeringar" src="assets/exporting-animations.png" />
+         </a>
+   </td>
+   <td>
+      <img alt="Avgränsare" src="../assets/Whitespacer.png" />
+      <div>
+      <br>
+   </td>
+    <td>
+      <img alt="Avgränsare" src="../assets/Whitespacer.png" />
+      <div>
+      <br>
+   </td>
+    <td>
+      <img alt="Avgränsare" src="../assets/Whitespacer.png" />
+      <div>
+      <br>
    </td>
 </tr>
 </table>

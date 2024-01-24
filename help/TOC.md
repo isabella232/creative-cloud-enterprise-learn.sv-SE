@@ -8,9 +8,9 @@ feature: Graphic Design, Image Editing, Vector Editing, UI Design, Licensable As
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: 94cf805a26f6e5a127795fb9f145ddd6dc3e06aa
+source-git-commit: fcf6d4b5c663d7f03bb53ffc910edf3ef62d68e2
 workflow-type: tm+mt
-source-wordcount: '620'
+source-wordcount: '643'
 ht-degree: 5%
 
 ---
@@ -60,6 +60,11 @@ ht-degree: 5%
       + [Olika typer av animering](express/different-types-animation.md)
       + [Justera inställningarna för animeringar](express/tweak-animation.md)
       + [Vad är animeringstidslinjen?](express/animation-timeline.md)
+      + [Så här förstorar du animeringar](express/stagger-animations.md)
+      + [Lägga till avsnitt på tidslinjen](express/add-sections-animation.md)
+      + [Lägga till ljud i animeringar](express/audio-animation.md)
+      + [Ändra storlek på animeringar](express/resize-animations.md)
+      + [Exportera animeringar](express/export-animations.md)
       + [Schemalägg sociala inlägg](express/schedule.md)
       + [Skapa mallar](express/create-templates.md)
       + [Gruppera objekt](express/group-objects.md)
