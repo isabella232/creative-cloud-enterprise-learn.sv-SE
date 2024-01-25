@@ -1,19 +1,20 @@
 ---
-title: Ta bort en bakgrund från ett foto med ett klick
-description: Lär dig ta bort bakgrunden från bilder
+title: Så här tar du bort bakgrunden från en bild
+description: Lär dig ta bort bakgrunden från dina bilder med ett klick
 feature: Image Editing
 role: User
 level: Beginner
+jira: KT-13419
 exl-id: 9e1e95cc-0632-457a-b16c-ad87e89e8447
-source-git-commit: dc08bb9cea129fcfee25c888e9eb7021f15ee6c1
+source-git-commit: d4290715dc87b65a96942a38d5ab96b76f82d52b
 workflow-type: tm+mt
-source-wordcount: '40'
+source-wordcount: '38'
 ht-degree: 0%
 
 ---
 
-# Ta bort en bakgrund från ett foto med ett klick
+# Ta bort bakgrunden från en bild
 
-Lär dig ta bort bakgrunden från bilder.
+Lär dig ta bort bakgrunden från dina bilder med ett klick.
 
->[!VIDEO](https://video.tv.adobe.com/v/3423769?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3420220?quality=12&learn=on&hidetitle=true)

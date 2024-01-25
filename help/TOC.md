@@ -8,10 +8,10 @@ feature: Graphic Design, Image Editing, Vector Editing, UI Design, Licensable As
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: fcf6d4b5c663d7f03bb53ffc910edf3ef62d68e2
+source-git-commit: e79a55515326070651e6f5180f5f557bc79673c4
 workflow-type: tm+mt
-source-wordcount: '643'
-ht-degree: 5%
+source-wordcount: '689'
+ht-degree: 4%
 
 ---
 
@@ -65,13 +65,20 @@ ht-degree: 5%
       + [Lägga till ljud i animeringar](express/audio-animation.md)
       + [Ändra storlek på animeringar](express/resize-animations.md)
       + [Exportera animeringar](express/export-animations.md)
-      + [Schemalägg sociala inlägg](express/schedule.md)
+      + [Ta bort bakgrunden från en bild](express/remove-background.md)
+      + [Vilka är de nya Gen AI-funktionerna i Adobe Express?](express/intro-gen-ai.md)
+      + [Använda verktyget Objektsuddgummi](express/object-eraser.md)
+      + [Använda generativ fyllning](express/generative-fill.md)
+      + [Förbättra din textdesign med Gen AI](express/gen-text.md)
+      + [Så här använder du Text till mall Gen AI](express/text-to-template.md)
+      + [Översätta ditt innehåll gruppvis](express/bulk-translate.md)
+      + [Så här redigerar du en PDF](express/edit-a-pdf.md)
+      + [Så använder du schemaläggaren för publicering](express/schedule.md)
       + [Skapa mallar](express/create-templates.md)
       + [Gruppera objekt](express/group-objects.md)
       + [Skapa flera sidor](express/multiple-pages.md)
       + [Använda CC Libraries](express/cc-libraries.md)
       + [Integrering med Google Drive](express/google-drive.md)
-      + [Ta bort en bakgrund från ett foto med ett klick](express/remove-background.md)
       + [Finjustera en utstansning](express/refine-cutout.md)
       + [Skapa krökt text](express/create-curved-text.md)
    + Självstudiekurser om användningsfall {#expressusecase}

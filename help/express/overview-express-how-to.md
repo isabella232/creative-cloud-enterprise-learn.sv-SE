@@ -6,10 +6,10 @@ role: User
 level: Beginner
 jira: KT-13994
 exl-id: f2cc51b1-b0be-4ca7-9723-92d851250463
-source-git-commit: 825bff22978949e0bb47c6194af4d68f8cb38aa9
+source-git-commit: d1f45cf8f40f601e77ca752e0ac1d369e22db664
 workflow-type: tm+mt
-source-wordcount: '179'
-ht-degree: 2%
+source-wordcount: '235'
+ht-degree: 1%
 
 ---
 
@@ -213,8 +213,52 @@ Kom igång med att skapa fantastiska verk som sticker ut med generativ AI från 
 <table style="table-layout:fixed">
 <tr>
    <td>
+         <a href="remove-background.md">
+            <img alt="Ta bort bakgrunden från en bild" src="assets/background.png" />
+         </a>
+   </td>
+   <td>
+         <a href="intro-gen-ai.md">
+            <img alt="Vilka är de nya Gen AI-funktionerna i Adobe Express" src="assets/intro-gen-ai.png" />
+         </a>
+   </td>
+   <td>
+         <a href="object-eraser.md">
+            <img alt="Använda verktyget Objektsuddgummi" src="assets/object-eraser.png" />
+         </a>
+   </td>
+   <td>
+         <a href="generative-fill.md">
+            <img alt="Använda generativ fyllning" src="assets/gen-fill.png" />
+         </a>
+   </td>      
+</tr>
+<tr>
+   <td>
+      <a href="gen-text.md">
+         <img alt="Förbättra din textdesign med Gen AI" src="assets/text-design.png" />
+      </a>
+   </td>
+   <td>
+      <a href="text-to-template.md">
+         <img alt="Så här använder du Text till mall Gen AI" src="assets/text-to-template.png" />
+      </a>
+   </td>
+   <td>
+      <a href="bulk-translate.md">
+         <img alt="Översätta ditt innehåll gruppvis" src="assets/bulk-translate.png" />
+      </a>
+   </td>
+   <td>
+      <a href="edit-a-pdf.md">
+         <img alt="Så här redigerar du en PDF" src="assets/edit-pdf.png" />
+      </a>
+   </td>
+</tr>
+<tr>
+   <td>
       <a href="schedule.md">
-         <img alt="Schemalägg sociala inlägg" src="assets/schedule.png" />
+         <img alt="Så använder du schemaläggaren för publicering" src="assets/schedule.png" />
       </a>
    </td>
    <td>
@@ -244,15 +288,15 @@ Kom igång med att skapa fantastiska verk som sticker ut med generativ AI från 
          <img alt="Integrering med Google Drive" src="assets/google-drive.png" />
       </a>
   </td>
-   <td>
-         <a href="remove-background.md">
-            <img alt="Ta bort bakgrund" src="assets/background.png" />
-         </a>
-   </td>
   <td>
          <a href="create-curved-text.md">
             <img alt="Skapa krökt text" src="assets/curved-text.png" />
          </a>
    </td>
+   <td>
+    <img alt="Avgränsare" src="../assets/Gray_thumbnail.png" />
+    <div>
+    <br>
+  </td>
 </tr>
 </table>
