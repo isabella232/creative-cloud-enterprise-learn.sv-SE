@@ -6,9 +6,9 @@ role: User
 level: Beginner
 jira: KT-13994
 exl-id: f2cc51b1-b0be-4ca7-9723-92d851250463
-source-git-commit: d1f45cf8f40f601e77ca752e0ac1d369e22db664
+source-git-commit: 2ede4e3a049d839baf82116c06714a8d516bc54b
 workflow-type: tm+mt
-source-wordcount: '235'
+source-wordcount: '236'
 ht-degree: 1%
 
 ---
@@ -44,7 +44,7 @@ Kom igång med att skapa fantastiska verk som sticker ut med generativ AI från 
 </tr>
 </table>
 
-## Grundläggande
+## Grundläggande uppgifter
 
 <table style="table-layout:fixed">
 <tr>
