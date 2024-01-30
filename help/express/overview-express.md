@@ -3,13 +3,13 @@ title: Adobe [!DNL Express] Översikt
 description: Kom igång snabbt på Adobe [!DNL Express]
 feature: Graphic Design, Image Editing, Integrations, Gen AI
 role: User
-level: Beginner
+level: Beginner, Intermediate
 jira: KT-13380
 exl-id: 3c144e1a-f823-4551-b705-aa9dbca548f2
-source-git-commit: ed42785a0c7eb7643951f9181b0cdca71b1c4467
+source-git-commit: 4f03535f48b3ae4dc2b19529c2d96135c5e257ec
 workflow-type: tm+mt
-source-wordcount: '72'
-ht-degree: 5%
+source-wordcount: '74'
+ht-degree: 8%
 
 ---
 
@@ -48,15 +48,15 @@ Designa rullar och videor, flygblad, cv:n, banners, logotyper och annat från Ti
 </tr>
 <tr>
   <td>
+      <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/overview-express-how-to.html#video">
+         <img alt="Videosjälvstudier" src="assets/video.png" />
+      </a>
+  </td>
+   <td>
       <a href="overview-express-use-case-tutorials.md">
          <img alt="Självstudiekurser i Adobe Express-användningsfall" src="assets/use-case-tutorials.png" />
       </a>
    </td>
-   <td>
-    <img alt="Avgränsare" src="../assets/Gray_thumbnail.png" />
-    <div>
-    <br>
-  </td>
   <td>
     <img alt="Avgränsare" src="../assets/Gray_thumbnail.png" />
     <div>

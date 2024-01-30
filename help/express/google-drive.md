@@ -3,9 +3,9 @@ title: Google Drive-integrering
 description: Lär dig hur du tar in bilder från Google Drive
 feature: Integrations
 role: User
-level: Beginner
-exl-id: ade00966-541b-4e41-a7a1-aa17466de4d4
-source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
+level: Intermediate
+exl-id: 953e49f1-4732-4d90-a052-b332a68f2643
+source-git-commit: dc50e8039fccc85c65fbb6d436ce18f5d90b91f7
 workflow-type: tm+mt
 source-wordcount: '24'
 ht-degree: 0%

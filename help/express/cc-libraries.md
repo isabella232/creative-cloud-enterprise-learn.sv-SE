@@ -3,9 +3,9 @@ title: Använda CC Libraries
 description: Lär dig dela resurser i CC-bibliotek med ditt team
 feature: Integrations
 role: User
-level: Beginner
-exl-id: 5dc5037c-2aee-4e12-80ad-27252e1b1551
-source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
+level: Intermediate
+exl-id: 3facbfa1-14d2-4dd8-ba38-f53fdc7c7c57
+source-git-commit: dc50e8039fccc85c65fbb6d436ce18f5d90b91f7
 workflow-type: tm+mt
 source-wordcount: '26'
 ht-degree: 0%

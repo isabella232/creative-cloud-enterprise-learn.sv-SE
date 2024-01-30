@@ -3,9 +3,9 @@ title: Vilka är de nya Gen AI-funktionerna i Adobe Express?
 description: Läs om den nya generationen AI-funktioner i Adobe Express
 feature: Gen AI
 role: User
-level: Beginner
+level: Intermediate
 jira: KT-14844
-source-git-commit: d4290715dc87b65a96942a38d5ab96b76f82d52b
+source-git-commit: 4f03535f48b3ae4dc2b19529c2d96135c5e257ec
 workflow-type: tm+mt
 source-wordcount: '40'
 ht-degree: 0%

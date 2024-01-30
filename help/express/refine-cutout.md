@@ -3,9 +3,9 @@ title: Finjustera en utstansning
 description: Borttagen bakgrund är inte perfekt? Lär dig förfina dina utstansningar
 feature: Image Editing
 role: User
-level: Beginner
-exl-id: 4beec7df-89e1-43a5-b8cd-8932aeb2d879
-source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
+level: Intermediate
+exl-id: bf9e57a6-ec23-4357-bf35-c8d24276c939
+source-git-commit: 4f03535f48b3ae4dc2b19529c2d96135c5e257ec
 workflow-type: tm+mt
 source-wordcount: '26'
 ht-degree: 0%

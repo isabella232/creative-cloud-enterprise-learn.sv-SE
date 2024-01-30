@@ -8,9 +8,9 @@ feature: Graphic Design, Image Editing, Vector Editing, UI Design, Licensable As
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: e79a55515326070651e6f5180f5f557bc79673c4
+source-git-commit: dc50e8039fccc85c65fbb6d436ce18f5d90b91f7
 workflow-type: tm+mt
-source-wordcount: '689'
+source-wordcount: '712'
 ht-degree: 4%
 
 ---
@@ -81,6 +81,11 @@ ht-degree: 4%
       + [Integrering med Google Drive](express/google-drive.md)
       + [Finjustera en utstansning](express/refine-cutout.md)
       + [Skapa krökt text](express/create-curved-text.md)
+      + [Starta ett videoprojekt](express/start-video.md)
+      + [Lägga till videoklipp](express/add-video-clips.md)
+      + [Vad är en videotidslinje?](express/video-timeline.md)
+      + [Lägga till ljud](express/add-audio-video.md)
+      + [Exportera video](express/export-video.md)
    + Självstudiekurser om användningsfall {#expressusecase}
       + [Översikt](express/overview-express-use-case-tutorials.md)
       + [Skapa fängslande marknadsföringsmaterial](express/compelling-merchandise.md)

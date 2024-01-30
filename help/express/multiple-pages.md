@@ -3,9 +3,9 @@ title: Skapa flera sidor
 description: Lär dig hur du lägger till flera sidor i ett projekt
 feature: Graphic Design
 role: User
-level: Beginner
-exl-id: ae4151ea-6306-42c0-b885-6a970017f017
-source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
+level: Intermediate
+exl-id: 248ed0f4-383a-4e08-9854-37a8e2cad878
+source-git-commit: dc50e8039fccc85c65fbb6d436ce18f5d90b91f7
 workflow-type: tm+mt
 source-wordcount: '24'
 ht-degree: 0%
