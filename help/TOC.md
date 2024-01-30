@@ -8,9 +8,9 @@ feature: Graphic Design, Image Editing, Vector Editing, UI Design, Licensable As
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: dc50e8039fccc85c65fbb6d436ce18f5d90b91f7
+source-git-commit: f4226d6d483d807559f06c2971cdd7e111095078
 workflow-type: tm+mt
-source-wordcount: '712'
+source-wordcount: '716'
 ht-degree: 4%
 
 ---
@@ -84,6 +84,7 @@ ht-degree: 4%
       + [Starta ett videoprojekt](express/start-video.md)
       + [Lägga till videoklipp](express/add-video-clips.md)
       + [Vad är en videotidslinje?](express/video-timeline.md)
+      + [Arbeta med flera klipp](express/multiple-clips.md)
       + [Lägga till ljud](express/add-audio-video.md)
       + [Exportera video](express/export-video.md)
    + Självstudiekurser om användningsfall {#expressusecase}
