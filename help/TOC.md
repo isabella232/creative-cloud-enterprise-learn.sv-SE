@@ -8,9 +8,9 @@ feature: Graphic Design, Image Editing, Vector Editing, UI Design, Licensable As
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: f4226d6d483d807559f06c2971cdd7e111095078
+source-git-commit: 91329113e9dcca0f2ebdc8d6d998f4f0a2d2012d
 workflow-type: tm+mt
-source-wordcount: '716'
+source-wordcount: '730'
 ht-degree: 4%
 
 ---
@@ -74,7 +74,6 @@ ht-degree: 4%
       + [Översätta ditt innehåll gruppvis](express/bulk-translate.md)
       + [Så här redigerar du en PDF](express/edit-a-pdf.md)
       + [Så använder du schemaläggaren för publicering](express/schedule.md)
-      + [Skapa mallar](express/create-templates.md)
       + [Gruppera objekt](express/group-objects.md)
       + [Skapa flera sidor](express/multiple-pages.md)
       + [Använda CC Libraries](express/cc-libraries.md)
@@ -87,6 +86,10 @@ ht-degree: 4%
       + [Arbeta med flera klipp](express/multiple-clips.md)
       + [Lägga till ljud](express/add-audio-video.md)
       + [Exportera video](express/export-video.md)
+      + [Så här låser du lager och varför](express/lock-layers.md)
+      + [Skapa en mall](express/create-templates.md)
+      + [Spara och dela mallar](express/share-templates.md)
+      + [Använda mallar](express/use-templates.md)
    + Självstudiekurser om användningsfall {#expressusecase}
       + [Översikt](express/overview-express-use-case-tutorials.md)
       + [Skapa fängslande marknadsföringsmaterial](express/compelling-merchandise.md)

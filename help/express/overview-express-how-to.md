@@ -6,9 +6,9 @@ role: User
 level: Beginner, Intermediate
 jira: KT-13994
 exl-id: f2cc51b1-b0be-4ca7-9723-92d851250463
-source-git-commit: f4226d6d483d807559f06c2971cdd7e111095078
+source-git-commit: 3d3e0b0aa8884a86a59f2b89d21e64952cd0ab6c
 workflow-type: tm+mt
-source-wordcount: '268'
+source-wordcount: '284'
 ht-degree: 1%
 
 ---
@@ -262,11 +262,6 @@ Kom igång med att skapa fantastiska verk som sticker ut med generativ AI från 
       </a>
    </td>
    <td>
-   <a href="create-templates.md">
-      <img alt="Skapa mallar" src="assets/templates.png" />
-   </a>
-   </td>
-   <td>
          <a href="group-objects.md">
             <img alt="Gruppera objekt" src="assets/group-objects.png" />
          </a>
@@ -276,13 +271,13 @@ Kom igång med att skapa fantastiska verk som sticker ut med generativ AI från 
          <img alt="Skapa flera sidor" src="assets/multiple-pages.png" />
       </a>
   </td>
-</tr>
-<tr>
   <td>
       <a href="cc-libraries.md">
          <img alt="Använda CC Libraries" src="assets/cc-libraries.png" />
       </a>
   </td>
+</tr>
+<tr>
    <td>
       <a href="google-drive.md">
          <img alt="Integrering med Google Drive" src="assets/google-drive.png" />
@@ -297,6 +292,11 @@ Kom igång med att skapa fantastiska verk som sticker ut med generativ AI från 
          <a href="create-curved-text.md">
             <img alt="Skapa krökt text" src="assets/curved-text.png" />
          </a>
+   </td>
+   <td>
+    <img alt="Avgränsare" src="../assets/Gray_thumbnail.png" />
+    <div>
+    <br>
    </td>
 </tr>
 </table>
@@ -346,6 +346,33 @@ Kom igång med att skapa fantastiska verk som sticker ut med generativ AI från 
     <img alt="Avgränsare" src="../assets/Gray_thumbnail.png" />
     <div>
     <br>
+   </td>
+</tr>
+</table>
+
+## Mallar
+
+<table style="table-layout:fixed">
+<tr>
+   <td>
+         <a href="lock-layers.md">
+            <img alt="Så här låser du lager och varför" src="assets/lock-layers.png" />
+         </a>
+   </td>
+  <td>
+         <a href="create-templates.md">
+            <img alt="Skapa en mall" src="assets/create-template.png" />
+         </a>
+   </td>
+   <td>
+         <a href="share-templates.md">
+            <img alt="Spara och dela mallar" src="assets/share-templates.png" />
+         </a>
+   </td>
+   <td>
+         <a href="use-templates.md">
+            <img alt="Använda mallar" src="assets/use-templates.png" />
+         </a>
    </td>
 </tr>
 </table>
