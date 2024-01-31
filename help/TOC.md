@@ -8,9 +8,9 @@ feature: Graphic Design, Image Editing, Vector Editing, UI Design, Licensable As
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: 91329113e9dcca0f2ebdc8d6d998f4f0a2d2012d
+source-git-commit: b2ac01f2094dcf454ca322d14d0f3fe1340b530d
 workflow-type: tm+mt
-source-wordcount: '730'
+source-wordcount: '763'
 ht-degree: 4%
 
 ---
@@ -92,6 +92,12 @@ ht-degree: 4%
       + [Använda mallar](express/use-templates.md)
    + Självstudiekurser om användningsfall {#expressusecase}
       + [Översikt](express/overview-express-use-case-tutorials.md)
+      + [Skapa en kampanjbild för en onlinekurs](express/promo-visual.md)
+      + [Skapa en video i slutet av året](express/end-of-year-video.md)
+      + [Skapa ett nyhetsbrev](express/newsletter.md)
+      + [Skapa digitala skärmmeddelanden för kontoret](express/create-digital-screens.md)
+      + [Skapa bakgrunder för presentationer](express/create-backgrounds.md)
+      + [Uppdatera avrundningsbild för ekonomi](express/update-image.md)
       + [Skapa fängslande marknadsföringsmaterial](express/compelling-merchandise.md)
       + [Ge marknadsföringsteam möjlighet att skapa innehåll för flera kanaler](express/multi-channel-marketing-content.md)
       + [Ge distribuerade team möjlighet att lokalisera innehåll](express/localized-marketing-content.md)
