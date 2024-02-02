@@ -5,9 +5,9 @@ feature: Video Editing
 role: User
 level: Beginner
 jira: KT-14875
-source-git-commit: 79b9f6ba419663b707519aa6f62d0a265b8da38d
+source-git-commit: 38b45451db2c09b1e0080d370ef8002ad5fc914c
 workflow-type: tm+mt
-source-wordcount: '58'
+source-wordcount: '63'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,8 @@ ht-degree: 0%
 Lär dig hur du ställer in din videoupplösning, hämtar och delar videon direkt till sociala kanaler.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3427093?quality=12&learn=on&hidetitle=true)
+
+## Fler videor i den här serien
 
 <table style="table-layout:fixed">
 <tr>
