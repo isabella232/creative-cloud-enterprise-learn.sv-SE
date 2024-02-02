@@ -1,19 +1,19 @@
 ---
 title: Så här använder du versionshistoriken
-description: Lär dig visa en logg över de senaste versionerna av projektet
+description: Lär dig komma åt versionshistorik och visa och kopiera tidigare versioner av dina projekt
 feature: Graphic Design
 role: User
 level: Beginner
 jira: KT-14829
-source-git-commit: 1e0bf73f3f6aa0ea96cb15d26fb31ec1a48f2d79
+source-git-commit: 409e067ded1abd3bdf5b7bedc7616112b4589a60
 workflow-type: tm+mt
-source-wordcount: '34'
+source-wordcount: '56'
 ht-degree: 0%
 
 ---
 
 # Så här använder du versionshistoriken
 
-Lär dig visa en logg över de senaste versionerna av projektet.
+Lär dig komma åt versionshistorik och visa och kopiera tidigare versioner av dina projekt. Markera nyckelpunkter i utvecklingen för att enkelt gå tillbaka till specifika tider i projektets förlopp.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3426937?quality=12&learn=on&hidetitle=true)

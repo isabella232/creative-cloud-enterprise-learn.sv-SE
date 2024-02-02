@@ -1,19 +1,19 @@
 ---
 title: Lägga till ljud
-description: Lär dig spela in din egen röst eller lägga till royaltyfritt Adobe Stock-ljud i videor
+description: Lär dig skapa engagerande och minnesvärda projekt genom att lägga till ljud
 feature: Video Editing
 role: User
 level: Beginner
 jira: KT-14874
-source-git-commit: dc50e8039fccc85c65fbb6d436ce18f5d90b91f7
+source-git-commit: 409e067ded1abd3bdf5b7bedc7616112b4589a60
 workflow-type: tm+mt
-source-wordcount: '40'
+source-wordcount: '57'
 ht-degree: 0%
 
 ---
 
 # Lägga till ljud
 
-Lär dig spela in din egen röst eller lägga till royaltyfritt Adobe Stock-ljud i videor.
+Lär dig skapa engagerande och minnesvärda projekt genom att lägga till ljud. Du kan överföra egna ljudfiler eller välja bland royaltyfria ljud. Du kan också spela in röstpålägg och justera volymen för både ljud och röstpålägg.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3427092?quality=12&learn=on&hidetitle=true)

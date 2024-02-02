@@ -5,15 +5,15 @@ feature: Video Editing
 role: User
 level: Beginner
 jira: KT-14873
-source-git-commit: dc50e8039fccc85c65fbb6d436ce18f5d90b91f7
+source-git-commit: 409e067ded1abd3bdf5b7bedc7616112b4589a60
 workflow-type: tm+mt
-source-wordcount: '40'
+source-wordcount: '46'
 ht-degree: 0%
 
 ---
 
 # Arbeta med flera klipp
 
-Lär dig hur du skapar en ny scen i en video genom att lägga till klipp på tidslinjen.
+Lär dig hur du lägger till nya videoklipp på tidslinjen, justerar deras längd, lägger till övergångar och delar klipp för att skapa nya scener.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3427091?quality=12&learn=on&hidetitle=true)

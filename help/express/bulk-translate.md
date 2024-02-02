@@ -5,15 +5,19 @@ feature: Gen AI
 role: User
 level: Intermediate
 jira: KT-14851
-source-git-commit: 4f03535f48b3ae4dc2b19529c2d96135c5e257ec
+source-git-commit: 409e067ded1abd3bdf5b7bedc7616112b4589a60
 workflow-type: tm+mt
-source-wordcount: '52'
+source-wordcount: '67'
 ht-degree: 0%
 
 ---
 
 # Översätta ditt innehåll gruppvis
 
-Lär dig hur du eliminerar behovet av manuella översättningar och krånglet med externa översättningsverktyg genom att översätta texten i en- och flersidiga filer till ditt val av 46 språk.
+Lär dig skapa språkvariationer av dina projekt genom att automatiskt översätta innehållet till 46 olika språk. Du kan välja önskat språk, duplicera och översätta innehållet och behålla alla animeringar.
+
+>[!NOTE]
+>
+>Det är viktigt att kontrollera att översättningarna är korrekta innan du delar eller hämtar dem.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3427023?quality=12&learn=on&hidetitle=true)

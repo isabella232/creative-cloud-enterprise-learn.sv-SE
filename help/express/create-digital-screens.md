@@ -5,15 +5,15 @@ feature: Image Editing
 role: User
 level: Intermediate
 jira: KT-14893
-source-git-commit: b2ac01f2094dcf454ca322d14d0f3fe1340b530d
+source-git-commit: 409e067ded1abd3bdf5b7bedc7616112b4589a60
 workflow-type: tm+mt
-source-wordcount: '40'
+source-wordcount: '65'
 ht-degree: 0%
 
 ---
 
 # Skapa digitala skärmmeddelanden för kontoret
 
-Lär dig hur du använder text-till-mall med hjälp av Adobe Firefly för att skapa engagerande digitala skärmmeddelanden.
+Lär dig skapa engagerande digitala skärmmeddelanden för kontoret. Med hjälp av text-till-mall, som drivs av Adobe Firefly, kan du generera en anpassad bild med utrymme för textkopia. Generativ fyllning och animeringar läggs till för att göra meddelandet mer tilltalande.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3427119?quality=12&learn=on&hidetitle=true)
