@@ -5,7 +5,7 @@ feature: Graphic Design
 role: User
 level: Beginner
 jira: KT-14828
-source-git-commit: a21ff3b9340b44320272e6e66248d9589655ae2b
+source-git-commit: d7b0469735ceb9259f585bacb524a231a34de880
 workflow-type: tm+mt
 source-wordcount: '122'
 ht-degree: 0%
@@ -22,7 +22,7 @@ Lär dig alternativen för att hämta och dela projekt i olika filformat som PNG
 
 <table style="table-layout:fixed">
 <tr>
- <td>
+   <td>
       <a href="brand.md">
          <img alt="Konfigurera ett varumärkeskit" src="assets/brand.png" />
       </a>
@@ -36,12 +36,12 @@ Lär dig alternativen för att hämta och dela projekt i olika filformat som PNG
       <a href="workspace.md">
          <img alt="Användarupplevelse för ett projekt" src="assets/workspace.png" />
       </a>
-  </td>
-  <td>
+   </td>
+   <td>
       <a href="text-effects.md">
          <img alt="Lägga till text" src="assets/text-effects.png" />
       </a>
-  </td>
+   </td>
 </tr>
 <tr>
    <td>
@@ -76,7 +76,6 @@ Lär dig alternativen för att hämta och dela projekt i olika filformat som PNG
       <img alt="Så här samarbetar du" src="assets/collaborate.png" />
    </a>
    </td>
-   <td>
    <td>
    <a href="version-history.md">
       <img alt="Så här använder du versionshistoriken" src="assets/version-history.png" />
