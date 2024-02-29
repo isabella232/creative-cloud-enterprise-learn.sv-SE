@@ -1,20 +1,21 @@
 ---
 title: Texteffekter
-description: Lär dig hur du använder texteffekter med teknik från Adobe Firefly
+description: Lär dig skapa unik och inspirerande text till dina projekt med enkla textförslag
 feature: Graphic Design, Gen AI
 role: User
 level: Beginner
 jira: KT-13526
-source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
+exl-id: e3d55ec7-e7f5-44dd-a633-09e64ec23b60
+source-git-commit: eb56f9ef10efa4155a6c96928048baaa966a5f92
 workflow-type: tm+mt
-source-wordcount: '42'
-ht-degree: 4%
+source-wordcount: '54'
+ht-degree: 1%
 
 ---
 
 # Texteffekter
 
-Lär dig hur du använder texteffekter med Adobe Firefly-teknik för att skapa unika och inspirerande titelbilder till ett nyhetsbrev. Gå med i Adobe Firefly (beta) [här](https://firefly.adobe.com/).
+Lär dig skapa unik och inspirerande text till dina projekt med enkla textförslag. Med texteffekter kan du öka kreativiteten och skapa text utöver det vanliga i dina projekt. Prova Adobe Firefly [här](https://firefly.adobe.com/).
 
 <br> 
 

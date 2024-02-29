@@ -8,9 +8,9 @@ feature: Graphic Design, Image Editing, Vector Editing, UI Design, Licensable As
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: b2ac01f2094dcf454ca322d14d0f3fe1340b530d
+source-git-commit: eb56f9ef10efa4155a6c96928048baaa966a5f92
 workflow-type: tm+mt
-source-wordcount: '763'
+source-wordcount: '776'
 ht-degree: 4%
 
 ---
@@ -110,11 +110,17 @@ ht-degree: 4%
 + [!DNL Adobe Firefly] {#fireflyoverview}
    + [Översikt](firefly/overview-firefly.md)
    + Tutorials {#firefly-tutorials}
-      + [Översikt över Adobe Firefly](firefly/overview-of-firefly.md)
+      + [Översikt över [!DNL Adobe Firefly]](firefly/overview-of-firefly.md)
+      + [Upptäck [!DNL Adobe Firefly]](firefly/discover.md)
+      + [Landningssida](firefly/landing-page.md)
+      + [Text till bild](firefly/text-to-image.md)
+      + [Texteffekter](firefly/text-effects.md)
+      + [Generativ fyllning](firefly/gen-fill.md)
+      + [Generativ omfärgning](firefly/gen-recolor.md)
+      + [Exempel på hur du använder [!DNL Firefly]](firefly/examples.md)
       + [Aktivera kreativ effektivitet](firefly/enable-creative-efficiency.md)
       + [Banderollannons variationer i [!DNL Photoshop]](firefly/web-banner-ad.md)
       + [Generativ ifyllning [!DNL Photoshop]](firefly/generative-fill.md)
-      + [Texteffekter](firefly/text-effects.md)
       + [Generativ omfärgning i [!DNL Illustrator]](firefly/generative-recolor.md)
    + Webbinarier {#firefly-webinars}
       + [Experimentera med Adobe Firefly](firefly/webinar-experimenting.md)
