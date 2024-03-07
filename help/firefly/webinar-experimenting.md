@@ -1,21 +1,21 @@
 ---
 title: Experimentera med betaversionen av Firefly
-description: Följ med Howard Pinsky när han dyker in i betaversionen av Firefly
+description: Följ med Howard Pinsky när han dyker ner i Firefly
 feature: Image Editing, Gen AI
 role: User
 level: Beginner
 jira: KT-13427
-exl-id: e75836e5-206a-4fe1-807e-0ab973ea62ea
-source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
+exl-id: ede87fb6-3a34-40e5-b29c-92f626452ccf
+source-git-commit: 3dd3f81266103593478531c789beda40ceb38b90
 workflow-type: tm+mt
-source-wordcount: '33'
+source-wordcount: '29'
 ht-degree: 0%
 
 ---
 
 # Experimentera med betaversionen av Firefly
 
-Följ med Howard Pinsky i detta webbinarium när han dyker in i betaversionen av Firefly.
+Följ med Howard Pinsky på detta webbinarium när han dyker ner i Firefly.
 
 <br> 
 
