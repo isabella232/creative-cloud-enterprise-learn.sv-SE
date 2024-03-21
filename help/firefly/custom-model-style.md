@@ -5,7 +5,7 @@ feature: Graphic Design, Gen AI
 role: User
 level: Beginner
 jira: KT-15203
-source-git-commit: c420b9d1d939614a36c269c98b943e6a174cc21d
+source-git-commit: 66ec2af44859e17b6fdc4ab487227be23b46011d
 workflow-type: tm+mt
 source-wordcount: '72'
 ht-degree: 1%
@@ -18,4 +18,4 @@ Lär dig skapa egna modeller i Firefly för att skapa nya fräscha bilder till d
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/3428003quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3428003?quality=12&learn=on&hidetitle=true)
